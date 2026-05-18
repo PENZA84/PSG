@@ -98,6 +98,8 @@
         "🇽🇽 XX | VLESS | @customizev2ray #4",
         "🇽🇽 XX | VLESS | @customizev2ray #5",
         "🇽🇽 XX | VLESS | @customizev2ray #6",
+        "🇽🇽 XX | VLESS | @dailyv2ray #1",
+        "🇽🇽 XX | VLESS | @dailyv2ray #2",
         "🇽🇽 XX | VLESS | @diamondproxytm #1",
         "🇽🇽 XX | VLESS | @diamondproxytm #2",
         "🇽🇽 XX | VLESS | @eliteproxyv2 #1",
@@ -258,6 +260,7 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #6",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
         "🇽🇽 XX | VLESS | @v2ray_free_conf #1",
+        "🇽🇽 XX | VLESS | @v2ray_free_conf #2",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇽🇽 XX | VLESS | @v2rayng3 #1",
@@ -319,6 +322,8 @@
         "🇽🇽 XX | VLESS | @customizev2ray #4",
         "🇽🇽 XX | VLESS | @customizev2ray #5",
         "🇽🇽 XX | VLESS | @customizev2ray #6",
+        "🇽🇽 XX | VLESS | @dailyv2ray #1",
+        "🇽🇽 XX | VLESS | @dailyv2ray #2",
         "🇽🇽 XX | VLESS | @diamondproxytm #1",
         "🇽🇽 XX | VLESS | @diamondproxytm #2",
         "🇽🇽 XX | VLESS | @eliteproxyv2 #1",
@@ -479,6 +484,7 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #6",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
         "🇽🇽 XX | VLESS | @v2ray_free_conf #1",
+        "🇽🇽 XX | VLESS | @v2ray_free_conf #2",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇽🇽 XX | VLESS | @v2rayng3 #1",
@@ -613,6 +619,22 @@
       "server": "188.114.98.224",
       "server_port": 2095,
       "uuid": "4b3a956b-94a8-496e-af7d-363a5dfef937",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇽🇽 XX | VLESS | @dailyv2ray #1",
+      "type": "vless",
+      "server": "104.17.187.102",
+      "server_port": 2096,
+      "uuid": "7ce27a4e-10a6-459b-fd47-d078df5f22fe",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇽🇽 XX | VLESS | @dailyv2ray #2",
+      "type": "vless",
+      "server": "mci.ircf.space",
+      "server_port": 2096,
+      "uuid": "7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a",
       "packet_encoding": "xudp"
     },
     {
@@ -2629,19 +2651,18 @@
     {
       "tag": "🇽🇽 XX | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "ip-data.turkserver.ir",
-      "server_port": 2087,
-      "uuid": "1ea92475-4ea3-48b5-a307-d9fa6e9a11e1",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
+      "server": "104.18.12.149",
+      "server_port": 2052,
+      "uuid": "2271c50f-ac7a-4d7f-8b04-64085b0daa56",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇽🇽 XX | VLESS | @v2ray_free_conf #2",
+      "type": "vless",
+      "server": "104.21.55.47",
+      "server_port": 2095,
+      "uuid": "d5880da4-750c-4bdf-807f-0f6d5888f0f3",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇽🇽 XX | VLESS | @v2raybe #1",

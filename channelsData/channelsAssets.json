@@ -122,7 +122,10 @@
     "dailyv2ray": {
         "title": "سرور رایگان V2RAY",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/dailyv2ray.jpg",
-        "types": []
+        "types": [
+            "vless",
+            "vmess"
+        ]
     },
     "dargiiriis": {
         "title": "📡 Dargiri Net",
@@ -1278,8 +1281,7 @@
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg",
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ]
     },
     "v2ray_iran88": {
