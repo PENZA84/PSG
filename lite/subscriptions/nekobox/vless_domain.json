@@ -115,7 +115,7 @@
         "🇽🇽 XX | VLESS | @lockey_vpn #1",
         "🇽🇽 XX | VLESS | @lockey_vpn #2",
         "🇽🇽 XX | VLESS | @manstervpn #1",
-        "🇩🇪 DE | VLESS | @mpproxy #1",
+        "🇸🇨 SC | VLESS | @mpproxy #1",
         "🇽🇽 XX | VLESS | @mt_proxy #2",
         "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
         "🇽🇽 XX | VLESS | @orange_vpns #1",
@@ -133,14 +133,13 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #1",
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #2",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
         "🇽🇽 XX | VLESS | @v2rayng3 #1",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
-        "🇩🇪 DE | VLESS | @v2rayngconfiig #1",
+        "🇺🇸 US | VLESS | @v2rayngconfiig #2",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #2",
         "🇽🇽 XX | VLESS | @v2rayy_vpn13 #1",
@@ -204,7 +203,7 @@
         "🇽🇽 XX | VLESS | @lockey_vpn #1",
         "🇽🇽 XX | VLESS | @lockey_vpn #2",
         "🇽🇽 XX | VLESS | @manstervpn #1",
-        "🇩🇪 DE | VLESS | @mpproxy #1",
+        "🇸🇨 SC | VLESS | @mpproxy #1",
         "🇽🇽 XX | VLESS | @mt_proxy #2",
         "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
         "🇽🇽 XX | VLESS | @orange_vpns #1",
@@ -222,14 +221,13 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #1",
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #2",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
         "🇽🇽 XX | VLESS | @v2rayng3 #1",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
-        "🇩🇪 DE | VLESS | @v2rayngconfiig #1",
+        "🇺🇸 US | VLESS | @v2rayngconfiig #2",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #2",
         "🇽🇽 XX | VLESS | @v2rayy_vpn13 #1",
@@ -435,7 +433,7 @@
       "type": "vless",
       "server": "anten.ir",
       "server_port": 2052,
-      "uuid": "98e2a7aa-2f22-4829-893a-7c8f7e8ba8ce",
+      "uuid": "8ca468e9-82e2-422d-ac23-25029eb41664",
       "packet_encoding": "xudp"
     },
     {
@@ -724,7 +722,7 @@
       }
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @mpproxy #1",
+      "tag": "🇸🇨 SC | VLESS | @mpproxy #1",
       "type": "vless",
       "server": "srv1.khatibirepair.ir",
       "server_port": 443,
@@ -913,19 +911,11 @@
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
+      "tag": "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "ikco.ir",
-      "server_port": 8880,
-      "uuid": "a3eff26d-dc73-49a7-8c55-5136f34febb6",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
-      "type": "vless",
-      "server": "salamirani.hamid.radv.ir",
+      "server": "ov-germany1.09vpn.com",
       "server_port": 80,
-      "uuid": "c3742272-63a3-1e74-c368-cca925139952",
+      "uuid": "7d74eae4-8a06-4306-a923-ad686f30bf26",
       "packet_encoding": "xudp"
     },
     {
@@ -978,7 +968,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @v2rayngconfiig #1",
+      "tag": "🇺🇸 US | VLESS | @v2rayngconfiig #2",
       "type": "vless",
       "server": "test.fast.hosting-ip.com",
       "server_port": 80,

@@ -85,6 +85,7 @@
         "🇺🇸 US | VLESS | @deli_servers #1",
         "🇺🇸 US | VLESS | @easy_free_vpn #1",
         "🇺🇸 US | VLESS | @filterk0sh #1",
+        "🇺🇸 US | VLESS | @free4allvpn #1",
         "🇺🇸 US | VMESS | @freev2rays #1",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇺🇸 US | VLESS | @iranvipnet #1",
@@ -114,6 +115,7 @@
         "🇺🇸 US | VLESS | @v2ray_collector #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #2",
+        "🇺🇸 US | VLESS | @v2rayngconfiig #3",
         "🇺🇸 US | VLESS | @v2raytg #1",
         "🇺🇸 US | VLESS | @v2raytg #2",
         "🇺🇸 US | VLESS | @vboxpanel #1",
@@ -137,6 +139,7 @@
         "🇺🇸 US | VLESS | @deli_servers #1",
         "🇺🇸 US | VLESS | @easy_free_vpn #1",
         "🇺🇸 US | VLESS | @filterk0sh #1",
+        "🇺🇸 US | VLESS | @free4allvpn #1",
         "🇺🇸 US | VMESS | @freev2rays #1",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇺🇸 US | VLESS | @iranvipnet #1",
@@ -166,6 +169,7 @@
         "🇺🇸 US | VLESS | @v2ray_collector #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #2",
+        "🇺🇸 US | VLESS | @v2rayngconfiig #3",
         "🇺🇸 US | VLESS | @v2raytg #1",
         "🇺🇸 US | VLESS | @v2raytg #2",
         "🇺🇸 US | VLESS | @vboxpanel #1",
@@ -266,6 +270,14 @@
       "server": "192.0.54.32",
       "server_port": 2096,
       "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @free4allvpn #1",
+      "type": "vless",
+      "server": "151.101.25.242",
+      "server_port": 80,
+      "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
       "packet_encoding": "xudp"
     },
     {
@@ -668,6 +680,14 @@
     },
     {
       "tag": "🇺🇸 US | VLESS | @v2rayngconfiig #2",
+      "type": "vless",
+      "server": "test.fast.hosting-ip.com",
+      "server_port": 80,
+      "uuid": "TELEGRAM-CONFiGLiNE-29",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @v2rayngconfiig #3",
       "type": "vless",
       "server": "fastly1.hamrahflow.ir",
       "server_port": 443,

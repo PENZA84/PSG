@@ -112,7 +112,6 @@
         "🇮🇷 IR | VLESS | @vmesskhodam #3",
         "🇮🇷 IR | VLESS | @vmesskhodam #4",
         "🇮🇷 IR | VLESS | @vmesskhodam #5",
-        "🇮🇷 IR | VLESS | @vmesskhodam #6",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1"
@@ -158,7 +157,6 @@
         "🇮🇷 IR | VLESS | @vmesskhodam #3",
         "🇮🇷 IR | VLESS | @vmesskhodam #4",
         "🇮🇷 IR | VLESS | @vmesskhodam #5",
-        "🇮🇷 IR | VLESS | @vmesskhodam #6",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1"
@@ -236,7 +234,7 @@
       "type": "vless",
       "server": "anten.ir",
       "server_port": 2052,
-      "uuid": "98e2a7aa-2f22-4829-893a-7c8f7e8ba8ce",
+      "uuid": "8ca468e9-82e2-422d-ac23-25029eb41664",
       "packet_encoding": "xudp"
     },
     {
@@ -349,33 +347,33 @@
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "ikco.ir",
-      "server_port": 8880,
-      "uuid": "a3eff26d-dc73-49a7-8c55-5136f34febb6",
+      "server": "185.143.233.120",
+      "server_port": 80,
+      "uuid": "99a0444b-2869-4106-85dc-96a059e086a6",
       "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
       "type": "vless",
-      "server": "salamirani.hamid.radv.ir",
-      "server_port": 80,
-      "uuid": "c3742272-63a3-1e74-c368-cca925139952",
+      "server": "185.143.233.5",
+      "server_port": 8443,
+      "uuid": "f8b0ddb6-c48d-4ef5-9b08-3a4f58e0226f",
       "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #3",
       "type": "vless",
-      "server": "anten.ir",
-      "server_port": 80,
-      "uuid": "bc2328a3-0eb8-4563-af6a-37e46773c290",
+      "server": "185.143.233.5",
+      "server_port": 8443,
+      "uuid": "3baa9591-5c91-4f61-8b43-612ad904781c",
       "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #4",
       "type": "vless",
-      "server": "ww.boldtest.ir",
-      "server_port": 8880,
-      "uuid": "1b08917a-dd18-4199-83f7-acbcd36c0095",
+      "server": "snapp.ir",
+      "server_port": 2086,
+      "uuid": "73fdbb7f-f3d6-49ea-9d68-e7b64e6d6ce0",
       "packet_encoding": "xudp"
     },
     {
@@ -498,14 +496,6 @@
       "server": "arvancloud.ir",
       "server_port": 2095,
       "uuid": "0b75e1b3-31ae-44fb-ab4b-bc1b98ea1358",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #6",
-      "type": "vless",
-      "server": "arvancloud.ir",
-      "server_port": 2095,
-      "uuid": "1d1816e5-7192-435b-a4fc-975cbd3ba8ea",
       "packet_encoding": "xudp"
     },
     {
