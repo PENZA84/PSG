@@ -153,8 +153,9 @@
         "🇺🇸 US | VLESS | @vboxpanel #2",
         "🇽🇽 XX | VLESS | @vipnetmeli #1",
         "🇽🇽 XX | VLESS | @vipnetmeli #2",
-        "🇮🇷 IR | VLESS | @vmesskhodam #1",
+        "🇮🇷 IR | VLESS | @vmesskhodam #2",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
+        "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1",
         "🇽🇽 XX | VLESS | @vpnowl #1",
         "🇽🇽 XX | VLESS | @vpnv2raytop #1",
@@ -242,8 +243,9 @@
         "🇺🇸 US | VLESS | @vboxpanel #2",
         "🇽🇽 XX | VLESS | @vipnetmeli #1",
         "🇽🇽 XX | VLESS | @vipnetmeli #2",
-        "🇮🇷 IR | VLESS | @vmesskhodam #1",
+        "🇮🇷 IR | VLESS | @vmesskhodam #2",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
+        "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1",
         "🇽🇽 XX | VLESS | @vpnowl #1",
         "🇽🇽 XX | VLESS | @vpnv2raytop #1",
@@ -946,9 +948,9 @@
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "rfral.aghanami.ir",
+      "server": "arira.mnet37255.ir",
       "server_port": 80,
-      "uuid": "172ce10b-eeb6-46c1-8787-4e7d75c7e627",
+      "uuid": "03ba3bff-034a-4d17-bce0-810410894310",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
@@ -961,10 +963,19 @@
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
       "type": "vless",
-      "server": "fr.it-net.top",
-      "server_port": 80,
-      "uuid": "97fdc613-af07-40ef-bfde-7052d1c90c61",
-      "packet_encoding": "xudp"
+      "server": "varzesh3.com",
+      "server_port": 443,
+      "uuid": "c387b0f2-5d9e-4c95-882d-1d5eeb443ce2",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "🇽🇽 XX | VLESS | @v2raybe #1",
@@ -1157,15 +1168,23 @@
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #1",
+      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #2",
       "type": "vless",
-      "server": "snappfood.ir",
+      "server": "emergency-nightgemshop.lezzasevio.ir",
       "server_port": 80,
-      "uuid": "c09816d1-9b53-4e0d-85a8-9def477121ab",
+      "uuid": "ad872882-f490-4dd0-8fd2-1bd8db14ad78",
       "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @vpnfree85 #1",
+      "type": "vless",
+      "server": "snapp.ir",
+      "server_port": 8080,
+      "uuid": "cd54d877-9eee-4a50-8776-93a582ef8b88",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @vpnfree85 #2",
       "type": "vless",
       "server": "s4.tehranionliine.ir",
       "server_port": 80,
