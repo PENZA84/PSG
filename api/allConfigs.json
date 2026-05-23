@@ -13,18 +13,6 @@
     },
     {
         "channel": {
-            "username": "Fr33C0nfig",
-            "title": "اینترنت آزاد 🕊️✌🏻",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/Fr33C0nfig.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://8135074a-49d9-46da-b79d-b58d2b9dcb6a@185.143.233.235:80?type=ws&amp%3Bencryption=none&amp%3Bpath=/ytugihaowlndawobd&amp%3Bhost=blitbegir.ir&amp%3Bsecurity=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40Fr33C0nfig%20%231",
-        "is_cf": false
-    },
-    {
-        "channel": {
             "username": "NamiraConfigs",
             "title": "NamiraNet",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraConfigs.jpg"
@@ -560,7 +548,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://98e2a7aa-2f22-4829-893a-7c8f7e8ba8ce@anten.ir:2052?path=/cdn&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=i.asaasa.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40father_vpn%20%231",
+        "config": "vless://8ca468e9-82e2-422d-ac23-25029eb41664@anten.ir:2052?path=/cdn&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=i.asaasa.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40father_vpn%20%231",
         "is_cf": false
     },
     {
@@ -572,19 +560,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://8ca468e9-82e2-422d-ac23-25029eb41664@anten.ir:2052?path=/cdn&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=i.asaasa.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40father_vpn%20%232",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "father_vpn",
-            "title": "Father vpn | Proxy | V2rayNg",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/father_vpn.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://482e8925-e7e5-46b8-9e9e-f759b872c2e6@snappfood.ir:2052?path=/ws&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=cdnisfucka.drnimaamini.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40father_vpn%20%233",
+        "config": "vless://482e8925-e7e5-46b8-9e9e-f759b872c2e6@snappfood.ir:2052?path=/ws&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=cdnisfucka.drnimaamini.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40father_vpn%20%232",
         "is_cf": false
     },
     {
@@ -881,18 +857,6 @@
             "title": "免费最新v2ray,ssr,vmess节点使用🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
             "logo": ""
         },
-        "country": "DE",
-        "flag": "🇩🇪",
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCBWTUVTUyB8IEBmcmVldjJyYXlzICMxIiwiYWRkIjoidTguaHV2aWNsb3VkLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI2Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InU4Lmh1dmljbG91ZC5jb20iLCJwYXRoIjoiLzY3OTY2MTFiLTI2MGUtNGQ2My05MDE2LTIwYzI3YjEyZTQyMCIsImhvc3QiOiJ1OC5odXZpY2xvdWQuY29tIn0=",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "freev2rays",
-            "title": "免费最新v2ray,ssr,vmess节点使用🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
-            "logo": ""
-        },
         "country": "HK",
         "flag": "🇭🇰",
         "type": "vmess",
@@ -1042,18 +1006,6 @@
         "type": "vless",
         "config": "vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=/Telegram-%40Azarakhsh_Proxy/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=5c53ca21.vpn-aryoo.pages.dev&amp%3Btype=ws&amp%3Bsni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40gervpn%20%231",
         "is_cf": true
-    },
-    {
-        "channel": {
-            "username": "ghalagyann",
-            "title": "ghalagyann",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ghalagyann.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://08e9546b-2232-4fc9-8975-6281961d9cb1@rfral.aghanami.ir:80?type=ws&amp%3Bencryption=none&amp%3Bpath=/&amp%3Bsecurity=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40ghalagyann%20%231",
-        "is_cf": false
     },
     {
         "channel": {
@@ -3353,10 +3305,10 @@
             "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
         },
-        "country": "DE",
-        "flag": "🇩🇪",
+        "country": "SC",
+        "flag": "🇸🇨",
         "type": "vless",
-        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?path=/%3Fed&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%231",
+        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?path=/%3Fed&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%231",
         "is_cf": false
     },
     {
@@ -3389,10 +3341,22 @@
             "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
         },
-        "country": "DE",
-        "flag": "🇩🇪",
+        "country": "SC",
+        "flag": "🇸🇨",
         "type": "vless",
-        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:2053?allowInsecure=1&amp%3Bencryption=none&amp%3Bhost=sni.111000.indevs.in&amp%3Bpath=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.indevs.in&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%232",
+        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:2053?allowInsecure=1&amp%3Bencryption=none&amp%3Bhost=sni.111000.indevs.in&amp%3Bpath=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.indevs.in&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%232",
+        "is_cf": false
+    },
+    {
+        "channel": {
+            "username": "mpproxy",
+            "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
+        },
+        "country": "SC",
+        "flag": "🇸🇨",
+        "type": "vless",
+        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%233",
         "is_cf": false
     },
     {
@@ -3404,7 +3368,7 @@
         "country": "DE",
         "flag": "🇩🇪",
         "type": "vless",
-        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%233",
+        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?allowInsecure=1&amp%3Bencryption=none&amp%3Bhost=sni.111000.v6.navy&amp%3Bpath=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.v6.navy&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%231",
         "is_cf": false
     },
     {
@@ -3416,7 +3380,7 @@
         "country": "DE",
         "flag": "🇩🇪",
         "type": "vless",
-        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:443?allowInsecure=1&amp%3Bencryption=none&amp%3Bhost=sni.111000.v6.navy&amp%3Bpath=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.v6.navy&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%234",
+        "config": "vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?security=tls&amp%3Bfp=chrome&amp%3Bsni=sub.mot.ip-ddns.com&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bhost=sub.mot.ip-ddns.com&amp%3Bpath=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%232",
         "is_cf": false
     },
     {
@@ -3428,19 +3392,7 @@
         "country": "DE",
         "flag": "🇩🇪",
         "type": "vless",
-        "config": "vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?security=tls&amp%3Bfp=chrome&amp%3Bsni=sub.mot.ip-ddns.com&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bhost=sub.mot.ip-ddns.com&amp%3Bpath=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%235",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "mpproxy",
-            "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
-        },
-        "country": "DE",
-        "flag": "🇩🇪",
-        "type": "vless",
-        "config": "vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&amp%3Bhost=sub.mot.ip-ddns.com&amp%3Bpath=/&amp%3Bsecurity=tls&amp%3Bsni=sub.mot.ip-ddns.com&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%236",
+        "config": "vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&amp%3Bhost=sub.mot.ip-ddns.com&amp%3Bpath=/&amp%3Bsecurity=tls&amp%3Bsni=sub.mot.ip-ddns.com&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%233",
         "is_cf": false
     },
     {
@@ -3473,10 +3425,10 @@
             "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
         },
-        "country": "DE",
-        "flag": "🇩🇪",
+        "country": "SC",
+        "flag": "🇸🇨",
         "type": "vless",
-        "config": "vless://c29d39bd-92a4-45db-bb61-56013998617c@srv1.khatibirepair.ir:80?encryption=none&amp%3Bhost=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&amp%3Bpath=/Telegram-XV2ry2&amp%3Bsecurity=none&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%237",
+        "config": "vless://c29d39bd-92a4-45db-bb61-56013998617c@srv1.khatibirepair.ir:80?encryption=none&amp%3Bhost=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&amp%3Bpath=/Telegram-XV2ry2&amp%3Bsecurity=none&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%234",
         "is_cf": false
     },
     {
@@ -3485,10 +3437,10 @@
             "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
         },
-        "country": "DE",
-        "flag": "🇩🇪",
+        "country": "SC",
+        "flag": "🇸🇨",
         "type": "vless",
-        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:2096?path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=sni.jpmj.dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=sni.jpmj.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%238",
+        "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:2096?path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=sni.jpmj.dev&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=sni.jpmj.dev#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%235",
         "is_cf": false
     },
     {
@@ -3500,7 +3452,7 @@
         "country": "SC",
         "flag": "🇸🇨",
         "type": "reality",
-        "config": "vless://8de7627c-1995-41f7-93e6-7fd9715514a2@srv1.khatibirepair.ir:443?encryption=none&amp%3Bfp=chrome&amp%3Bpbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&amp%3Bsecurity=reality&amp%3Bsid=c2&amp%3Bsni=www.google.com&amp%3Btype=tcp#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%231",
+        "config": "vless://8de7627c-1995-41f7-93e6-7fd9715514a2@srv1.khatibirepair.ir:443?encryption=none&amp%3Bfp=chrome&amp%3Bpbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&amp%3Bsecurity=reality&amp%3Bsid=c2&amp%3Bsni=www.google.com&amp%3Btype=tcp#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%236",
         "is_cf": false
     },
     {
@@ -3509,10 +3461,10 @@
             "title": "‹ MP Proxy ›---‹ کانفیگ پروکسی رایگان ›",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mpproxy.jpg"
         },
-        "country": "SC",
-        "flag": "🇸🇨",
+        "country": "DE",
+        "flag": "🇩🇪",
         "type": "vless",
-        "config": "vless://73d17f62-d0c0-4c90-903c-a2b3f3806cca@srv1.khatibirepair.ir:80?encryption=none&amp%3Bhost=fragrant-tooth-a5b7.cajeba6448.workers.dev&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40mpproxy%20%232",
+        "config": "vless://73d17f62-d0c0-4c90-903c-a2b3f3806cca@srv1.khatibirepair.ir:80?encryption=none&amp%3Bhost=fragrant-tooth-a5b7.cajeba6448.workers.dev&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Btype=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%234",
         "is_cf": false
     },
     {
@@ -4333,6 +4285,18 @@
     },
     {
         "channel": {
+            "username": "privatevpns",
+            "title": "V2ray | Vmess | Trojan | Vless",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg"
+        },
+        "country": "DE",
+        "flag": "🇩🇪",
+        "type": "trojan",
+        "config": "trojan://telegram-id-privatevpns@63.179.19.192:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231",
+        "is_cf": false
+    },
+    {
+        "channel": {
             "username": "pro_chaneel",
             "title": "pro-chanel",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/pro_chaneel.jpg"
@@ -4628,7 +4592,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=/vless-ws&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=trex.docos.tech&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=trex.docos.tech#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231",
+        "config": "vless://81afcf8f-b7dd-43b2-b734-c983bf3cb930@snapp.ir:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=vip.singbox2.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231",
         "is_cf": false
     },
     {
@@ -4640,7 +4604,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%232",
+        "config": "vless://67001098-9d9f-4ab5-995a-6c297be549c3@nexus.itsazan.info:2083?path=/api/v1/users&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=nexus.itsazan.info&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=nexus.itsazan.info#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%232",
         "is_cf": false
     },
     {
@@ -4652,7 +4616,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://0dbe1ae8-e9a6-4f48-aa52-4dd2c7dd949e@185.143.233.5:2087?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=p1.sesrsa.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sub.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%233",
+        "config": "vless://9793e3e3-bda0-46f0-a089-1b7d4e48e896@snapp.ir:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=vip.singbox2.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%233",
         "is_cf": false
     },
     {
@@ -4664,7 +4628,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://81afcf8f-b7dd-43b2-b734-c983bf3cb930@snapp.ir:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=vip.singbox2.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%234",
+        "config": "vless://f00b9830-14ee-4a66-9dc9-1682811a3073@sublink.darkping.ir:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=dll1.darkping.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%234",
         "is_cf": false
     },
     {
@@ -4676,7 +4640,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://67001098-9d9f-4ab5-995a-6c297be549c3@nexus.itsazan.info:2083?path=/api/v1/users&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=nexus.itsazan.info&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=nexus.itsazan.info#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%235",
+        "config": "vless://75d93baf-46d2-48f3-8d51-4ac943f88830@varzesh3.com:2083?path=/&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=user.chinie.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=user.chinie.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%235",
         "is_cf": false
     },
     {
@@ -4688,7 +4652,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://9793e3e3-bda0-46f0-a089-1b7d4e48e896@snapp.ir:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=vip.singbox2.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%236",
+        "config": "vless://424e2521-b539-4f42-8be0-77d8612e96d7@snapp.ir:80?mode=auto&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=user.neternet.ir&amp%3Btype=xhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%236",
         "is_cf": false
     },
     {
@@ -4700,7 +4664,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://f00b9830-14ee-4a66-9dc9-1682811a3073@sublink.darkping.ir:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=dll1.darkping.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%237",
+        "config": "vless://84a8c458-72e8-4ad3-a2c3-17a1e3f9e399@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=user.neternet.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%237",
         "is_cf": false
     },
     {
@@ -4712,7 +4676,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://75d93baf-46d2-48f3-8d51-4ac943f88830@varzesh3.com:2083?path=/&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=user.chinie.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=user.chinie.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%238",
+        "config": "vless://e41b8db0-d98d-4651-8c6d-335120a9eadc@185.143.234.235:2086?path=/ws&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=mobo.imobotouch.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%238",
         "is_cf": false
     },
     {
@@ -4724,7 +4688,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://84a8c458-72e8-4ad3-a2c3-17a1e3f9e399@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=user.neternet.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%239",
+        "config": "vless://27c106fc-518c-42b0-8529-ba29b7bb8667@185.143.232.201:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=vip.singbox2.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%239",
         "is_cf": false
     },
     {
@@ -4736,19 +4700,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://27c106fc-518c-42b0-8529-ba29b7bb8667@185.143.232.201:2082?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=vip.singbox2.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2310",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "prrofile_purple",
-            "title": "سرور - V2rayNG",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/prrofile_purple.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://6ea47818-6337-43f4-8c8a-ab9d2758f00c@185.143.235.200:2053?path=/&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=v1.pariroo-beauty.store&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=v1.pariroo-beauty.store#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2311",
+        "config": "vless://6ea47818-6337-43f4-8c8a-ab9d2758f00c@185.143.235.200:2053?path=/&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=v1.pariroo-beauty.store&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=v1.pariroo-beauty.store#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2310",
         "is_cf": false
     },
     {
@@ -4772,7 +4724,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://76121c7f-65e7-4206-89c5-188646f27f47@snapp.ir:80?path=/graphql%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ss1.limitless-cloud.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2312",
+        "config": "vless://76121c7f-65e7-4206-89c5-188646f27f47@snapp.ir:80?path=/graphql%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ss1.limitless-cloud.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2311",
         "is_cf": false
     },
     {
@@ -4784,7 +4736,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://e58b2f9c-894f-4a0c-a345-76748443f850@snapp.ir:8080?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=penhoon-ref.morvaridvps.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2313",
+        "config": "vless://e58b2f9c-894f-4a0c-a345-76748443f850@snapp.ir:8080?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=penhoon-ref.morvaridvps.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%2312",
         "is_cf": false
     },
     {
@@ -5861,10 +5813,10 @@
             "title": "🌍 V2Ray Free Config 🇮🇷",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
         },
-        "country": "IR",
-        "flag": "🇮🇷",
+        "country": "SC",
+        "flag": "🇸🇨",
         "type": "vless",
-        "config": "vless://945d2268-cc2f-d8e3-23e2-5bde2fa0c239@digipay.ir:443?encryption=none&amp%3Btype=ws&amp%3Bsecurity=tls&amp%3Bpath=/&amp%3Bsni=cdn-665e-o0g.fars-rehan.ir&amp%3Balpn=h2%2Chttp/1.1&amp%3Bfp=chrome&amp%3BallowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231",
+        "config": "vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&amp%3Bpath=pabloping&amp%3Bencryption=none&amp%3Bhost=nlbv1.pabloping.pro&amp%3Btype=xhttp#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231",
         "is_cf": false
     },
     {
@@ -5876,31 +5828,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://39d3d44d-4305-41ca-8f02-c447e83bc6be@snapp.ir:2052?security=none&amp%3Btype=ws&amp%3Bpath=/&amp%3Bhost=marz.hilux-automobile.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%232",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "v2ray_free_conf",
-            "title": "🌍 V2Ray Free Config 🇮🇷",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
-        },
-        "country": "XX",
-        "flag": "🇽🇽",
-        "type": "trojan",
-        "config": "trojan://humanity@104.19.229.21:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.multiplydose.com&amp%3Btype=ws&amp%3Bsni=www.multiplydose.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231",
-        "is_cf": true
-    },
-    {
-        "channel": {
-            "username": "v2ray_free_conf",
-            "title": "🌍 V2Ray Free Config 🇮🇷",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://f389942e-d680-d488-846b-0ed14dcb22ef@bmi.ir:8080?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=cdn-665e-o0g.fars-rehan.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%233",
+        "config": "vless://abbff0f3-741b-f33f-8773-ebbb65ae8d8d@snapp.ir:443?path=/&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=cdn.fars-rehan.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231",
         "is_cf": false
     },
     {
@@ -5912,43 +5840,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&amp%3Btype=ws&amp%3Bpath=/%3Fed%3D2560&amp%3Bhost=sv-1.jservices.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%234",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "v2ray_free_conf",
-            "title": "🌍 V2Ray Free Config 🇮🇷",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://1372c3a4-2b23-46a2-82dc-aeef95ce8964@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ms.k4p.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%235",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "v2ray_free_conf",
-            "title": "🌍 V2Ray Free Config 🇮🇷",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
-        },
-        "country": "HK",
-        "flag": "🇭🇰",
-        "type": "vless",
-        "config": "vless://2fb8086a-a107-437c-bbc6-13c2d066fcd5@vh3.com:80?path=/ws&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=nobody.fasterspeed.ir&amp%3Btype=ws#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231",
-        "is_cf": false
-    },
-    {
-        "channel": {
-            "username": "v2ray_free_conf",
-            "title": "🌍 V2Ray Free Config 🇮🇷",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://b20e0ee2-3563-4977-86b1-d1f54943a895@snapp.ir:80?encryption=none&amp%3Btype=ws&amp%3Bhost=derakhshan.molvliafor.ir&amp%3Bpath=/&amp%3Bsecurity=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%236",
+        "config": "vless://4252e215-2ec9-4bce-8c03-c66a2c4949a7@red.docos.tech:443?security=tls&amp%3Btype=ws&amp%3Bpath=/red/&amp%3Bhost=red.docos.tech&amp%3Bsni=red.docos.tech&amp%3Bfp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%232",
         "is_cf": false
     },
     {
@@ -5960,7 +5852,7 @@
         "country": "SC",
         "flag": "🇸🇨",
         "type": "vless",
-        "config": "vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=p1.thisiswe.uno&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=p1.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231",
+        "config": "vless://d4f44cf4-cbca-4313-9156-5a8498b20387@glob.thisiswe.uno:2053?path=/&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=godplease11.thisiswe.uno&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=godplease11.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%232",
         "is_cf": false
     },
     {
@@ -5972,8 +5864,20 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://85ef967a-f612-435e-a5bd-045f801415ce@red.docos.tech:443?security=tls&amp%3Btype=ws&amp%3Bpath=/red/&amp%3Bhost=red.docos.tech&amp%3Bsni=red.docos.tech&amp%3Bfp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%237",
+        "config": "vless://62d7cf4f-4046-4341-972f-52070754cfda@varzesh3.com:2082?type=ws&amp%3Bencryption=none&amp%3Bpath=/&amp%3Bhost=ir1.scienceuniversitycollege.shop#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%233",
         "is_cf": false
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": "🌍 V2Ray Free Config 🇮🇷",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
+        },
+        "country": "XX",
+        "flag": "🇽🇽",
+        "type": "vless",
+        "config": "vless://c805b05e-339d-40e0-8787-432d97a27345@g10.prodnsspeed10.ir:2083?path=R8I9Yqu0DxpQB2NKCxLA&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=data-frm2.netsnap.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=data-frm2.netsnap.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231",
+        "is_cf": true
     },
     {
         "channel": {
@@ -5984,7 +5888,7 @@
         "country": "IR",
         "flag": "🇮🇷",
         "type": "vless",
-        "config": "vless://658667ba-7703-47e3-9985-fa089ab7d8be@snapp.ir:80?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=derakhshan.molvliafor.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%238",
+        "config": "vless://7aae146a-5e4f-4bc3-bef8-d815beb64fce@f.pvnet.ir:8880?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%234",
         "is_cf": false
     },
     {
@@ -6082,18 +5986,6 @@
         "type": "vless",
         "config": "vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=/BDwnEtVwG7BS0S9f%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=iSAA1.paGEs.DEV&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=iSaa1.PAGeS.DeV#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2rayngalpha%20%231",
         "is_cf": true
-    },
-    {
-        "channel": {
-            "username": "v2rayngalpha",
-            "title": "کانفیگ آلفا | V2rayNG",
-            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngalpha.jpg"
-        },
-        "country": "IR",
-        "flag": "🇮🇷",
-        "type": "vless",
-        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=a.xn--i-sx6a60i.us.kg.&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2rayngalpha%20%231",
-        "is_cf": false
     },
     {
         "channel": {
@@ -6274,6 +6166,18 @@
         "type": "vless",
         "config": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?path=/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=l.ayovo.netlib.re&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=l.ayovo.netlib.re#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2raytg%20%237",
         "is_cf": true
+    },
+    {
+        "channel": {
+            "username": "v2rayvpnchannel",
+            "title": "کانفیگ فیلترشکن v2ray vpn",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg"
+        },
+        "country": "DE",
+        "flag": "🇩🇪",
+        "type": "trojan",
+        "config": "trojan://telegram-id-v2rayvpnchannel@63.179.19.192:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231",
+        "is_cf": false
     },
     {
         "channel": {
@@ -6709,6 +6613,18 @@
     },
     {
         "channel": {
+            "username": "vlessconfig",
+            "title": "Vless | Vmess | Trojan",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vlessconfig.jpg"
+        },
+        "country": "DE",
+        "flag": "🇩🇪",
+        "type": "vless",
+        "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.19.192:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231",
+        "is_cf": false
+    },
+    {
+        "channel": {
             "username": "vmesc",
             "title": "Free V2ray",
             "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
@@ -6861,6 +6777,18 @@
         "flag": "🇺🇸",
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiYWlkIjoiMCIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiaWQiOiJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEB2cG5nYXRlX2NvbmZpZyAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=",
+        "is_cf": false
+    },
+    {
+        "channel": {
+            "username": "vpnowl",
+            "title": "پروکسی v2ray",
+            "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnowl.jpg"
+        },
+        "country": "IR",
+        "flag": "🇮🇷",
+        "type": "vless",
+        "config": "vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=/httpupgrade26070&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bhost=rahgozar.italiantourism.net&amp%3Bfp=chrome&amp%3Btype=httpupgrade&amp%3Bsni=rahgozar.italiantourism.net.#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vpnowl%20%231",
         "is_cf": false
     },
     {
