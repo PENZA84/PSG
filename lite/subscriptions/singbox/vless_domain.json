@@ -130,7 +130,7 @@
         "🇽🇽 XX | VLESS | @lockey_vpn #1",
         "🇽🇽 XX | VLESS | @lockey_vpn #2",
         "🇽🇽 XX | VLESS | @manstervpn #1",
-        "🇸🇨 SC | VLESS | @mpproxy #1",
+        "🇩🇪 DE | VLESS | @mpproxy #1",
         "🇽🇽 XX | VLESS | @mt_proxy #2",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
@@ -150,7 +150,7 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #2",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
         "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
@@ -166,7 +166,7 @@
         "🇺🇸 US | VLESS | @vboxpanel #2",
         "🇽🇽 XX | VLESS | @vipnetmeli #1",
         "🇽🇽 XX | VLESS | @vipnetmeli #2",
-        "🇮🇷 IR | VLESS | @vmesskhodam #2",
+        "🇮🇷 IR | VLESS | @vmesskhodam #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1",
@@ -220,7 +220,7 @@
         "🇽🇽 XX | VLESS | @lockey_vpn #1",
         "🇽🇽 XX | VLESS | @lockey_vpn #2",
         "🇽🇽 XX | VLESS | @manstervpn #1",
-        "🇸🇨 SC | VLESS | @mpproxy #1",
+        "🇩🇪 DE | VLESS | @mpproxy #1",
         "🇽🇽 XX | VLESS | @mt_proxy #2",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
@@ -240,7 +240,7 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #2",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
         "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
@@ -256,7 +256,7 @@
         "🇺🇸 US | VLESS | @vboxpanel #2",
         "🇽🇽 XX | VLESS | @vipnetmeli #1",
         "🇽🇽 XX | VLESS | @vipnetmeli #2",
-        "🇮🇷 IR | VLESS | @vmesskhodam #2",
+        "🇮🇷 IR | VLESS | @vmesskhodam #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1",
@@ -444,9 +444,9 @@
     {
       "tag": "🇮🇷 IR | VLESS | @father_vpn #1",
       "type": "vless",
-      "server": "anten.ir",
-      "server_port": 2052,
-      "uuid": "98e2a7aa-2f22-4829-893a-7c8f7e8ba8ce",
+      "server": "www.varzesh3.com",
+      "server_port": 2095,
+      "uuid": "9f5a8dee-efe9-4c5a-9f96-8d3e632586b6",
       "packet_encoding": "xudp"
     },
     {
@@ -454,7 +454,7 @@
       "type": "vless",
       "server": "anten.ir",
       "server_port": 2052,
-      "uuid": "8ca468e9-82e2-422d-ac23-25029eb41664",
+      "uuid": "98e2a7aa-2f22-4829-893a-7c8f7e8ba8ce",
       "packet_encoding": "xudp"
     },
     {
@@ -758,7 +758,7 @@
       }
     },
     {
-      "tag": "🇸🇨 SC | VLESS | @mpproxy #1",
+      "tag": "🇩🇪 DE | VLESS | @mpproxy #1",
       "type": "vless",
       "server": "srv1.khatibirepair.ir",
       "server_port": 443,
@@ -957,24 +957,24 @@
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "arira.mnet37255.ir",
+      "server": "varzesh3.com",
       "server_port": 80,
-      "uuid": "03ba3bff-034a-4d17-bce0-810410894310",
+      "uuid": "b190b429-15f5-41b7-bc2e-bfa2cbbf9ca7",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
-        "path": "",
+        "path": "/",
         "headers": {
           "Host": ""
         }
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
+      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "varzesh3.com",
+      "server": "04cc4ef1beb1b536.freestly.sapienza-mahan.ir",
       "server_port": 443,
-      "uuid": "c387b0f2-5d9e-4c95-882d-1d5eeb443ce2",
+      "uuid": "983da2df-bc52-4226-84c1-bbfef0704427",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -1177,11 +1177,11 @@
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #2",
+      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #1",
       "type": "vless",
-      "server": "emergency-nightgemshop.lezzasevio.ir",
+      "server": "snappfood.ir",
       "server_port": 80,
-      "uuid": "ad872882-f490-4dd0-8fd2-1bd8db14ad78",
+      "uuid": "c09816d1-9b53-4e0d-85a8-9def477121ab",
       "packet_encoding": "xudp"
     },
     {
