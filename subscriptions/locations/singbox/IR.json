@@ -90,6 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
+        "🇮🇷 IR | VLESS | @Fr33C0nfig #1",
         "🇮🇷 IR | VLESS | @config_proxy #1",
         "🇮🇷 IR | VLESS | @config_proxy #2",
         "🇮🇷 IR | VLESS | @configv2rayforfree #1",
@@ -111,9 +112,9 @@
         "🇮🇷 IR | VLESS | @prrofile_purple #6",
         "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #3",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
+        "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v2rayopen #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
         "🇮🇷 IR | VLESS | @vip_vpn_2022 #1",
@@ -124,7 +125,6 @@
         "🇮🇷 IR | VLESS | @vmesskhodam #5",
         "🇮🇷 IR | VLESS | @vmesskhodam #6",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
-        "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1"
       ],
       "tag": "proxy",
@@ -133,6 +133,7 @@
     {
       "interval": "10m",
       "outbounds": [
+        "🇮🇷 IR | VLESS | @Fr33C0nfig #1",
         "🇮🇷 IR | VLESS | @config_proxy #1",
         "🇮🇷 IR | VLESS | @config_proxy #2",
         "🇮🇷 IR | VLESS | @configv2rayforfree #1",
@@ -154,9 +155,9 @@
         "🇮🇷 IR | VLESS | @prrofile_purple #6",
         "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #3",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
+        "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v2rayopen #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
         "🇮🇷 IR | VLESS | @vip_vpn_2022 #1",
@@ -167,7 +168,6 @@
         "🇮🇷 IR | VLESS | @vmesskhodam #5",
         "🇮🇷 IR | VLESS | @vmesskhodam #6",
         "🇮🇷 IR | VLESS | @vpnfree85 #1",
-        "🇮🇷 IR | VLESS | @vpnfree85 #2",
         "🇮🇷 IR | VLESS | @vpnowl #1"
       ],
       "tag": "auto",
@@ -178,6 +178,21 @@
     {
       "tag": "direct",
       "type": "direct"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @Fr33C0nfig #1",
+      "type": "vless",
+      "server": "185.143.233.235",
+      "server_port": 80,
+      "uuid": "8135074a-49d9-46da-b79d-b58d2b9dcb6a",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "",
+        "headers": {
+          "Host": ""
+        }
+      }
     },
     {
       "tag": "🇮🇷 IR | VLESS | @config_proxy #1",
@@ -364,7 +379,7 @@
       "type": "vless",
       "server": "snapp.ir",
       "server_port": 443,
-      "uuid": "abbff0f3-741b-f33f-8773-ebbb65ae8d8d",
+      "uuid": "a9061c4b-76a0-4da6-8bed-f8ea2c8b1497",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -379,34 +394,10 @@
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #2",
       "type": "vless",
-      "server": "red.docos.tech",
-      "server_port": 443,
-      "uuid": "4252e215-2ec9-4bce-8c03-c66a2c4949a7",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #3",
-      "type": "vless",
-      "server": "varzesh3.com",
-      "server_port": 2082,
-      "uuid": "62d7cf4f-4046-4341-972f-52070754cfda",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "",
-        "headers": {
-          "Host": ""
-        }
-      }
+      "server": "snapp.ir",
+      "server_port": 80,
+      "uuid": "ffa37367-6313-4cc5-86bd-3d8dc879c24e",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
@@ -422,6 +413,14 @@
       "server": "snapp.ir",
       "server_port": 80,
       "uuid": "b3ef9da6-1ccd-4099-8e09-b8ed36008559",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @v2rayngalpha #1",
+      "type": "vless",
+      "server": "tgju.org",
+      "server_port": 80,
+      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
       "packet_encoding": "xudp"
     },
     {
@@ -520,14 +519,6 @@
       "server": "snapp.ir",
       "server_port": 8080,
       "uuid": "cd54d877-9eee-4a50-8776-93a582ef8b88",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @vpnfree85 #2",
-      "type": "vless",
-      "server": "s4.tehranionliine.ir",
-      "server_port": 80,
-      "uuid": "937dde02-4ce6-4f0d-a3be-27aef7d3ef46",
       "packet_encoding": "xudp"
     },
     {
