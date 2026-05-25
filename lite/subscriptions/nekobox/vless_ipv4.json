@@ -87,7 +87,6 @@
         "🇽🇽 XX | VLESS | @buffalo_vpn #1",
         "🇺🇸 US | VLESS | @buffalo_vpn #1",
         "🇮🇷 IR | VLESS | @config_proxy #1",
-        "🇮🇷 IR | VLESS | @config_proxy #2",
         "🇽🇽 XX | VLESS | @customizev2ray #1",
         "🇽🇽 XX | VLESS | @customizev2ray #2",
         "🇽🇽 XX | VLESS | @dailyv2ray #1",
@@ -165,6 +164,7 @@
         "🇸🇬 SG | VLESS | @v2rayexpress #1",
         "🇽🇽 XX | VLESS | @v2rayngalpha #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
+        "🇽🇽 XX | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v2rayopen #1",
         "🇽🇽 XX | VLESS | @v2raytg #1",
         "🇽🇽 XX | VLESS | @v2raytg #2",
@@ -195,7 +195,6 @@
         "🇽🇽 XX | VLESS | @buffalo_vpn #1",
         "🇺🇸 US | VLESS | @buffalo_vpn #1",
         "🇮🇷 IR | VLESS | @config_proxy #1",
-        "🇮🇷 IR | VLESS | @config_proxy #2",
         "🇽🇽 XX | VLESS | @customizev2ray #1",
         "🇽🇽 XX | VLESS | @customizev2ray #2",
         "🇽🇽 XX | VLESS | @dailyv2ray #1",
@@ -273,6 +272,7 @@
         "🇸🇬 SG | VLESS | @v2rayexpress #1",
         "🇽🇽 XX | VLESS | @v2rayngalpha #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
+        "🇽🇽 XX | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v2rayopen #1",
         "🇽🇽 XX | VLESS | @v2raytg #1",
         "🇽🇽 XX | VLESS | @v2raytg #2",
@@ -483,14 +483,6 @@
       "server": "185.143.233.235",
       "server_port": 80,
       "uuid": "22109ab6-bfdd-4062-ae1c-054c74353e39",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @config_proxy #2",
-      "type": "vless",
-      "server": "185.143.234.235",
-      "server_port": 80,
-      "uuid": "b8799fac-622a-4142-aab2-2aa862ad35f2",
       "packet_encoding": "xudp"
     },
     {
@@ -1475,6 +1467,23 @@
       "server_port": 80,
       "uuid": "1260fbdc-57b6-4e2c-a76f-c6f748d26917",
       "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇽🇽 XX | VLESS | @v2rayngvpn_1 #1",
+      "type": "vless",
+      "server": "188.114.96.4",
+      "server_port": 443,
+      "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "🇮🇷 IR | VLESS | @v2rayopen #1",
