@@ -99,7 +99,6 @@
         "🇺🇸 US | VLESS | @nofiltering2 #1",
         "🇽🇽 XX | VLESS | @parsashonam #1",
         "🇽🇽 XX | VLESS | @parsashonam #2",
-        "🇽🇽 XX | VLESS | @parsashonam #3",
         "🇽🇽 XX | VLESS | @proxie #1",
         "🇽🇽 XX | VLESS | @proxie #2",
         "🇽🇽 XX | VLESS | @proxie #3",
@@ -126,7 +125,6 @@
         "🇺🇸 US | VLESS | @nofiltering2 #1",
         "🇽🇽 XX | VLESS | @parsashonam #1",
         "🇽🇽 XX | VLESS | @parsashonam #2",
-        "🇽🇽 XX | VLESS | @parsashonam #3",
         "🇽🇽 XX | VLESS | @proxie #1",
         "🇽🇽 XX | VLESS | @proxie #2",
         "🇽🇽 XX | VLESS | @proxie #3",
@@ -272,23 +270,6 @@
     {
       "tag": "🇽🇽 XX | VLESS | @parsashonam #1",
       "type": "vless",
-      "server": "104.16.7.70",
-      "server_port": 443,
-      "uuid": "Telegram-Parsashonam",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇽🇽 XX | VLESS | @parsashonam #2",
-      "type": "vless",
       "server": "104.16.80.73",
       "server_port": 443,
       "uuid": "Telegram-Parsashonam",
@@ -304,7 +285,7 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @parsashonam #3",
+      "tag": "🇽🇽 XX | VLESS | @parsashonam #2",
       "type": "vless",
       "server": "172.66.47.69",
       "server_port": 443,

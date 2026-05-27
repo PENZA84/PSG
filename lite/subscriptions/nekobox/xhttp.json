@@ -81,8 +81,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇩🇪 DE | VLESS | @ehsawn8 #1",
-        "🇺🇸 US | VLESS | @eliteproxyv2 #1",
+        "🇩🇪 DE | VLESS | @eliteproxyv2 #1",
         "🇬🇧 GB | VLESS | @komail315 #1",
+        "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇽🇽 XX | VLESS | @orange_vpns #1",
         "🇩🇪 DE | VLESS | @v2rayngconfiig #1",
         "🇽🇽 XX | VLESS | @father_vpn #1",
@@ -106,8 +107,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇩🇪 DE | VLESS | @ehsawn8 #1",
-        "🇺🇸 US | VLESS | @eliteproxyv2 #1",
+        "🇩🇪 DE | VLESS | @eliteproxyv2 #1",
         "🇬🇧 GB | VLESS | @komail315 #1",
+        "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇽🇽 XX | VLESS | @orange_vpns #1",
         "🇩🇪 DE | VLESS | @v2rayngconfiig #1",
         "🇽🇽 XX | VLESS | @father_vpn #1",
@@ -224,7 +226,7 @@
       }
     },
     {
-      "tag": "🇺🇸 US | VLESS | @eliteproxyv2 #1",
+      "tag": "🇩🇪 DE | VLESS | @eliteproxyv2 #1",
       "type": "vless",
       "server": "germany.fast.hosting-ip.com",
       "server_port": 80,
@@ -237,6 +239,14 @@
       "server": "cr7.zx-shop.ir",
       "server_port": 8880,
       "uuid": "abd432ba-c9ca-4565-e787-f354d466be4e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @netmellianti #1",
+      "type": "vless",
+      "server": "arvancloud.ir",
+      "server_port": 8080,
+      "uuid": "e8cbc051-e0ac-452d-9bd3-8ad46625573c",
       "packet_encoding": "xudp"
     },
     {
@@ -283,7 +293,7 @@
     {
       "tag": "🇽🇽 XX | VLESS | @parsashonam #1",
       "type": "vless",
-      "server": "104.16.7.70",
+      "server": "104.16.80.73",
       "server_port": 443,
       "uuid": "Telegram-Parsashonam",
       "packet_encoding": "xudp",
@@ -300,7 +310,7 @@
     {
       "tag": "🇽🇽 XX | VLESS | @parsashonam #2",
       "type": "vless",
-      "server": "104.16.80.73",
+      "server": "172.66.47.69",
       "server_port": 443,
       "uuid": "Telegram-Parsashonam",
       "packet_encoding": "xudp",
