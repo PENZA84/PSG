@@ -94,19 +94,19 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇽🇽 XX | VLESS | @father_vpn #1",
-        "🇽🇽 XX | VLESS | @flyv2ray #1",
         "🇺🇸 US | VLESS | @free4allvpn #1",
+        "🇽🇽 XX | VLESS | @netmellianti #4",
         "🇺🇸 US | VLESS | @nofiltering2 #1",
         "🇺🇸 US | VLESS | @outline_ir #1",
         "🇽🇽 XX | VLESS | @parsashonam #1",
         "🇽🇽 XX | VLESS | @parsashonam #2",
-        "🇽🇽 XX | VLESS | @parsashonam #3",
         "🇽🇽 XX | VLESS | @proxie #1",
         "🇽🇽 XX | VLESS | @proxie #2",
         "🇽🇽 XX | VLESS | @proxie #3",
         "🇽🇽 XX | VLESS | @proxie #4",
         "🇽🇽 XX | VLESS | @proxie #5",
         "🇽🇽 XX | VLESS | @proxie #6",
+        "🇫🇷 FR | VLESS | @prrofile_purple #1",
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇽🇽 XX | VLESS | @vmesskhodam #1",
@@ -122,19 +122,19 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇽🇽 XX | VLESS | @father_vpn #1",
-        "🇽🇽 XX | VLESS | @flyv2ray #1",
         "🇺🇸 US | VLESS | @free4allvpn #1",
+        "🇽🇽 XX | VLESS | @netmellianti #4",
         "🇺🇸 US | VLESS | @nofiltering2 #1",
         "🇺🇸 US | VLESS | @outline_ir #1",
         "🇽🇽 XX | VLESS | @parsashonam #1",
         "🇽🇽 XX | VLESS | @parsashonam #2",
-        "🇽🇽 XX | VLESS | @parsashonam #3",
         "🇽🇽 XX | VLESS | @proxie #1",
         "🇽🇽 XX | VLESS | @proxie #2",
         "🇽🇽 XX | VLESS | @proxie #3",
         "🇽🇽 XX | VLESS | @proxie #4",
         "🇽🇽 XX | VLESS | @proxie #5",
         "🇽🇽 XX | VLESS | @proxie #6",
+        "🇫🇷 FR | VLESS | @prrofile_purple #1",
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇽🇽 XX | VLESS | @vmesskhodam #1",
@@ -239,28 +239,19 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @flyv2ray #1",
-      "type": "vless",
-      "server": "104.16.7.70",
-      "server_port": 443,
-      "uuid": "406d8436-0eb9-4eb2-84fb-960e076ffba6",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
       "tag": "🇺🇸 US | VLESS | @free4allvpn #1",
       "type": "vless",
       "server": "151.101.25.242",
       "server_port": 80,
       "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇽🇽 XX | VLESS | @netmellianti #4",
+      "type": "vless",
+      "server": "162.159.38.183",
+      "server_port": 2083,
+      "uuid": "406d8436-0eb9-4eb2-84fb-960e076ffba6",
       "packet_encoding": "xudp"
     },
     {
@@ -282,23 +273,6 @@
     {
       "tag": "🇽🇽 XX | VLESS | @parsashonam #1",
       "type": "vless",
-      "server": "104.16.80.73",
-      "server_port": 443,
-      "uuid": "Telegram-Parsashonam",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇽🇽 XX | VLESS | @parsashonam #2",
-      "type": "vless",
       "server": "172.66.47.69",
       "server_port": 443,
       "uuid": "Telegram-Parsashonam",
@@ -314,7 +288,7 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @parsashonam #3",
+      "tag": "🇽🇽 XX | VLESS | @parsashonam #2",
       "type": "vless",
       "server": "172.66.47.69",
       "server_port": 443,
@@ -431,6 +405,14 @@
           "fingerprint": "chrome"
         }
       }
+    },
+    {
+      "tag": "🇫🇷 FR | VLESS | @prrofile_purple #1",
+      "type": "vless",
+      "server": "185.171.202.76",
+      "server_port": 42652,
+      "uuid": "Tel%3AArshiacomplus",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇺🇸 US | VLESS | @qeshmserver #1",

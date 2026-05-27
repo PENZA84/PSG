@@ -97,7 +97,7 @@
         "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
-        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #3",
         "🇩🇪 DE | VLESS | @v2ray_youtube #1",
         "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -116,7 +116,7 @@
         "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
-        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #3",
         "🇩🇪 DE | VLESS | @v2ray_youtube #1",
         "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -264,11 +264,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
+      "tag": "🇩🇪 DE | VLESS | @v2ray_free_conf #3",
       "type": "vless",
-      "server": "modem.yellow1v.store",
-      "server_port": 32311,
-      "uuid": "bf9d0315-23fb-4cfb-b262-cec2da2a3abc",
+      "server": "de.safesonic.asia",
+      "server_port": 18866,
+      "uuid": "cf31e432-b316-4d6c-b36c-6ccfbb353d27",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,

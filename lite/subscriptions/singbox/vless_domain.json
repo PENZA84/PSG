@@ -103,9 +103,7 @@
         "🇩🇪 DE | VLESS | @ehsawn8 #1",
         "🇽🇽 XX | VLESS | @f_nirevil #1",
         "🇽🇽 XX | VLESS | @f_nirevil #2",
-        "🇮🇷 IR | VLESS | @father_vpn #1",
         "🇦🇪 AE | VLESS | @filterk0sh #1",
-        "🇮🇷 IR | VLESS | @flyv2ray #1",
         "🇽🇽 XX | VLESS | @free4allvpn #1",
         "🇽🇽 XX | VLESS | @freev2flyng #2",
         "🇽🇽 XX | VLESS | @frev2rayng #2",
@@ -145,13 +143,12 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #1",
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #2",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
-        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇽🇽 XX | VLESS | @v2rayng3 #1",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
-        "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
+        "🇽🇽 XX | VLESS | @v2rayngvpn_1 #2",
         "🇽🇽 XX | VLESS | @v2rayy_vpn13 #1",
         "🇽🇽 XX | VLESS | @v2rayy_vpn13 #2",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -185,9 +182,7 @@
         "🇩🇪 DE | VLESS | @ehsawn8 #1",
         "🇽🇽 XX | VLESS | @f_nirevil #1",
         "🇽🇽 XX | VLESS | @f_nirevil #2",
-        "🇮🇷 IR | VLESS | @father_vpn #1",
         "🇦🇪 AE | VLESS | @filterk0sh #1",
-        "🇮🇷 IR | VLESS | @flyv2ray #1",
         "🇽🇽 XX | VLESS | @free4allvpn #1",
         "🇽🇽 XX | VLESS | @freev2flyng #2",
         "🇽🇽 XX | VLESS | @frev2rayng #2",
@@ -227,13 +222,12 @@
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #1",
         "🇽🇽 XX | VLESS | @v2ra_ng_iran #2",
         "🇽🇽 XX | VLESS | @v2ray4win #1",
-        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
         "🇽🇽 XX | VLESS | @v2raybe #1",
         "🇽🇽 XX | VLESS | @v2raybe #2",
         "🇽🇽 XX | VLESS | @v2rayng3 #1",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
-        "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
+        "🇽🇽 XX | VLESS | @v2rayngvpn_1 #2",
         "🇽🇽 XX | VLESS | @v2rayy_vpn13 #1",
         "🇽🇽 XX | VLESS | @v2rayy_vpn13 #2",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -419,14 +413,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @father_vpn #1",
-      "type": "vless",
-      "server": "snapp.ir",
-      "server_port": 2095,
-      "uuid": "5bc4971a-e0b6-4723-985c-801b1c80f23a",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇦🇪 AE | VLESS | @filterk0sh #1",
       "type": "vless",
       "server": "eng14.netliberated.org",
@@ -447,14 +433,6 @@
           "enabled": true
         }
       }
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @flyv2ray #1",
-      "type": "vless",
-      "server": "tamin.ir",
-      "server_port": 2095,
-      "uuid": "87557a14-63a1-4e0b-afb2-1670c07a3739",
-      "packet_encoding": "xudp"
     },
     {
       "tag": "🇽🇽 XX | VLESS | @free4allvpn #1",
@@ -909,28 +887,6 @@
       }
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "modem.yellow1v.store",
-      "server_port": 32311,
-      "uuid": "bf9d0315-23fb-4cfb-b262-cec2da2a3abc",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
       "tag": "🇽🇽 XX | VLESS | @v2raybe #1",
       "type": "vless",
       "server": "berovps.masoodbiranvand-230.workers.dev",
@@ -994,17 +950,19 @@
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
+      "tag": "🇽🇽 XX | VLESS | @v2rayngvpn_1 #2",
       "type": "vless",
-      "server": "ir.primebourse.ir",
-      "server_port": 8880,
-      "uuid": "0a072575-24fb-40e8-9b13-b67fa77d3ca6",
+      "server": "salamnet.youregxa.ir",
+      "server_port": 443,
+      "uuid": "e9f9565d-79cf-4014-80fb-3881199a133f",
       "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "",
-        "headers": {
-          "Host": ""
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       }
     },

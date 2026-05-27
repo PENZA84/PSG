@@ -95,7 +95,7 @@
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @netfreedom0 #2",
         "🇬🇧 GB | SS | @netfreedom0 #3",
-        "🇹🇼 TW | SS | @netfreedom0 #1",
+        "🇭🇰 HK | SS | @netfreedom0 #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇵🇪 PE | SS | @NamiraConfigs #1",
@@ -126,7 +126,7 @@
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @netfreedom0 #2",
         "🇬🇧 GB | SS | @netfreedom0 #3",
-        "🇹🇼 TW | SS | @netfreedom0 #1",
+        "🇭🇰 HK | SS | @netfreedom0 #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇵🇪 PE | SS | @NamiraConfigs #1",
@@ -333,17 +333,17 @@
     {
       "tag": "🇬🇧 GB | SS | @netfreedom0 #3",
       "type": "shadowsocks",
-      "server": "82.38.31.184",
+      "server": "82.38.31.35",
       "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
       "password": null
     },
     {
-      "tag": "🇹🇼 TW | SS | @netfreedom0 #1",
+      "tag": "🇭🇰 HK | SS | @netfreedom0 #1",
       "type": "shadowsocks",
-      "server": "185.189.160.105",
-      "server_port": 41632,
-      "method": "YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==",
+      "server": "103.149.182.79",
+      "server_port": 8388,
+      "method": "Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=",
       "password": null
     },
     {
