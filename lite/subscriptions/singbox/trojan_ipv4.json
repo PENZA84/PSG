@@ -97,7 +97,7 @@
         "🇦🇹 AT | TROJAN | @mpproxy #1",
         "🇽🇽 XX | TROJAN | @spikevpn #1",
         "🇽🇽 XX | TROJAN | @spikevpn #2",
-        "🇽🇽 XX | TROJAN | @v2ray_free_conf #1",
+        "🇺🇸 US | TROJAN | @v2rayng3 #1",
         "🇽🇽 XX | TROJAN | @vmesc #1",
         "🇽🇽 XX | TROJAN | @vpn_ioss #1",
         "🇽🇽 XX | TROJAN | @vpn_ioss #2",
@@ -116,7 +116,7 @@
         "🇦🇹 AT | TROJAN | @mpproxy #1",
         "🇽🇽 XX | TROJAN | @spikevpn #1",
         "🇽🇽 XX | TROJAN | @spikevpn #2",
-        "🇽🇽 XX | TROJAN | @v2ray_free_conf #1",
+        "🇺🇸 US | TROJAN | @v2rayng3 #1",
         "🇽🇽 XX | TROJAN | @vmesc #1",
         "🇽🇽 XX | TROJAN | @vpn_ioss #1",
         "🇽🇽 XX | TROJAN | @vpn_ioss #2",
@@ -268,9 +268,9 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | TROJAN | @v2ray_free_conf #1",
+      "tag": "🇺🇸 US | TROJAN | @v2rayng3 #1",
       "type": "trojan",
-      "server": "141.101.90.101",
+      "server": "165.215.250.14",
       "server_port": 443,
       "password": "humanity",
       "tls": {
