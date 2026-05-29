@@ -100,7 +100,9 @@
         "🇽🇽 XX | VLESS | @proxie #5",
         "🇽🇽 XX | VLESS | @proxie #6",
         "🇺🇸 US | VLESS | @qeshmserver #1",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #2",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
+        "🇺🇸 US | VLESS | @v2rayngvpn_1 #3",
         "🇦🇪 AE | VLESS | @vmesskhodam #1",
         "🇺🇸 US | VLESS | @vpnowl #1"
       ],
@@ -133,7 +135,9 @@
         "🇽🇽 XX | VLESS | @proxie #5",
         "🇽🇽 XX | VLESS | @proxie #6",
         "🇺🇸 US | VLESS | @qeshmserver #1",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #2",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
+        "🇺🇸 US | VLESS | @v2rayngvpn_1 #3",
         "🇦🇪 AE | VLESS | @vmesskhodam #1",
         "🇺🇸 US | VLESS | @vpnowl #1"
       ],
@@ -518,11 +522,27 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇩🇪 DE | VLESS | @v2ray_free_conf #2",
+      "type": "vless",
+      "server": "3.79.245.44",
+      "server_port": 2086,
+      "uuid": "Masir_Sefid",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇺🇸 US | VLESS | @v2rayngconfiig #1",
       "type": "vless",
       "server": "151.101.3.8",
       "server_port": 80,
       "uuid": "1260fbdc-57b6-4e2c-a76f-c6f748d26917",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @v2rayngvpn_1 #3",
+      "type": "vless",
+      "server": "151.101.1.57",
+      "server_port": 80,
+      "uuid": "InternetAzadRobot",
       "packet_encoding": "xudp"
     },
     {
