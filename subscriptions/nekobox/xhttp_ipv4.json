@@ -100,7 +100,7 @@
         "🇽🇽 XX | VLESS | @proxie #6",
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
-        "🇽🇽 XX | VLESS | @vmesskhodam #1",
+        "🇺🇸 US | VLESS | @v2rayngvpn_1 #3",
         "🇺🇸 US | VLESS | @vpnowl #1"
       ],
       "tag": "proxy",
@@ -132,7 +132,7 @@
         "🇽🇽 XX | VLESS | @proxie #6",
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
-        "🇽🇽 XX | VLESS | @vmesskhodam #1",
+        "🇺🇸 US | VLESS | @v2rayngvpn_1 #3",
         "🇺🇸 US | VLESS | @vpnowl #1"
       ],
       "tag": "auto",
@@ -516,21 +516,12 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #1",
+      "tag": "🇺🇸 US | VLESS | @v2rayngvpn_1 #3",
       "type": "vless",
-      "server": "104.16.7.70",
-      "server_port": 443,
-      "uuid": "406d8436-0eb9-4eb2-84fb-960e076ffba6",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
+      "server": "151.101.1.57",
+      "server_port": 80,
+      "uuid": "InternetAzadRobot",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇺🇸 US | VLESS | @vpnowl #1",

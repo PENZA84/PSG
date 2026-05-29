@@ -94,7 +94,7 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇸🇮 SI | VLESS | @filterk0sh #1",
-        "🇰🇿 KZ | VLESS | @filterk0sh #1",
+        "🇰🇿 KZ | VLESS | @filterk0sh #2",
         "🇱🇻 LV | VLESS | @megavpn_link #1",
         "🇷🇺 RU | VLESS | @megavpn_link #1",
         "🇳🇱 NL | VLESS | @netfreedom0 #1",
@@ -118,7 +118,7 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇸🇮 SI | VLESS | @filterk0sh #1",
-        "🇰🇿 KZ | VLESS | @filterk0sh #1",
+        "🇰🇿 KZ | VLESS | @filterk0sh #2",
         "🇱🇻 LV | VLESS | @megavpn_link #1",
         "🇷🇺 RU | VLESS | @megavpn_link #1",
         "🇳🇱 NL | VLESS | @netfreedom0 #1",
@@ -236,7 +236,7 @@
       }
     },
     {
-      "tag": "🇰🇿 KZ | VLESS | @filterk0sh #1",
+      "tag": "🇰🇿 KZ | VLESS | @filterk0sh #2",
       "type": "vless",
       "server": "77.73.232.61",
       "server_port": 19747,
