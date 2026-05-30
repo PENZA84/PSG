@@ -98,6 +98,7 @@
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇬🇧 GB | SS | @netfreedom0 #1",
+        "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇬🇧 GB | SS | @torang_vpn #1"
       ],
@@ -115,6 +116,7 @@
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇬🇧 GB | SS | @netfreedom0 #1",
+        "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇬🇧 GB | SS | @torang_vpn #1"
       ],
@@ -237,6 +239,14 @@
       "server": "141.98.101.182",
       "server_port": 443,
       "method": "YWVzLTEyOC1nY206c2hhZG93c29ja3M=",
+      "password": null
+    },
+    {
+      "tag": "🇳🇱 NL | SS | @outlinereleasedkey #1",
+      "type": "shadowsocks",
+      "server": "193.29.139.235",
+      "server_port": 8080,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
       "password": null
     },
     {
