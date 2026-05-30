@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgTFY=
+//profile-title: base64:UFNHIHwgTlo=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -90,7 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇱🇻 LV | VLESS | @megavpn_link #1"
+        "🇳🇿 NZ | VLESS | @bored_vpn #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -98,7 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇱🇻 LV | VLESS | @megavpn_link #1"
+        "🇳🇿 NZ | VLESS | @bored_vpn #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -110,11 +110,11 @@
       "type": "direct"
     },
     {
-      "tag": "🇱🇻 LV | VLESS | @megavpn_link #1",
+      "tag": "🇳🇿 NZ | VLESS | @bored_vpn #1",
       "type": "vless",
-      "server": "91.218.143.194",
-      "server_port": 43798,
-      "uuid": "b7725d23-840a-4f8e-993c-69b40424cfc0",
+      "server": "202.37.33.80",
+      "server_port": 443,
+      "uuid": "cc752a3e-1537-4e86-bb50-1b897bf7b33c",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -123,11 +123,6 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
         }
       }
     }
