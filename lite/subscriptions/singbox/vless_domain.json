@@ -97,7 +97,7 @@
         "🇺🇸 US | VLESS | @deli_servers #1",
         "🇽🇽 XX | VLESS | @diamondproxytm #1",
         "🇺🇸 US | VLESS | @easy_free_vpn #1",
-        "🇩🇪 DE | VLESS | @ehsawn8 #1",
+        "🇳🇱 NL | VLESS | @ehsawn8 #1",
         "🇮🇷 IR | VLESS | @ehsawn8 #1",
         "🇽🇽 XX | VLESS | @f_nirevil #1",
         "🇽🇽 XX | VLESS | @f_nirevil #2",
@@ -175,7 +175,7 @@
         "🇺🇸 US | VLESS | @deli_servers #1",
         "🇽🇽 XX | VLESS | @diamondproxytm #1",
         "🇺🇸 US | VLESS | @easy_free_vpn #1",
-        "🇩🇪 DE | VLESS | @ehsawn8 #1",
+        "🇳🇱 NL | VLESS | @ehsawn8 #1",
         "🇮🇷 IR | VLESS | @ehsawn8 #1",
         "🇽🇽 XX | VLESS | @f_nirevil #1",
         "🇽🇽 XX | VLESS | @f_nirevil #2",
@@ -354,7 +354,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @ehsawn8 #1",
+      "tag": "🇳🇱 NL | VLESS | @ehsawn8 #1",
       "type": "vless",
       "server": "dey.lnmarketplace.net",
       "server_port": 443,
