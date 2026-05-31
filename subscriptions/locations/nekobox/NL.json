@@ -85,7 +85,6 @@
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇳🇱 NL | VLESS | @parsashonam #1",
         "🇳🇱 NL | VLESS | @qeshmserver #1",
-        "🇳🇱 NL | VLESS | @rez1vpn #1",
         "🇳🇱 NL | VLESS | @sobi_vpn #1",
         "🇳🇱 NL | VLESS | @v2ray_collector #1",
         "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
@@ -105,7 +104,6 @@
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇳🇱 NL | VLESS | @parsashonam #1",
         "🇳🇱 NL | VLESS | @qeshmserver #1",
-        "🇳🇱 NL | VLESS | @rez1vpn #1",
         "🇳🇱 NL | VLESS | @sobi_vpn #1",
         "🇳🇱 NL | VLESS | @v2ray_collector #1",
         "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
@@ -244,23 +242,6 @@
       }
     },
     {
-      "tag": "🇳🇱 NL | VLESS | @rez1vpn #1",
-      "type": "vless",
-      "server": "195.181.173.199",
-      "server_port": 8443,
-      "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
       "tag": "🇳🇱 NL | VLESS | @sobi_vpn #1",
       "type": "vless",
       "server": "45.131.4.5",
@@ -293,9 +274,9 @@
     {
       "tag": "🇳🇱 NL | VLESS | @v2rayngconfiig #1",
       "type": "vless",
-      "server": "fi.podpiska.vip",
-      "server_port": 443,
-      "uuid": "fc363de7-5d11-42e0-b9c0-79d59274882a",
+      "server": "51.158.206.29",
+      "server_port": 23576,
+      "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
