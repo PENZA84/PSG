@@ -81,9 +81,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇦🇪 AE | VLESS | @filterk0sh #1",
+        "🇳🇱 NL | VLESS | @filtershekan_channel #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
-        "🇨🇾 CY | VLESS | @nn_vpn #2",
-        "🇮🇷 IR | VLESS | @v_2rayng0 #1"
+        "🇨🇾 CY | VLESS | @nn_vpn #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -95,9 +95,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇦🇪 AE | VLESS | @filterk0sh #1",
+        "🇳🇱 NL | VLESS | @filtershekan_channel #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
-        "🇨🇾 CY | VLESS | @nn_vpn #2",
-        "🇮🇷 IR | VLESS | @v_2rayng0 #1"
+        "🇨🇾 CY | VLESS | @nn_vpn #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -207,27 +207,11 @@
       }
     },
     {
-      "tag": "🇨🇾 CY | VLESS | @nn_vpn #1",
+      "tag": "🇳🇱 NL | VLESS | @filtershekan_channel #1",
       "type": "vless",
-      "server": "sadaf.netherlands.mehrdadsadaf.com",
-      "server_port": 80,
-      "uuid": "59acb90b-fb9d-433b-a2f0-c039cf23dfc7",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇨🇾 CY | VLESS | @nn_vpn #2",
-      "type": "vless",
-      "server": "sadaf.melorin.mehrdadsadaf.com",
-      "server_port": 80,
-      "uuid": "b8debe38-3858-4a7e-9bfc-ee090ac7597b",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @v_2rayng0 #1",
-      "type": "vless",
-      "server": "wp14.virgool.best",
-      "server_port": 55014,
-      "uuid": "b01631fa-502b-497f-b8ed-2fda669667ad",
+      "server": "g10.steptofsvo.com",
+      "server_port": 443,
+      "uuid": "279828c6-13f2-439c-9a4e-ea7d4f470fa4",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -243,6 +227,22 @@
           "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇨🇾 CY | VLESS | @nn_vpn #1",
+      "type": "vless",
+      "server": "sadaf.netherlands.mehrdadsadaf.com",
+      "server_port": 80,
+      "uuid": "59acb90b-fb9d-433b-a2f0-c039cf23dfc7",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇨🇾 CY | VLESS | @nn_vpn #2",
+      "type": "vless",
+      "server": "sadaf.melorin.mehrdadsadaf.com",
+      "server_port": 80,
+      "uuid": "b8debe38-3858-4a7e-9bfc-ee090ac7597b",
+      "packet_encoding": "xudp"
     }
   ],
   "route": {

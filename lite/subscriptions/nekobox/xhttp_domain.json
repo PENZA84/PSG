@@ -80,13 +80,10 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇩🇪 DE | VLESS | @ehsawn8 #2",
+        "🇳🇱 NL | VLESS | @ehsawn8 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇬🇧 GB | VLESS | @komail315 #1",
         "🇽🇽 XX | VLESS | @orange_vpns #1",
-        "🇺🇸 US | VLESS | @rez1vpn #1",
-        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
-        "🇸🇨 SC | VLESS | @vmesskhodam #1",
         "🇺🇸 US | VLESS | @vmesskhodam #1"
       ],
       "tag": "proxy",
@@ -98,13 +95,10 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇩🇪 DE | VLESS | @ehsawn8 #2",
+        "🇳🇱 NL | VLESS | @ehsawn8 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇬🇧 GB | VLESS | @komail315 #1",
         "🇽🇽 XX | VLESS | @orange_vpns #1",
-        "🇺🇸 US | VLESS | @rez1vpn #1",
-        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
-        "🇸🇨 SC | VLESS | @vmesskhodam #1",
         "🇺🇸 US | VLESS | @vmesskhodam #1"
       ],
       "tag": "auto",
@@ -193,7 +187,7 @@
       }
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @ehsawn8 #2",
+      "tag": "🇳🇱 NL | VLESS | @ehsawn8 #1",
       "type": "vless",
       "server": "dey.lnmarketplace.net",
       "server_port": 443,
@@ -231,30 +225,6 @@
       "server": "no.tan3.ir",
       "server_port": 2053,
       "uuid": "1621caa6-2a23-4364-919b-1276ab6ca81a",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @rez1vpn #1",
-      "type": "vless",
-      "server": "fastly.com",
-      "server_port": 80,
-      "uuid": "InternetAzadRobot",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "fastly.com",
-      "server_port": 80,
-      "uuid": "96eec36e-2c44-5b09-898e-6f0f0526e57f",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇸🇨 SC | VLESS | @vmesskhodam #1",
-      "type": "vless",
-      "server": "ital.shrekpop.com",
-      "server_port": 8443,
-      "uuid": "206a669d-a041-4f18-8a9f-0d711373ceb7",
       "packet_encoding": "xudp"
     },
     {
