@@ -100,6 +100,8 @@
         "🇺🇸 US | VLESS | @filtershekan_channel #1",
         "🇺🇸 US | VLESS | @free4allvpn #1",
         "🇺🇸 US | VLESS | @freeconfigsplus #1",
+        "🇺🇸 US | VLESS | @freeconfigsplus #2",
+        "🇺🇸 US | VLESS | @freeconfigsplus #3",
         "🇺🇸 US | VMESS | @freev2rays #1",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇺🇸 US | VLESS | @goldenvpn_v2rayy #1",
@@ -167,6 +169,8 @@
         "🇺🇸 US | VLESS | @filtershekan_channel #1",
         "🇺🇸 US | VLESS | @free4allvpn #1",
         "🇺🇸 US | VLESS | @freeconfigsplus #1",
+        "🇺🇸 US | VLESS | @freeconfigsplus #2",
+        "🇺🇸 US | VLESS | @freeconfigsplus #3",
         "🇺🇸 US | VMESS | @freev2rays #1",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇺🇸 US | VLESS | @goldenvpn_v2rayy #1",
@@ -318,9 +322,39 @@
     {
       "tag": "🇺🇸 US | VLESS | @freeconfigsplus #1",
       "type": "vless",
-      "server": "151.101.193.57",
-      "server_port": 80,
-      "uuid": "2c15f192-3812-98db-85a2-88cd7d02b868",
+      "server": "208.103.161.1",
+      "server_port": 2096,
+      "uuid": "7dc5ed50-e32b-4a1f-b840-69db2725e767",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": ""
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @freeconfigsplus #2",
+      "type": "vless",
+      "server": "web.subster.ir",
+      "server_port": 2053,
+      "uuid": "7dc5ed50-e32b-4a1f-b840-69db2725e767",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": ""
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @freeconfigsplus #3",
+      "type": "vless",
+      "server": "web.subster.ir",
+      "server_port": 2083,
+      "uuid": "7dc5ed50-e32b-4a1f-b840-69db2725e767",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
