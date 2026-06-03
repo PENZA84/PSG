@@ -349,19 +349,10 @@
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "185.143.233.122",
-      "server_port": 443,
-      "uuid": "7f4fe554-de1d-4fc6-ae52-6e882961e001",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
+      "server": "185.143.233.233",
+      "server_port": 2052,
+      "uuid": "a1a7bd5e-50bd-42ee-b998-151565a06b4e",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
