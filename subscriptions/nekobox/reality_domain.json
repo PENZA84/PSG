@@ -81,14 +81,15 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇰🇿 KZ | VLESS | @filterk0sh #1",
-        "🇫🇷 FR | VLESS | @freeconfigsplus #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
+        "🇷🇺 RU | VLESS | @outline_ir #1",
+        "🇳🇱 NL | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_youtube #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇨🇿 CZ | VLESS | @v2rayngconfiig #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
-        "🇨🇾 CY | VLESS | @vmesskhodam #1"
+        "🇺🇸 US | VLESS | @vmesskhodam #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -100,14 +101,15 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇰🇿 KZ | VLESS | @filterk0sh #1",
-        "🇫🇷 FR | VLESS | @freeconfigsplus #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
+        "🇷🇺 RU | VLESS | @outline_ir #1",
+        "🇳🇱 NL | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_youtube #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇨🇿 CZ | VLESS | @v2rayngconfiig #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
-        "🇨🇾 CY | VLESS | @vmesskhodam #1"
+        "🇺🇸 US | VLESS | @vmesskhodam #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -217,28 +219,6 @@
       }
     },
     {
-      "tag": "🇫🇷 FR | VLESS | @freeconfigsplus #1",
-      "type": "vless",
-      "server": "ads03.vxmaxpro.online",
-      "server_port": 443,
-      "uuid": "a44321b7-22ec-4255-bdb0-88a3e3b83668",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
       "tag": "🇨🇾 CY | VLESS | @nn_vpn #1",
       "type": "vless",
       "server": "sadaf.netherlands.mehrdadsadaf.com",
@@ -252,6 +232,31 @@
       "server": "sadaf.melorin.mehrdadsadaf.com",
       "server_port": 80,
       "uuid": "b8debe38-3858-4a7e-9bfc-ee090ac7597b",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇷🇺 RU | VLESS | @outline_ir #1",
+      "type": "vless",
+      "server": "field.wildgarden.digital",
+      "server_port": 443,
+      "uuid": "d9aff7cc-4e0f-4cd6-bb30-40f083974874",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱 NL | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "obito.homan554.ir",
+      "server_port": 80,
+      "uuid": "5bcaed47-9082-4e34-ada4-1d7d17066f70",
       "packet_encoding": "xudp"
     },
     {
@@ -324,7 +329,7 @@
       }
     },
     {
-      "tag": "🇨🇾 CY | VLESS | @vmesskhodam #1",
+      "tag": "🇺🇸 US | VLESS | @vmesskhodam #1",
       "type": "vless",
       "server": "nl-amst1-node.datamove.online",
       "server_port": 2040,
