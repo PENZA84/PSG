@@ -31,6 +31,7 @@ proxies:
   - {"name": "🇨🇾 CY | VLESS | @nn_vpn #2", "server": "sadaf.melorin.mehrdadsadaf.com", "port": 80, "type": "vless", "skip-cert-verify": true, "uuid": "b8debe38-3858-4a7e-9bfc-ee090ac7597b", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇨🇿 CZ | VLESS | @v2rayngconfiig #1", "server": "cz.helper-internet.com", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "2d0b825d-cbe0-46b7-98e9-e955b99e71c9", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
   - {"name": "🇮🇷 IR | VLESS | @v_2rayng0 #1", "server": "wp14.virgool.best", "port": 55014, "type": "vless", "skip-cert-verify": true, "uuid": "b01631fa-502b-497f-b8ed-2fda669667ad", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇺🇸 US | VLESS | @vmesskhodam #1", "server": "nl-amst1-node.datamove.online", "port": 2040, "type": "vless", "skip-cert-verify": true, "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -52,6 +53,7 @@ proxy-groups:
       - '🇨🇾 CY | VLESS | @nn_vpn #2'
       - '🇨🇿 CZ | VLESS | @v2rayngconfiig #1'
       - '🇮🇷 IR | VLESS | @v_2rayng0 #1'
+      - '🇺🇸 US | VLESS | @vmesskhodam #1'
 
   - name: 🌍 Global Media
     type: select
