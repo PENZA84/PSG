@@ -83,9 +83,10 @@
         "🇰🇿 KZ | VLESS | @filterk0sh #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+        "🇮🇷 IR | VLESS | @v2ray_youtube #1",
         "🇨🇿 CZ | VLESS | @v2rayngconfiig #1",
-        "🇮🇷 IR | VLESS | @v_2rayng0 #1",
-        "🇺🇸 US | VLESS | @vmesskhodam #1"
+        "🇮🇷 IR | VLESS | @v_2rayng0 #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -99,9 +100,10 @@
         "🇰🇿 KZ | VLESS | @filterk0sh #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+        "🇮🇷 IR | VLESS | @v2ray_youtube #1",
         "🇨🇿 CZ | VLESS | @v2rayngconfiig #1",
-        "🇮🇷 IR | VLESS | @v_2rayng0 #1",
-        "🇺🇸 US | VLESS | @vmesskhodam #1"
+        "🇮🇷 IR | VLESS | @v_2rayng0 #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -227,6 +229,36 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "china-node.appbyte.online",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @v2ray_youtube #1",
+      "type": "vless",
+      "server": "mm-ir1.master-minds.ir",
+      "server_port": 8443,
+      "uuid": "7431a5ef-b374-4800-8f5d-d5e9d298c4da",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇨🇿 CZ | VLESS | @v2rayngconfiig #1",
       "type": "vless",
       "server": "cz.helper-internet.com",
@@ -254,28 +286,6 @@
       "server": "wp14.virgool.best",
       "server_port": 55014,
       "uuid": "b01631fa-502b-497f-b8ed-2fda669667ad",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @vmesskhodam #1",
-      "type": "vless",
-      "server": "nl-amst1-node.datamove.online",
-      "server_port": 2040,
-      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
