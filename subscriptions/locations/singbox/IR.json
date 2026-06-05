@@ -105,8 +105,6 @@
         "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
-        "🇮🇷 IR | TROJAN | @v2ray_free_conf #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2ray_youtube #1",
         "🇮🇷 IR | VLESS | @v2raych #1",
@@ -115,7 +113,6 @@
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
         "🇮🇷 IR | VLESS | @vip_vpn_2022 #1",
-        "🇮🇷 IR | VLESS | @vmesc #1",
         "🇮🇷 IR | VLESS | @vmesskhodam #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #1"
       ],
@@ -140,8 +137,6 @@
         "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
-        "🇮🇷 IR | TROJAN | @v2ray_free_conf #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2ray_youtube #1",
         "🇮🇷 IR | VLESS | @v2raych #1",
@@ -150,7 +145,6 @@
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
         "🇮🇷 IR | VLESS | @vip_vpn_2022 #1",
-        "🇮🇷 IR | VLESS | @vmesc #1",
         "🇮🇷 IR | VLESS | @vmesskhodam #1",
         "🇮🇷 IR | VLESS | @vpnfree85 #1"
       ],
@@ -348,21 +342,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇮🇷 IR | TROJAN | @v2ray_free_conf #1",
-      "type": "trojan",
-      "server": "arvancloud.ir",
-      "server_port": 2082,
-      "password": "fTkGeLgRco"
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "ssbd.freewayorg.net",
-      "server_port": 2052,
-      "uuid": "570a3971-3cc4-4b39-a4ae-c325473e5295",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
       "type": "vless",
       "server": "185.143.233.120",
@@ -448,14 +427,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇮🇷 IR | VLESS | @vmesc #1",
-      "type": "vless",
-      "server": "185.143.233.235",
-      "server_port": 8080,
-      "uuid": "58bf6d1c-423f-4c4d-82ff-e2a7720661a2",
-      "packet_encoding": "xudp"
     },
     {
       "tag": "🇮🇷 IR | VLESS | @vmesskhodam #1",
