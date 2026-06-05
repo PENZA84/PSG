@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name": "🇦🇪 AE | VLESS | @filterk0sh #1", "server": "eng14.netliberated.org", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "0bb6dff2-0029-4b81-8c81-4fc70fae1ed9", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇳🇿 NZ | VLESS | @v2ray_free_conf #1", "server": "202.37.33.80", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "cc752a3e-1537-4e86-bb50-1b897bf7b33c", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇦🇪 AE | VLESS | @filterk0sh #1'
+      - '🇳🇿 NZ | VLESS | @v2ray_free_conf #1'
 
   - name: 🌍 Global Media
     type: select
