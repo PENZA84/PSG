@@ -131,9 +131,9 @@
     {
       "tag": "🇷🇺 RU | VLESS | @red2ray #1",
       "type": "vless",
-      "server": "cdn3-25.vk-cdnvideo.com",
-      "server_port": 8443,
-      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "server": "85.234.114.53",
+      "server_port": 443,
+      "uuid": "afcac633-0e1a-46c3-bef2-cc01cc0097c8",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,

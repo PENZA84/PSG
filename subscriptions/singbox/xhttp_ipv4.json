@@ -95,7 +95,6 @@
         "KingRezaPahlavi",
         "🇸🇨 SC | VLESS | @ai_duet #1",
         "🇺🇸 US | VLESS | @free4allvpn #1",
-        "🇽🇽 XX | VLESS | @ghalagyann #1",
         "🇺🇸 US | VLESS | @mehrosaboran #1",
         "🇸🇨 SC | VLESS | @mehrosaboran #1",
         "🇽🇽 XX | VLESS | @mimitdl #2",
@@ -118,7 +117,7 @@
         "🇽🇽 XX | VLESS | @v2ray_youtube #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇽🇽 XX | VLESS | @v2rayngconfiig #1",
-        "🇽🇽 XX | VLESS | @vmesskhodam #2",
+        "🇽🇽 XX | VLESS | @vmesskhodam #1",
         "🇸🇨 SC | VLESS | @vmesskhodam #1",
         "🇸🇨 SC | VLESS | @vmesskhodam #2",
         "🇺🇸 US | VLESS | @vpnowl #1"
@@ -134,7 +133,6 @@
         "KingRezaPahlavi",
         "🇸🇨 SC | VLESS | @ai_duet #1",
         "🇺🇸 US | VLESS | @free4allvpn #1",
-        "🇽🇽 XX | VLESS | @ghalagyann #1",
         "🇺🇸 US | VLESS | @mehrosaboran #1",
         "🇸🇨 SC | VLESS | @mehrosaboran #1",
         "🇽🇽 XX | VLESS | @mimitdl #2",
@@ -157,7 +155,7 @@
         "🇽🇽 XX | VLESS | @v2ray_youtube #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇽🇽 XX | VLESS | @v2rayngconfiig #1",
-        "🇽🇽 XX | VLESS | @vmesskhodam #2",
+        "🇽🇽 XX | VLESS | @vmesskhodam #1",
         "🇸🇨 SC | VLESS | @vmesskhodam #1",
         "🇸🇨 SC | VLESS | @vmesskhodam #2",
         "🇺🇸 US | VLESS | @vpnowl #1"
@@ -267,23 +265,6 @@
       "server_port": 80,
       "uuid": "02d87d00-c769-48d8-91cb-bd05e2f62790",
       "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇽🇽 XX | VLESS | @ghalagyann #1",
-      "type": "vless",
-      "server": "188.114.97.6",
-      "server_port": 443,
-      "uuid": "Telegram-Parsashonam-7",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
     },
     {
       "tag": "🇺🇸 US | VLESS | @mehrosaboran #1",
@@ -588,7 +569,7 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #2",
+      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #1",
       "type": "vless",
       "server": "172.64.159.217",
       "server_port": 8443,
