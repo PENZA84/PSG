@@ -88,7 +88,6 @@
         "🇳🇱 NL | VLESS | @sobi_vpn #1",
         "🇳🇱 NL | VLESS | @v2ray_collector #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
-        "🇳🇱 NL | SS | @v2raych #1",
         "🇳🇱 NL | SS | @v2rayopen #1"
       ],
       "tag": "proxy",
@@ -108,7 +107,6 @@
         "🇳🇱 NL | VLESS | @sobi_vpn #1",
         "🇳🇱 NL | VLESS | @v2ray_collector #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
-        "🇳🇱 NL | SS | @v2raych #1",
         "🇳🇱 NL | SS | @v2rayopen #1"
       ],
       "tag": "auto",
@@ -284,14 +282,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇳🇱 NL | SS | @v2raych #1",
-      "type": "shadowsocks",
-      "server": "193.29.139.217",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q",
-      "password": null
     },
     {
       "tag": "🇳🇱 NL | SS | @v2rayopen #1",
