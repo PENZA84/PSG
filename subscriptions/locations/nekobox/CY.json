@@ -77,7 +77,10 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇨🇾 CY | SS | @NamiraConfigs #1"
+        "🇨🇾 CY | SS | @NamiraConfigs #1",
+        "🇨🇾 CY | VLESS | @easy_free_vpn #1",
+        "🇨🇾 CY | VLESS | @nn_vpn #1",
+        "🇨🇾 CY | VLESS | @nn_vpn #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -85,7 +88,10 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇨🇾 CY | SS | @NamiraConfigs #1"
+        "🇨🇾 CY | SS | @NamiraConfigs #1",
+        "🇨🇾 CY | VLESS | @easy_free_vpn #1",
+        "🇨🇾 CY | VLESS | @nn_vpn #1",
+        "🇨🇾 CY | VLESS | @nn_vpn #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -107,6 +113,39 @@
       "server_port": 990,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz",
       "password": null
+    },
+    {
+      "tag": "🇨🇾 CY | VLESS | @easy_free_vpn #1",
+      "type": "vless",
+      "server": "ercf-ma.rainzone.site",
+      "server_port": 443,
+      "uuid": "6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇨🇾 CY | VLESS | @nn_vpn #1",
+      "type": "vless",
+      "server": "sadaf.netherlands.mehrdadsadaf.com",
+      "server_port": 80,
+      "uuid": "59acb90b-fb9d-433b-a2f0-c039cf23dfc7",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇨🇾 CY | VLESS | @nn_vpn #2",
+      "type": "vless",
+      "server": "sadaf.melorin.mehrdadsadaf.com",
+      "server_port": 80,
+      "uuid": "b8debe38-3858-4a7e-9bfc-ee090ac7597b",
+      "packet_encoding": "xudp"
     }
   ],
   "route": {
