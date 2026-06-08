@@ -106,7 +106,7 @@
         "🇮🇷 IR | VLESS | @miov2ray #1",
         "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇮🇷 IR | VLESS | @netmellianti #2",
-        "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
+        "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #2",
         "🇮🇷 IR | SS | @prrofile_purple #1",
@@ -142,7 +142,7 @@
         "🇮🇷 IR | VLESS | @miov2ray #1",
         "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇮🇷 IR | VLESS | @netmellianti #2",
-        "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
+        "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #2",
         "🇮🇷 IR | SS | @prrofile_purple #1",
@@ -365,12 +365,21 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @nofilter_v2rayng #1",
+      "tag": "🇮🇷 IR | VLESS | @nn_vpn #1",
       "type": "vless",
-      "server": "abr.superip.ir",
-      "server_port": 2082,
-      "uuid": "0ecb2769-9d3c-4ed3-9ffd-88a96f90f30a",
-      "packet_encoding": "xudp"
+      "server": "allsms.rozfa.com",
+      "server_port": 443,
+      "uuid": "6a89dc04-7781-46fe-b35c-e14a6b6e60b8",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "🇮🇷 IR | VLESS | @nofiltering2 #1",
@@ -439,9 +448,9 @@
     {
       "tag": "🇮🇷 IR | SS | @v2rayng3 #1",
       "type": "shadowsocks",
-      "server": "xiaomandapple4certificate.ikco.ir.soserverbot.shop",
-      "server_port": 15152,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA==",
+      "server": "185.155.9.130",
+      "server_port": 51570,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNFQxZVNnTmVPNHZyWkllVWxUUXJVeG1tbkVWSDFkY0IzNE52QmNOTTlJPQ==",
       "password": null
     },
     {

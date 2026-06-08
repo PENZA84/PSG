@@ -39,7 +39,7 @@ proxies:
   - {"name": "🇮🇷 IR | VLESS | @miov2ray #1", "server": "parspack.com", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "51905fd3-29de-4b4e-b351-83542f1d5390", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇮🇷 IR | VLESS | @netmellianti #1", "server": "snapp.ir", "port": 80, "type": "vless", "skip-cert-verify": true, "uuid": "8f67eced-52fc-483b-b471-681378824a60", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇮🇷 IR | VLESS | @netmellianti #2", "server": "snapp.ir", "port": 80, "type": "vless", "skip-cert-verify": true, "uuid": "e594b7bf-3b8a-4619-a9ff-1b7e012d66f9", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇮🇷 IR | VLESS | @nofilter_v2rayng #1", "server": "abr.superip.ir", "port": 2082, "type": "vless", "skip-cert-verify": true, "uuid": "0ecb2769-9d3c-4ed3-9ffd-88a96f90f30a", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
+  - {"name": "🇮🇷 IR | VLESS | @nn_vpn #1", "server": "allsms.rozfa.com", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "6a89dc04-7781-46fe-b35c-e14a6b6e60b8", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇮🇷 IR | VLESS | @nofiltering2 #1", "server": "tun2.axenet.company", "port": 8443, "type": "vless", "skip-cert-verify": true, "uuid": "e6d74f1f-bce5-43e3-b65a-63bb6d825764", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇮🇷 IR | VLESS | @nofiltering2 #2", "server": "tun2.axenet.company", "port": 8443, "type": "vless", "skip-cert-verify": true, "uuid": "e6d74f1f-bce5-43e3-b65a-63bb6d825764", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇮🇷 IR | VLESS | @v2ang #1", "server": "193.151.141.36", "port": 2026, "type": "vless", "skip-cert-verify": true, "uuid": "fdfa6120-6f97-4153-ac3d-979d9ecae058", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
@@ -79,7 +79,7 @@ proxy-groups:
       - '🇮🇷 IR | VLESS | @miov2ray #1'
       - '🇮🇷 IR | VLESS | @netmellianti #1'
       - '🇮🇷 IR | VLESS | @netmellianti #2'
-      - '🇮🇷 IR | VLESS | @nofilter_v2rayng #1'
+      - '🇮🇷 IR | VLESS | @nn_vpn #1'
       - '🇮🇷 IR | VLESS | @nofiltering2 #1'
       - '🇮🇷 IR | VLESS | @nofiltering2 #2'
       - '🇮🇷 IR | VLESS | @v2ang #1'
