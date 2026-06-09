@@ -850,6 +850,7 @@
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/netmellianti.jpg",
         "types": [
+            "trojan",
             "vless"
         ]
     },
