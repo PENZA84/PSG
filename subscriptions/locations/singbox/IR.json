@@ -103,6 +103,7 @@
         "🇮🇷 IR | VMESS | @khoneproxy #1",
         "🇮🇷 IR | VMESS | @khoneproxy #2",
         "🇮🇷 IR | VLESS | @lax_vpn #1",
+        "🇮🇷 IR | VLESS | @mehrosaboran #1",
         "🇮🇷 IR | VLESS | @miov2ray #1",
         "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #1",
@@ -110,7 +111,6 @@
         "🇮🇷 IR | SS | @prrofile_purple #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
@@ -139,6 +139,7 @@
         "🇮🇷 IR | VMESS | @khoneproxy #1",
         "🇮🇷 IR | VMESS | @khoneproxy #2",
         "🇮🇷 IR | VLESS | @lax_vpn #1",
+        "🇮🇷 IR | VLESS | @mehrosaboran #1",
         "🇮🇷 IR | VLESS | @miov2ray #1",
         "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #1",
@@ -146,7 +147,6 @@
         "🇮🇷 IR | SS | @prrofile_purple #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2raymelliii #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
@@ -332,6 +332,14 @@
       }
     },
     {
+      "tag": "🇮🇷 IR | VLESS | @mehrosaboran #1",
+      "type": "vless",
+      "server": "blubank.ir",
+      "server_port": 80,
+      "uuid": "afb3eb91-6ab7-4c70-874e-716e2481cb7d",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇮🇷 IR | VLESS | @miov2ray #1",
       "type": "vless",
       "server": "parspack.com",
@@ -406,14 +414,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "ninisite.com",
-      "server_port": 80,
-      "uuid": "9bfd89a3-a25f-4427-9ed8-fae2eb017b7f",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
       "type": "vless",
       "server": "185.143.233.120",
@@ -442,7 +442,7 @@
       "type": "shadowsocks",
       "server": "e1.cover20.ir",
       "server_port": 51570,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRFpaa0EycjA3NVhxWllFZDJ2R3FadCtvaHd3eDdKQjdWRUswalNnaUZZPQ==",
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcm1hMUdSOE91K0g4MVlPR3BPU21qOURkT1hJVjFhRHROMnJtZUpFOEI0PQ==",
       "password": null
     },
     {
