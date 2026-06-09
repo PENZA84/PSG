@@ -98,9 +98,9 @@
         "🇬🇧 GB | SS | @mt_proxy #1",
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @netfreedom0 #2",
-        "🇬🇧 GB | SS | @netfreedom0 #3",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇬🇧 GB | VLESS | @v2ray_free_conf #1",
+        "🇬🇧 GB | SS | @v2raych #1",
+        "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | SS | @v2rayopen #1"
       ],
       "tag": "proxy",
@@ -117,9 +117,9 @@
         "🇬🇧 GB | SS | @mt_proxy #1",
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @netfreedom0 #2",
-        "🇬🇧 GB | SS | @netfreedom0 #3",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇬🇧 GB | VLESS | @v2ray_free_conf #1",
+        "🇬🇧 GB | SS | @v2raych #1",
+        "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | SS | @v2rayopen #1"
       ],
       "tag": "auto",
@@ -191,21 +191,13 @@
     {
       "tag": "🇬🇧 GB | SS | @netfreedom0 #1",
       "type": "shadowsocks",
-      "server": "82.38.31.35",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
-      "password": null
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @netfreedom0 #2",
-      "type": "shadowsocks",
       "server": "82.38.31.184",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
       "password": null
     },
     {
-      "tag": "🇬🇧 GB | SS | @netfreedom0 #3",
+      "tag": "🇬🇧 GB | SS | @netfreedom0 #2",
       "type": "shadowsocks",
       "server": "82.38.31.155",
       "server_port": 8080,
@@ -221,12 +213,20 @@
       "password": null
     },
     {
-      "tag": "🇬🇧 GB | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "199.232.57.91",
-      "server_port": 80,
-      "uuid": "InternetAzadRobot",
-      "packet_encoding": "xudp"
+      "tag": "🇬🇧 GB | SS | @v2raych #1",
+      "type": "shadowsocks",
+      "server": "82.38.31.192",
+      "server_port": 8080,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "password": null
+    },
+    {
+      "tag": "🇬🇧 GB | SS | @v2rayng3 #1",
+      "type": "shadowsocks",
+      "server": "82.38.31.35",
+      "server_port": 8080,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
+      "password": null
     },
     {
       "tag": "🇬🇧 GB | SS | @v2rayopen #1",

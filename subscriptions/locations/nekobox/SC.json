@@ -90,8 +90,10 @@
         "🇸🇨 SC | VLESS | @mpproxy #2",
         "🇸🇨 SC | VLESS | @mpproxy #3",
         "🇸🇨 SC | VLESS | @mpproxy #4",
+        "🇸🇨 SC | VLESS | @red2ray #1",
+        "🇸🇨 SC | VLESS | @red2ray #2",
         "🇸🇨 SC | VLESS | @turboo_server #1",
-        "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
+        "🇸🇨 SC | VLESS | @v2raych #1",
         "🇸🇨 SC | VLESS | @vpn_ioss #1",
         "🇸🇨 SC | VLESS | @vpn_ioss #2"
       ],
@@ -114,8 +116,10 @@
         "🇸🇨 SC | VLESS | @mpproxy #2",
         "🇸🇨 SC | VLESS | @mpproxy #3",
         "🇸🇨 SC | VLESS | @mpproxy #4",
+        "🇸🇨 SC | VLESS | @red2ray #1",
+        "🇸🇨 SC | VLESS | @red2ray #2",
         "🇸🇨 SC | VLESS | @turboo_server #1",
-        "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
+        "🇸🇨 SC | VLESS | @v2raych #1",
         "🇸🇨 SC | VLESS | @vpn_ioss #1",
         "🇸🇨 SC | VLESS | @vpn_ioss #2"
       ],
@@ -291,6 +295,36 @@
       }
     },
     {
+      "tag": "🇸🇨 SC | VLESS | @red2ray #1",
+      "type": "vless",
+      "server": "45.130.125.194",
+      "server_port": 8443,
+      "uuid": "d3d046fa-d372-430a-8ed9-083d62c44efb",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇸🇨 SC | VLESS | @red2ray #2",
+      "type": "vless",
+      "server": "bypass.fr-gt-01.com",
+      "server_port": 8443,
+      "uuid": "356ccb34-22cc-4446-a137-072bc60d65ca",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
       "tag": "🇸🇨 SC | VLESS | @turboo_server #1",
       "type": "vless",
       "server": "45.130.125.76",
@@ -299,11 +333,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
+      "tag": "🇸🇨 SC | VLESS | @v2raych #1",
       "type": "vless",
-      "server": "45.130.125.194",
+      "server": "45.130.125.162",
       "server_port": 8443,
-      "uuid": "2d11f9a7-5cb9-4a76-acbe-0064305b570a",
+      "uuid": "5960576d-829e-4d09-8232-0e80121a6fe4",
       "packet_encoding": "xudp"
     },
     {
