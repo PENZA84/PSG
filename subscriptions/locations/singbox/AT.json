@@ -90,9 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇦🇹 AT | TROJAN | @mpproxy #1",
-        "🇦🇹 AT | VLESS | @v2ray_free_conf #1",
-        "🇦🇹 AT | VLESS | @v2ray_free_conf #2"
+        "🇦🇹 AT | TROJAN | @mpproxy #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -100,9 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇦🇹 AT | TROJAN | @mpproxy #1",
-        "🇦🇹 AT | VLESS | @v2ray_free_conf #1",
-        "🇦🇹 AT | VLESS | @v2ray_free_conf #2"
+        "🇦🇹 AT | TROJAN | @mpproxy #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -119,45 +115,6 @@
       "server": "152.53.45.251",
       "server_port": 8888,
       "password": "trojan",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇦🇹 AT | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "bc-at-ph.ray-balance.space",
-      "server_port": 10443,
-      "uuid": "f6431ff1-dec0-4a6c-be4a-ce917913b589",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇦🇹 AT | VLESS | @v2ray_free_conf #2",
-      "type": "vless",
-      "server": "as.pink-perfect.ru",
-      "server_port": 443,
-      "uuid": "5d8fcd24-9634-4dd7-845c-3dc2d6291942",
-      "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "server_name": "",
