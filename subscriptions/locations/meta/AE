@@ -23,8 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name": "🇹🇷 TR | VLESS | @bored_vpn #1", "server": "five.paliss.ir", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "2e409cdc-d0c9-4fc0-b285-9371034b8002", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇹🇷 TR | VMESS | @hope_net #1", "server": "45.94.169.142", "port": 443, "type": "vmess", "skip-cert-verify": true, "uuid": "824c58b1-65ba-4680-a609-663a000dbb92", "alterId": 0, "cipher": "auto", "network": "ws", "tls": true, "ws-opts": {"path": "/wss13889", "headers": {"Host": "45.94.169.142"}}}
+  - {"name": "🇦🇪 AE | VLESS | @filterk0sh #1", "server": "eng14.netliberated.org", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "0bb6dff2-0029-4b81-8c81-4fc70fae1ed9", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -38,8 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇹🇷 TR | VLESS | @bored_vpn #1'
-      - '🇹🇷 TR | VMESS | @hope_net #1'
+      - '🇦🇪 AE | VLESS | @filterk0sh #1'
 
   - name: 🌍 Global Media
     type: select

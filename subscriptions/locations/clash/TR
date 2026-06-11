@@ -23,8 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name": "🇫🇮 FI | VLESS | @v2ray_free_conf #1", "server": "185.17.2.109", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "b4a10cb3-9835-4027-a5d5-9404ec7b1e4e", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇫🇮 FI | VLESS | @v2ray_free_conf #2", "server": "45.133.245.28", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "b4a10cb3-9835-4027-a5d5-9404ec7b1e4e", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
+  - {"name": "🇹🇷 TR | VMESS | @hope_net #1", "server": "45.94.169.142", "port": 443, "type": "vmess", "skip-cert-verify": true, "uuid": "824c58b1-65ba-4680-a609-663a000dbb92", "alterId": 0, "cipher": "auto", "network": "ws", "tls": true, "ws-opts": {"path": "/wss13889", "headers": {"Host": "45.94.169.142"}}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -38,8 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇫🇮 FI | VLESS | @v2ray_free_conf #1'
-      - '🇫🇮 FI | VLESS | @v2ray_free_conf #2'
+      - '🇹🇷 TR | VMESS | @hope_net #1'
 
   - name: 🌍 Global Media
     type: select
