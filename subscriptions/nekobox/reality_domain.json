@@ -85,9 +85,7 @@
         "🇩🇪 DE | VLESS | @netmellianti #2",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
-        "🇸🇨 SC | VLESS | @outline_ir #1",
         "🇷🇺 RU | VLESS | @prrofile_purple #1",
-        "🇸🇨 SC | VLESS | @red2ray #1",
         "🇨🇭 CH | VLESS | @v2ray1_ng #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -107,9 +105,7 @@
         "🇩🇪 DE | VLESS | @netmellianti #2",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
-        "🇸🇨 SC | VLESS | @outline_ir #1",
         "🇷🇺 RU | VLESS | @prrofile_purple #1",
-        "🇸🇨 SC | VLESS | @red2ray #1",
         "🇨🇭 CH | VLESS | @v2ray1_ng #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -283,55 +279,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇸🇨 SC | VLESS | @outline_ir #1",
-      "type": "vless",
-      "server": "bypass.ch-gt-01.com",
-      "server_port": 8443,
-      "uuid": "4fdec620-73bb-40a7-a8d5-2570a59f1832",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
       "tag": "🇷🇺 RU | VLESS | @prrofile_purple #1",
       "type": "vless",
       "server": "b3aa11az-k15gg1.ru.y-tun.com",
       "server_port": 8443,
       "uuid": "17172b99-16ae-4453-99f9-bd15191228a9",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇸🇨 SC | VLESS | @red2ray #1",
-      "type": "vless",
-      "server": "bypass.uk-gthost-01.com",
-      "server_port": 8443,
-      "uuid": "52faee73-e0fe-4661-992d-67259257170f",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
