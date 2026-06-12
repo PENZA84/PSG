@@ -90,7 +90,9 @@
       "outbounds": [
         "auto",
         "direct",
+        "🇷🇴 RO | VLESS | @configv2rayforfree #1",
         "🇷🇴 RO | VLESS | @outline_ir #1",
+        "🇷🇴 RO | VLESS | @outline_ir #2",
         "🇷🇴 RO | VLESS | @v2rayngvpn_1 #1",
         "🇷🇴 RO | VLESS | @v2rayngvpn_1 #2",
         "🇷🇴 RO | VLESS | @v2rayprotocol #1",
@@ -103,7 +105,9 @@
     {
       "interval": "10m",
       "outbounds": [
+        "🇷🇴 RO | VLESS | @configv2rayforfree #1",
         "🇷🇴 RO | VLESS | @outline_ir #1",
+        "🇷🇴 RO | VLESS | @outline_ir #2",
         "🇷🇴 RO | VLESS | @v2rayngvpn_1 #1",
         "🇷🇴 RO | VLESS | @v2rayngvpn_1 #2",
         "🇷🇴 RO | VLESS | @v2rayprotocol #1",
@@ -120,9 +124,43 @@
       "type": "direct"
     },
     {
+      "tag": "🇷🇴 RO | VLESS | @configv2rayforfree #1",
+      "type": "vless",
+      "server": "cdn7-39.vk-cdnvideo.com",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "tag": "🇷🇴 RO | VLESS | @outline_ir #1",
       "type": "vless",
       "server": "77.74.123.171",
+      "server_port": 8443,
+      "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇷🇴 RO | VLESS | @outline_ir #2",
+      "type": "vless",
+      "server": "cdn9-33.vk-cdnvideo.com",
       "server_port": 8443,
       "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
       "packet_encoding": "xudp",
