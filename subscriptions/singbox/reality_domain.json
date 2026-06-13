@@ -93,14 +93,16 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇰🇿 KZ | VLESS | @filterk0sh #1",
+        "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇩🇪 DE | VLESS | @netmellianti #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
         "🇨🇭 CH | VLESS | @outline_ir #1",
         "🇷🇺 RU | VLESS | @prrofile_purple #1",
-        "🇫🇷 FR | VLESS | @red2ray #2",
+        "🇫🇷 FR | VLESS | @red2ray #1",
         "🇨🇭 CH | VLESS | @v2ray1_ng #1",
+        "🇷🇺 RU | VLESS | @v2ray_free_conf #1",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇩🇪 DE | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -115,14 +117,16 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇰🇿 KZ | VLESS | @filterk0sh #1",
+        "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇩🇪 DE | VLESS | @netmellianti #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
         "🇨🇭 CH | VLESS | @outline_ir #1",
         "🇷🇺 RU | VLESS | @prrofile_purple #1",
-        "🇫🇷 FR | VLESS | @red2ray #2",
+        "🇫🇷 FR | VLESS | @red2ray #1",
         "🇨🇭 CH | VLESS | @v2ray1_ng #1",
+        "🇷🇺 RU | VLESS | @v2ray_free_conf #1",
+        "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇩🇪 DE | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v_2rayng0 #1",
@@ -210,7 +214,7 @@
       }
     },
     {
-      "tag": "🇰🇿 KZ | VLESS | @filterk0sh #1",
+      "tag": "🇦🇪 AE | VLESS | @filterk0sh #1",
       "type": "vless",
       "server": "eng14.netliberated.org",
       "server_port": 443,
@@ -300,7 +304,7 @@
       }
     },
     {
-      "tag": "🇫🇷 FR | VLESS | @red2ray #2",
+      "tag": "🇫🇷 FR | VLESS | @red2ray #1",
       "type": "vless",
       "server": "greb.loralden.com",
       "server_port": 443,
@@ -327,6 +331,22 @@
       "server": "germany-vip.soft26.ir",
       "server_port": 8443,
       "uuid": "d39664df-5bc0-4f49-9894-8f03b4150082",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇷🇺 RU | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "ru.riotvpn.eu",
+      "server_port": 6443,
+      "uuid": "d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇩🇪 DE | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "de.riotvpn.eu",
+      "server_port": 6443,
+      "uuid": "f4253045-7eb5-4ab1-8653-88bbb2a10202",
       "packet_encoding": "xudp"
     },
     {
