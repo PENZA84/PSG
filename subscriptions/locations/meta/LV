@@ -23,8 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name": "🇪🇸 ES | VLESS | @v2raych #1", "server": "195.96.132.125", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "69a2af58-d74a-44ca-864a-e09b493f4274", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
-  - {"name": "🇪🇸 ES | VLESS | @v2raych #2", "server": "195.96.132.125", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "69a2af58-d74a-44ca-864a-e09b493f4274", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇱🇻 LV | VLESS | @megavpn_link #1", "server": "91.218.143.194", "port": 43798, "type": "vless", "skip-cert-verify": true, "uuid": "b7725d23-840a-4f8e-993c-69b40424cfc0", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -38,8 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇪🇸 ES | VLESS | @v2raych #1'
-      - '🇪🇸 ES | VLESS | @v2raych #2'
+      - '🇱🇻 LV | VLESS | @megavpn_link #1'
 
   - name: 🌍 Global Media
     type: select

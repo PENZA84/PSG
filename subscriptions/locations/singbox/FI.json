@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgVFc=
+//profile-title: base64:UFNHIHwgRkk=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -90,7 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇹🇼 TW | SS | @red2ray #1"
+        "🇫🇮 FI | VLESS | @mimitdl #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -98,7 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇹🇼 TW | SS | @red2ray #1"
+        "🇫🇮 FI | VLESS | @mimitdl #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -110,12 +110,12 @@
       "type": "direct"
     },
     {
-      "tag": "🇹🇼 TW | SS | @red2ray #1",
-      "type": "shadowsocks",
-      "server": "r3mrcg001269pz2.cybervena.com",
-      "server_port": 50099,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=",
-      "password": null
+      "tag": "🇫🇮 FI | VLESS | @mimitdl #1",
+      "type": "vless",
+      "server": "65.109.177.195",
+      "server_port": 5742,
+      "uuid": "887ad9d0-85bd-495f-b4af-10b066d32b9c",
+      "packet_encoding": "xudp"
     }
   ],
   "route": {
