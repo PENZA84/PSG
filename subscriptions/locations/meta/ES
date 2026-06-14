@@ -23,7 +23,8 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name": "🇸🇬 SG | VMESS | @hope_net #1", "server": "15.235.147.186", "port": 80, "type": "vmess", "skip-cert-verify": true, "uuid": "6fea1649-425b-4092-bf53-29792152c925", "alterId": 0, "cipher": "auto", "network": "ws", "tls": false, "ws-opts": {"path": "/sshkit/Ertusg86/635014638c264/", "headers": {"Host": "15.235.147.186"}}}
+  - {"name": "🇪🇸 ES | VLESS | @v2raych #1", "server": "195.96.132.125", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "69a2af58-d74a-44ca-864a-e09b493f4274", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇪🇸 ES | VLESS | @v2raych #2", "server": "195.96.132.125", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "69a2af58-d74a-44ca-864a-e09b493f4274", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +38,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇸🇬 SG | VMESS | @hope_net #1'
+      - '🇪🇸 ES | VLESS | @v2raych #1'
+      - '🇪🇸 ES | VLESS | @v2raych #2'
 
   - name: 🌍 Global Media
     type: select
