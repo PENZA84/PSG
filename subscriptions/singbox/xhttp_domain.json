@@ -94,7 +94,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇺🇸 US | VLESS | @flyv2ray #1",
-        "🇺🇸 US | VLESS | @kafing_2 #1"
+        "🇺🇸 US | VLESS | @flyv2ray #2",
+        "🇺🇸 US | VLESS | @kafing_2 #1",
+        "🇷🇺 RU | TROJAN | @vmesc #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -106,7 +108,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇺🇸 US | VLESS | @flyv2ray #1",
-        "🇺🇸 US | VLESS | @kafing_2 #1"
+        "🇺🇸 US | VLESS | @flyv2ray #2",
+        "🇺🇸 US | VLESS | @kafing_2 #1",
+        "🇷🇺 RU | TROJAN | @vmesc #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -198,12 +202,27 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇺🇸 US | VLESS | @flyv2ray #2",
+      "type": "vless",
+      "server": "global.connectingissues.ir",
+      "server_port": 80,
+      "uuid": "ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇺🇸 US | VLESS | @kafing_2 #1",
       "type": "vless",
       "server": "spd-mynames.global.ssl.fastly.net",
       "server_port": 80,
       "uuid": "8e378a41-d5e1-427a-aaf8-30190d4be0a0",
       "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇷🇺 RU | TROJAN | @vmesc #1",
+      "type": "trojan",
+      "server": "ip.feywebsite.ir",
+      "server_port": 8443,
+      "password": "15dde292f853ec5"
     }
   ],
   "route": {

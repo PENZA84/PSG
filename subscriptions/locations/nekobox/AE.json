@@ -79,8 +79,7 @@
         "direct",
         "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇦🇪 AE | SS | @manstervpn #1",
-        "🇦🇪 AE | VLESS | @rez1vpn #1",
-        "🇦🇪 AE | VLESS | @v2ray_free_conf #1"
+        "🇦🇪 AE | VLESS | @rez1vpn #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -90,8 +89,7 @@
       "outbounds": [
         "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇦🇪 AE | SS | @manstervpn #1",
-        "🇦🇪 AE | VLESS | @rez1vpn #1",
-        "🇦🇪 AE | VLESS | @v2ray_free_conf #1"
+        "🇦🇪 AE | VLESS | @rez1vpn #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -155,21 +153,6 @@
           "public_key": "",
           "short_id": "",
           "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇦🇪 AE | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "sv3.centerpc.ir",
-      "server_port": 2087,
-      "uuid": "036aabfa-24df-4c35-9602-5da87701f9e1",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "",
-        "headers": {
-          "Host": ""
         }
       }
     }
