@@ -111,13 +111,12 @@
         "🇸🇪 SE | VLESS | @realvpnmaster #4",
         "🇸🇪 SE | VLESS | @realvpnmaster #5",
         "🇸🇪 SE | VLESS | @realvpnmaster #6",
-        "🇸🇪 SE | VLESS | @red2ray #1",
         "🇸🇪 SE | VLESS | @serverv2ray00 #1",
         "🇸🇪 SE | VLESS | @v2logy #1",
         "🇸🇪 SE | VLESS | @v2logy #2",
         "🇸🇪 SE | VLESS | @v2logy #3",
-        "🇸🇪 SE | TUIC | @vipv2rey #1",
-        "🇸🇪 SE | VLESS | @NamiraConfigs #1"
+        "🇸🇪 SE | VLESS | @v2ray_free_conf #1",
+        "🇸🇪 SE | TUIC | @vipv2rey #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -146,13 +145,12 @@
         "🇸🇪 SE | VLESS | @realvpnmaster #4",
         "🇸🇪 SE | VLESS | @realvpnmaster #5",
         "🇸🇪 SE | VLESS | @realvpnmaster #6",
-        "🇸🇪 SE | VLESS | @red2ray #1",
         "🇸🇪 SE | VLESS | @serverv2ray00 #1",
         "🇸🇪 SE | VLESS | @v2logy #1",
         "🇸🇪 SE | VLESS | @v2logy #2",
         "🇸🇪 SE | VLESS | @v2logy #3",
-        "🇸🇪 SE | TUIC | @vipv2rey #1",
-        "🇸🇪 SE | VLESS | @NamiraConfigs #1"
+        "🇸🇪 SE | VLESS | @v2ray_free_conf #1",
+        "🇸🇪 SE | TUIC | @vipv2rey #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -395,14 +393,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇸🇪 SE | VLESS | @red2ray #1",
-      "type": "vless",
-      "server": "46.246.97.218",
-      "server_port": 2052,
-      "uuid": "037b730a-ea28-5191-ad7c-3424be5efe2e",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇸🇪 SE | VLESS | @serverv2ray00 #1",
       "type": "vless",
       "server": "185.146.173.59",
@@ -435,6 +425,14 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇸🇪 SE | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "13.51.238.84",
+      "server_port": 42316,
+      "uuid": "4f160454-fbf5-4e61-9d83-78f6b6c25d80",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇸🇪 SE | TUIC | @vipv2rey #1",
       "type": "tuic",
       "server": "70.34.197.98",
@@ -449,14 +447,6 @@
         "insecure": false,
         "alpn": null
       }
-    },
-    {
-      "tag": "🇸🇪 SE | VLESS | @NamiraConfigs #1",
-      "type": "vless",
-      "server": "109.120.132.142",
-      "server_port": 40617,
-      "uuid": "d8d05386-e381-40a4-bb63-715c208b3ed3",
-      "packet_encoding": "xudp"
     }
   ],
   "route": {
