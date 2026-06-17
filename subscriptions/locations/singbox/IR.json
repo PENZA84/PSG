@@ -98,15 +98,17 @@
         "🇮🇷 IR | VLESS | @ehsawn8 #2",
         "🇮🇷 IR | VLESS | @ehsawn8 #3",
         "🇮🇷 IR | VLESS | @ehsawn8 #4",
-        "🇮🇷 IR | VLESS | @father_vpn #1",
         "🇮🇷 IR | VLESS | @frev2rayng #1",
         "🇮🇷 IR | VMESS | @khoneproxy #1",
         "🇮🇷 IR | VMESS | @khoneproxy #2",
         "🇮🇷 IR | VLESS | @lax_vpn #1",
         "🇮🇷 IR | VLESS | @lemonshopvpn #1",
         "🇮🇷 IR | VLESS | @miov2ray #1",
+        "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #1",
+        "🇮🇷 IR | VLESS | @nofiltering2 #2",
+        "🇮🇷 IR | VLESS | @nofiltering2 #3",
         "🇮🇷 IR | VLESS | @realvpnmaster #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
@@ -133,15 +135,17 @@
         "🇮🇷 IR | VLESS | @ehsawn8 #2",
         "🇮🇷 IR | VLESS | @ehsawn8 #3",
         "🇮🇷 IR | VLESS | @ehsawn8 #4",
-        "🇮🇷 IR | VLESS | @father_vpn #1",
         "🇮🇷 IR | VLESS | @frev2rayng #1",
         "🇮🇷 IR | VMESS | @khoneproxy #1",
         "🇮🇷 IR | VMESS | @khoneproxy #2",
         "🇮🇷 IR | VLESS | @lax_vpn #1",
         "🇮🇷 IR | VLESS | @lemonshopvpn #1",
         "🇮🇷 IR | VLESS | @miov2ray #1",
+        "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @nofiltering2 #1",
+        "🇮🇷 IR | VLESS | @nofiltering2 #2",
+        "🇮🇷 IR | VLESS | @nofiltering2 #3",
         "🇮🇷 IR | VLESS | @realvpnmaster #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
@@ -256,14 +260,6 @@
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @father_vpn #1",
-      "type": "vless",
-      "server": "snapp.ir",
-      "server_port": 2052,
-      "uuid": "7b81a350-89c3-47da-a3a9-5f2b65313d03",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇮🇷 IR | VLESS | @frev2rayng #1",
       "type": "vless",
       "server": "zula.ir",
@@ -357,6 +353,28 @@
       }
     },
     {
+      "tag": "🇮🇷 IR | VLESS | @netmellianti #1",
+      "type": "vless",
+      "server": "pan.alissd.sbs",
+      "server_port": 2020,
+      "uuid": "03c0436a-5dfa-488e-a1be-a9718d48a85e",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
       "tag": "🇮🇷 IR | VLESS | @nn_vpn #1",
       "type": "vless",
       "server": "allsms.rozfa.com",
@@ -375,6 +393,22 @@
     },
     {
       "tag": "🇮🇷 IR | VLESS | @nofiltering2 #1",
+      "type": "vless",
+      "server": "tun2.axenet.company",
+      "server_port": 8443,
+      "uuid": "e6d74f1f-bce5-43e3-b65a-63bb6d825764",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @nofiltering2 #2",
+      "type": "vless",
+      "server": "tun2.axenet.company",
+      "server_port": 8443,
+      "uuid": "e6d74f1f-bce5-43e3-b65a-63bb6d825764",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @nofiltering2 #3",
       "type": "vless",
       "server": "sv3.azparadox.ir",
       "server_port": 8880,
