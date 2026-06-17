@@ -80,6 +80,7 @@
         "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇦🇪 AE | SS | @manstervpn #1",
         "🇦🇪 AE | VLESS | @rez1vpn #1",
+        "🇦🇪 AE | VLESS | @v2ray_free_conf #1",
         "🇦🇪 AE | VLESS | @v_2rayng0 #1"
       ],
       "tag": "proxy",
@@ -91,6 +92,7 @@
         "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇦🇪 AE | SS | @manstervpn #1",
         "🇦🇪 AE | VLESS | @rez1vpn #1",
+        "🇦🇪 AE | VLESS | @v2ray_free_conf #1",
         "🇦🇪 AE | VLESS | @v_2rayng0 #1"
       ],
       "tag": "auto",
@@ -157,6 +159,14 @@
           "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇦🇪 AE | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "31.56.89.53",
+      "server_port": 9092,
+      "uuid": "fd10b5bd-cc2d-4de6-b4c4-03abcd79bd7e",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇦🇪 AE | VLESS | @v_2rayng0 #1",

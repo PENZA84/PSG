@@ -78,7 +78,7 @@
         "auto",
         "direct",
         "🇰🇿 KZ | VLESS | @filterk0sh #1",
-        "🇰🇿 KZ | VLESS | @free1_vpn #1"
+        "🇰🇿 KZ | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -87,7 +87,7 @@
       "interval": "10m",
       "outbounds": [
         "🇰🇿 KZ | VLESS | @filterk0sh #1",
-        "🇰🇿 KZ | VLESS | @free1_vpn #1"
+        "🇰🇿 KZ | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -125,7 +125,7 @@
       }
     },
     {
-      "tag": "🇰🇿 KZ | VLESS | @free1_vpn #1",
+      "tag": "🇰🇿 KZ | VLESS | @v2ray_free_conf #1",
       "type": "vless",
       "server": "de.srv.anti-zapret.com",
       "server_port": 443,
