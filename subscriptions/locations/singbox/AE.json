@@ -90,9 +90,9 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇦🇪 AE | SS | @manstervpn #1",
-        "🇦🇪 AE | VLESS | @rez1vpn #1"
+        "🇦🇪 AE | VLESS | @rez1vpn #1",
+        "🇦🇪 AE | SS | @v2raych #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -100,9 +100,9 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇦🇪 AE | VLESS | @filterk0sh #1",
         "🇦🇪 AE | SS | @manstervpn #1",
-        "🇦🇪 AE | VLESS | @rez1vpn #1"
+        "🇦🇪 AE | VLESS | @rez1vpn #1",
+        "🇦🇪 AE | SS | @v2raych #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -112,28 +112,6 @@
     {
       "tag": "direct",
       "type": "direct"
-    },
-    {
-      "tag": "🇦🇪 AE | VLESS | @filterk0sh #1",
-      "type": "vless",
-      "server": "eng14.netliberated.org",
-      "server_port": 443,
-      "uuid": "0bb6dff2-0029-4b81-8c81-4fc70fae1ed9",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
     },
     {
       "tag": "🇦🇪 AE | SS | @manstervpn #1",
@@ -164,6 +142,14 @@
           "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇦🇪 AE | SS | @v2raych #1",
+      "type": "shadowsocks",
+      "server": "net12.shaygan.site",
+      "server_port": 2095,
+      "method": "Y2hhY2hhMjAtcG9seTEzMDU6dUV1M3hRTXhCVEwwUFNNYk9tMERSOUVsRXVSY3ZWM3JhQzlsVmpXUDVuND0=",
+      "password": null
     }
   ],
   "route": {
