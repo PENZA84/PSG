@@ -104,12 +104,14 @@
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2raych #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
-        "🇮🇷 IR | SS | @v2rayng3 #2",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #2",
         "🇮🇷 IR | VLESS | @v_2rayngvpn #1",
-        "🇮🇷 IR | VLESS | @v_2rayngvpn #2"
+        "🇮🇷 IR | VLESS | @v_2rayngvpn #2",
+        "🇮🇷 IR | VLESS | @vmesskhodam #1",
+        "🇮🇷 IR | VLESS | @vmesskhodam #2",
+        "🇮🇷 IR | TROJAN | @vpnplusee_free #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -144,12 +146,14 @@
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | VLESS | @v2raych #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
-        "🇮🇷 IR | SS | @v2rayng3 #2",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #1",
         "🇮🇷 IR | VLESS | @v2rayngvpn_1 #2",
         "🇮🇷 IR | VLESS | @v_2rayngvpn #1",
-        "🇮🇷 IR | VLESS | @v_2rayngvpn #2"
+        "🇮🇷 IR | VLESS | @v_2rayngvpn #2",
+        "🇮🇷 IR | VLESS | @vmesskhodam #1",
+        "🇮🇷 IR | VLESS | @vmesskhodam #2",
+        "🇮🇷 IR | TROJAN | @vpnplusee_free #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -470,14 +474,6 @@
       "password": null
     },
     {
-      "tag": "🇮🇷 IR | SS | @v2rayng3 #2",
-      "type": "shadowsocks",
-      "server": "212.16.68.6",
-      "server_port": 30874,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTUdLKzNWdElSKzB4dmVPYi9POFRSSkllQWZyNHJIelZ4bDRFS1pBUXBJPQ==",
-      "password": null
-    },
-    {
       "tag": "🇮🇷 IR | VLESS | @v2rayngalpha #1",
       "type": "vless",
       "server": "tgju.org",
@@ -516,6 +512,29 @@
       "server_port": 80,
       "uuid": "bfe63cc5-412d-4aa7-b04e-75c9d52b5831",
       "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #1",
+      "type": "vless",
+      "server": "188.213.198.238",
+      "server_port": 4050,
+      "uuid": "2959c801-7615-4852-9186-02f6efff7441",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #2",
+      "type": "vless",
+      "server": "188.213.198.238",
+      "server_port": 8090,
+      "uuid": "2959c801-7615-4852-9186-02f6efff7441",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | TROJAN | @vpnplusee_free #1",
+      "type": "trojan",
+      "server": "r1.beyondshop.site",
+      "server_port": 2087,
+      "password": "036c4b831e934b33b3964fdd1f850563"
     }
   ],
   "route": {
