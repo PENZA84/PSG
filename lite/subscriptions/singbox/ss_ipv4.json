@@ -99,7 +99,7 @@
         "🇺🇸 US | SS | @godv2rang #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
-        "🇳🇱 NL | SS | @v2raych #1",
+        "🇬🇧 GB | SS | @red2ray #1",
         "🇬🇧 GB | SS | @v2rayopen #1",
         "🇵🇪 PE | SS | @NamiraConfigs #1"
       ],
@@ -118,7 +118,7 @@
         "🇺🇸 US | SS | @godv2rang #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
-        "🇳🇱 NL | SS | @v2raych #1",
+        "🇬🇧 GB | SS | @red2ray #1",
         "🇬🇧 GB | SS | @v2rayopen #1",
         "🇵🇪 PE | SS | @NamiraConfigs #1"
       ],
@@ -252,11 +252,11 @@
       "password": null
     },
     {
-      "tag": "🇳🇱 NL | SS | @v2raych #1",
+      "tag": "🇬🇧 GB | SS | @red2ray #1",
       "type": "shadowsocks",
-      "server": "185.246.153.12",
-      "server_port": 31348,
-      "method": "YXV0bzo=",
+      "server": "82.38.31.182",
+      "server_port": 8080,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
       "password": null
     },
     {
