@@ -685,8 +685,6 @@
         "title": "پروکسی و v2rayمهربانی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mehrosaboran.jpg",
         "types": [
-            "hy2",
-            "ss",
             "trojan",
             "vless"
         ]
@@ -1211,11 +1209,7 @@
     "tobevasl": {
         "title": "To Be",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/tobevasl.jpg",
-        "types": [
-            "ss",
-            "vless",
-            "vmess"
-        ]
+        "types": []
     },
     "torang_vpn": {
         "title": "𝗧𝗢𝗥𝗔𝗡𝗚 | 𝗩𝗣𝗡 🍊",

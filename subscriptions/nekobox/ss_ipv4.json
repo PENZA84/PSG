@@ -90,6 +90,7 @@
         "🇬🇧 GB | SS | @netfreedom0 #3",
         "🇬🇧 GB | SS | @netfreedom0 #4",
         "🇿🇦 ZA | SS | @outline_ir #1",
+        "🇬🇧 GB | SS | @outline_ir #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇬🇧 GB | SS | @red2ray #1",
@@ -118,6 +119,7 @@
         "🇬🇧 GB | SS | @netfreedom0 #3",
         "🇬🇧 GB | SS | @netfreedom0 #4",
         "🇿🇦 ZA | SS | @outline_ir #1",
+        "🇬🇧 GB | SS | @outline_ir #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇬🇧 GB | SS | @red2ray #1",
@@ -290,6 +292,14 @@
       "server": "4.168.196.7",
       "server_port": 443,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aVcyR0VsT0xXbDladGpq",
+      "password": null
+    },
+    {
+      "tag": "🇬🇧 GB | SS | @outline_ir #1",
+      "type": "shadowsocks",
+      "server": "82.38.31.11",
+      "server_port": 8080,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
       "password": null
     },
     {
