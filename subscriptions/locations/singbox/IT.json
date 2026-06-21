@@ -94,7 +94,6 @@
         "🇮🇹 IT | VLESS | @filtershekan_channel #2",
         "🇮🇹 IT | VLESS | @free1_vpn #1",
         "🇮🇹 IT | VLESS | @selinc #1",
-        "🇮🇹 IT | VLESS | @v2raych #1",
         "🇮🇹 IT | VLESS | @vpn_ioss #1"
       ],
       "tag": "proxy",
@@ -107,7 +106,6 @@
         "🇮🇹 IT | VLESS | @filtershekan_channel #2",
         "🇮🇹 IT | VLESS | @free1_vpn #1",
         "🇮🇹 IT | VLESS | @selinc #1",
-        "🇮🇹 IT | VLESS | @v2raych #1",
         "🇮🇹 IT | VLESS | @vpn_ioss #1"
       ],
       "tag": "auto",
@@ -164,28 +162,6 @@
       "server_port": 8880,
       "uuid": "8dc7722c-2767-4eea-a28b-2f8daacc07e3",
       "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇮🇹 IT | VLESS | @v2raych #1",
-      "type": "vless",
-      "server": "31.76.113.23",
-      "server_port": 443,
-      "uuid": "dfc0cb9d-f005-41b0-848c-7703bd39d0de",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
     },
     {
       "tag": "🇮🇹 IT | VLESS | @vpn_ioss #1",
