@@ -99,12 +99,10 @@
         "🇺🇸 US | VLESS | @flyv2ray #3",
         "🇽🇽 XX | VLESS | @free1_vpn #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇺🇸 US | VLESS | @prrofile_purple #1",
-        "🇺🇸 US | VLESS | @prrofile_purple #2",
-        "🇺🇸 US | VLESS | @prrofile_purple #3",
+        "🇳🇱 NL | VLESS | @red2ray #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
-        "🇽🇽 XX | VLESS | @vmesskhodam #3",
-        "🇽🇽 XX | VLESS | @vmesskhodam #4"
+        "🇽🇽 XX | VLESS | @vmesskhodam #1",
+        "🇽🇽 XX | VLESS | @vmesskhodam #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -121,12 +119,10 @@
         "🇺🇸 US | VLESS | @flyv2ray #3",
         "🇽🇽 XX | VLESS | @free1_vpn #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇺🇸 US | VLESS | @prrofile_purple #1",
-        "🇺🇸 US | VLESS | @prrofile_purple #2",
-        "🇺🇸 US | VLESS | @prrofile_purple #3",
+        "🇳🇱 NL | VLESS | @red2ray #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
-        "🇽🇽 XX | VLESS | @vmesskhodam #3",
-        "🇽🇽 XX | VLESS | @vmesskhodam #4"
+        "🇽🇽 XX | VLESS | @vmesskhodam #1",
+        "🇽🇽 XX | VLESS | @vmesskhodam #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -276,27 +272,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇺🇸 US | VLESS | @prrofile_purple #1",
+      "tag": "🇳🇱 NL | VLESS | @red2ray #1",
       "type": "vless",
-      "server": "euro.connectingissues.ir",
-      "server_port": 80,
-      "uuid": "884d809e-de48-4fa8-ab97-30b080789702",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @prrofile_purple #2",
-      "type": "vless",
-      "server": "global.connectingissues.ir",
-      "server_port": 80,
-      "uuid": "884d809e-de48-4fa8-ab97-30b080789702",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @prrofile_purple #3",
-      "type": "vless",
-      "server": "mci.connectingissues.ir",
-      "server_port": 80,
-      "uuid": "884d809e-de48-4fa8-ab97-30b080789702",
+      "server": "old2.v2xpin.de",
+      "server_port": 8443,
+      "uuid": "b11e7062-4508-4188-9d66-e48c66e6a4f9",
       "packet_encoding": "xudp"
     },
     {
@@ -308,7 +288,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #3",
+      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #1",
       "type": "vless",
       "server": "www.speedtest.net",
       "server_port": 2053,
@@ -316,7 +296,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #4",
+      "tag": "🇽🇽 XX | VLESS | @vmesskhodam #2",
       "type": "vless",
       "server": "www.speedtest.net",
       "server_port": 2053,
