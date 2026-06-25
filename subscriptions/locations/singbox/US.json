@@ -91,7 +91,6 @@
         "auto",
         "direct",
         "🇺🇸 US | VLESS | @buffalo_vpn #1",
-        "🇺🇸 US | VMESS | @dailyv2ray #1",
         "🇺🇸 US | VLESS | @deli_servers #1",
         "🇺🇸 US | VLESS | @easy_free_vpn #1",
         "🇺🇸 US | VLESS | @ehsawn8 #1",
@@ -116,22 +115,20 @@
         "🇺🇸 US | VLESS | @jokerv2ray #1",
         "🇺🇸 US | VLESS | @jokerv2ray #2",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇺🇸 US | VMESS | @khoneproxy #1",
         "🇺🇸 US | VLESS | @manstervpn #1",
         "🇺🇸 US | VLESS | @minovpnch #1",
         "🇺🇸 US | VLESS | @minovpnch #2",
         "🇺🇸 US | VLESS | @msv2raynp #1",
         "🇺🇸 US | VLESS | @msv2raynp #2",
-        "🇺🇸 US | VLESS | @netfreedom0 #1",
         "🇺🇸 US | VLESS | @netmellianti #1",
         "🇺🇸 US | VLESS | @netmellianti #2",
         "🇺🇸 US | VLESS | @netmellianti #3",
         "🇺🇸 US | VLESS | @nofiltering2 #1",
         "🇺🇸 US | VLESS | @nofiltering2 #2",
-        "🇺🇸 US | VLESS | @outline_ir #1",
         "🇺🇸 US | VMESS | @prooxyk #1",
         "🇺🇸 US | VMESS | @proxy48 #1",
         "🇺🇸 US | VLESS | @proxygrizzly #1",
+        "🇺🇸 US | VLESS | @prrofile_purple #1",
         "🇺🇸 US | VLESS | @public504 #1",
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇺🇸 US | TROJAN | @rez1vpn #1",
@@ -140,15 +137,17 @@
         "🇺🇸 US | VMESS | @v2ray4win #2",
         "🇺🇸 US | TROJAN | @v2ray_collector #1",
         "🇺🇸 US | VLESS | @v2ray_collector #1",
-        "🇺🇸 US | TROJAN | @v2ray_free_conf #1",
-        "🇺🇸 US | TROJAN | @v2ray_free_conf #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #2",
         "🇺🇸 US | VLESS | @v2ray_youtube #1",
         "🇺🇸 US | VLESS | @v2ray_youtube #2",
         "🇺🇸 US | VLESS | @v2raych #1",
         "🇺🇸 US | VLESS | @v2raych #2",
+        "🇺🇸 US | TROJAN | @v2raych #1",
         "🇺🇸 US | VLESS | @v2raying #1",
         "🇺🇸 US | TROJAN | @v2rayng3 #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
+        "🇺🇸 US | VLESS | @v2rayngvpn_1 #1",
         "🇺🇸 US | VLESS | @v_2rayng0 #1",
         "🇺🇸 US | VLESS | @v_2rayng0 #2",
         "🇺🇸 US | VLESS | @vboxpanel #1",
@@ -167,7 +166,6 @@
       "interval": "10m",
       "outbounds": [
         "🇺🇸 US | VLESS | @buffalo_vpn #1",
-        "🇺🇸 US | VMESS | @dailyv2ray #1",
         "🇺🇸 US | VLESS | @deli_servers #1",
         "🇺🇸 US | VLESS | @easy_free_vpn #1",
         "🇺🇸 US | VLESS | @ehsawn8 #1",
@@ -192,22 +190,20 @@
         "🇺🇸 US | VLESS | @jokerv2ray #1",
         "🇺🇸 US | VLESS | @jokerv2ray #2",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇺🇸 US | VMESS | @khoneproxy #1",
         "🇺🇸 US | VLESS | @manstervpn #1",
         "🇺🇸 US | VLESS | @minovpnch #1",
         "🇺🇸 US | VLESS | @minovpnch #2",
         "🇺🇸 US | VLESS | @msv2raynp #1",
         "🇺🇸 US | VLESS | @msv2raynp #2",
-        "🇺🇸 US | VLESS | @netfreedom0 #1",
         "🇺🇸 US | VLESS | @netmellianti #1",
         "🇺🇸 US | VLESS | @netmellianti #2",
         "🇺🇸 US | VLESS | @netmellianti #3",
         "🇺🇸 US | VLESS | @nofiltering2 #1",
         "🇺🇸 US | VLESS | @nofiltering2 #2",
-        "🇺🇸 US | VLESS | @outline_ir #1",
         "🇺🇸 US | VMESS | @prooxyk #1",
         "🇺🇸 US | VMESS | @proxy48 #1",
         "🇺🇸 US | VLESS | @proxygrizzly #1",
+        "🇺🇸 US | VLESS | @prrofile_purple #1",
         "🇺🇸 US | VLESS | @public504 #1",
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇺🇸 US | TROJAN | @rez1vpn #1",
@@ -216,15 +212,17 @@
         "🇺🇸 US | VMESS | @v2ray4win #2",
         "🇺🇸 US | TROJAN | @v2ray_collector #1",
         "🇺🇸 US | VLESS | @v2ray_collector #1",
-        "🇺🇸 US | TROJAN | @v2ray_free_conf #1",
-        "🇺🇸 US | TROJAN | @v2ray_free_conf #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #2",
         "🇺🇸 US | VLESS | @v2ray_youtube #1",
         "🇺🇸 US | VLESS | @v2ray_youtube #2",
         "🇺🇸 US | VLESS | @v2raych #1",
         "🇺🇸 US | VLESS | @v2raych #2",
+        "🇺🇸 US | TROJAN | @v2raych #1",
         "🇺🇸 US | VLESS | @v2raying #1",
         "🇺🇸 US | TROJAN | @v2rayng3 #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
+        "🇺🇸 US | VLESS | @v2rayngvpn_1 #1",
         "🇺🇸 US | VLESS | @v_2rayng0 #1",
         "🇺🇸 US | VLESS | @v_2rayng0 #2",
         "🇺🇸 US | VLESS | @vboxpanel #1",
@@ -266,22 +264,6 @@
         "path": "",
         "headers": {
           "Host": ""
-        }
-      }
-    },
-    {
-      "tag": "🇺🇸 US | VMESS | @dailyv2ray #1",
-      "type": "vmess",
-      "server": "104.31.16.104",
-      "server_port": 80,
-      "uuid": "12c25b50-f6c7-11ed-b230-205c6d5f5d78",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "path": "/qmbdkyzn",
-        "headers": {
-          "Host": "us-4.0rd.net"
         }
       }
     },
@@ -576,31 +558,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇺🇸 US | VMESS | @khoneproxy #1",
-      "type": "vmess",
-      "server": "us-2.0rd.net",
-      "server_port": 443,
-      "uuid": "597888c0-a318-11ed-b536-205c6d5f5d78",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tq98e0yk",
-        "headers": {
-          "Host": ""
-        }
-      }
-    },
-    {
       "tag": "🇺🇸 US | VLESS | @manstervpn #1",
       "type": "vless",
       "server": "151.101.3.8",
@@ -656,14 +613,6 @@
       "server": "147.185.161.229",
       "server_port": 80,
       "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @netfreedom0 #1",
-      "type": "vless",
-      "server": "72.56.92.177",
-      "server_port": 40443,
-      "uuid": "4480161e-2c59-4d37-8736-675c9af32bf1",
       "packet_encoding": "xudp"
     },
     {
@@ -725,14 +674,6 @@
       }
     },
     {
-      "tag": "🇺🇸 US | VLESS | @outline_ir #1",
-      "type": "vless",
-      "server": "151.101.194.219",
-      "server_port": 80,
-      "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇺🇸 US | VMESS | @prooxyk #1",
       "type": "vmess",
       "server": "77.v2ray1.xyz",
@@ -788,6 +729,23 @@
       "server": "147.182.183.207",
       "server_port": 443,
       "uuid": "e7be1334-6a1d-47c0-8c9a-c7a5b8575499",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @prrofile_purple #1",
+      "type": "vless",
+      "server": "vxc.galardoxtn.ir",
+      "server_port": 443,
+      "uuid": "5f65c1ae-9e7a-48ea-8ecf-6822365cd177",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -932,11 +890,12 @@
       }
     },
     {
-      "tag": "🇺🇸 US | TROJAN | @v2ray_free_conf #1",
-      "type": "trojan",
-      "server": "141.193.213.21",
+      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "199.232.245.208",
       "server_port": 443,
-      "password": "humanity",
+      "uuid": "fc71fffb-3743-4cfe-9edb-c8cb513e9146",
+      "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "server_name": "",
@@ -948,11 +907,12 @@
       }
     },
     {
-      "tag": "🇺🇸 US | TROJAN | @v2ray_free_conf #2",
-      "type": "trojan",
-      "server": "208.103.161.110",
+      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #2",
+      "type": "vless",
+      "server": "fastly.videobazi.com",
       "server_port": 443,
-      "password": "humanity",
+      "uuid": "40bf0425-e1b5-41a0-aad8-b482d2aee498",
+      "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "server_name": "",
@@ -1000,18 +960,59 @@
     {
       "tag": "🇺🇸 US | VLESS | @v2raych #1",
       "type": "vless",
-      "server": "151.101.110.151",
-      "server_port": 80,
-      "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
-      "packet_encoding": "xudp"
+      "server": "fast.cd-tur4.ir",
+      "server_port": 443,
+      "uuid": "e461afdd-7c8e-473e-815d-88b72960c6b1",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "",
+        "headers": {
+          "Host": ""
+        }
+      }
     },
     {
       "tag": "🇺🇸 US | VLESS | @v2raych #2",
       "type": "vless",
-      "server": "euro.cloud-play.ir",
-      "server_port": 80,
-      "uuid": "7f12b037-1da1-4128-b8e8-bf761bcc8980",
-      "packet_encoding": "xudp"
+      "server": "fastly.videobazi.com",
+      "server_port": 443,
+      "uuid": "40bf0425-e1b5-41a0-aad8-b482d2aee498",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US | TROJAN | @v2raych #1",
+      "type": "trojan",
+      "server": "151.101.110.219",
+      "server_port": 443,
+      "password": "MiTiVPN",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "🇺🇸 US | VLESS | @v2raying #1",
@@ -1053,6 +1054,14 @@
           "fingerprint": "chrome"
         }
       }
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @v2rayngvpn_1 #1",
+      "type": "vless",
+      "server": "151.101.0.1",
+      "server_port": 80,
+      "uuid": "0058c215-ab1e-400c-a403-b5b2fda7e846",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇺🇸 US | VLESS | @v_2rayng0 #1",

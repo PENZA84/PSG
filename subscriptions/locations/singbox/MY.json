@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgRVM=
+//profile-title: base64:UFNHIHwgTVk=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -90,7 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇪🇸 ES | TROJAN | @v2ray_free_conf #1"
+        "🇲🇾 MY | VLESS | @outline_ir #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -98,7 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇪🇸 ES | TROJAN | @v2ray_free_conf #1"
+        "🇲🇾 MY | VLESS | @outline_ir #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -110,11 +110,21 @@
       "type": "direct"
     },
     {
-      "tag": "🇪🇸 ES | TROJAN | @v2ray_free_conf #1",
-      "type": "trojan",
-      "server": "193.148.19.210",
-      "server_port": 52794,
-      "password": "2eutknankxtbgkwcajzt"
+      "tag": "🇲🇾 MY | VLESS | @outline_ir #1",
+      "type": "vless",
+      "server": "sexi.carderrr.com",
+      "server_port": 443,
+      "uuid": "SoonTeam",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     }
   ],
   "route": {
