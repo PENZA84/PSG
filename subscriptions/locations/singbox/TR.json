@@ -91,10 +91,7 @@
         "auto",
         "direct",
         "🇹🇷 TR | VLESS | @father_vpn #1",
-        "🇹🇷 TR | VLESS | @turboo_server #1",
-        "🇹🇷 TR | VLESS | @v2ray_free_conf #1",
-        "🇹🇷 TR | VLESS | @v2raych #1",
-        "🇹🇷 TR | VLESS | @vpnowl #1"
+        "🇹🇷 TR | VLESS | @turboo_server #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -103,10 +100,7 @@
       "interval": "10m",
       "outbounds": [
         "🇹🇷 TR | VLESS | @father_vpn #1",
-        "🇹🇷 TR | VLESS | @turboo_server #1",
-        "🇹🇷 TR | VLESS | @v2ray_free_conf #1",
-        "🇹🇷 TR | VLESS | @v2raych #1",
-        "🇹🇷 TR | VLESS | @vpnowl #1"
+        "🇹🇷 TR | VLESS | @turboo_server #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -144,62 +138,6 @@
           "public_key": "",
           "short_id": "",
           "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "87.249.139.244",
-      "server_port": 8443,
-      "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @v2raych #1",
-      "type": "vless",
-      "server": "91.228.227.86",
-      "server_port": 2096,
-      "uuid": "Telegramm%3AX_RAY_VPN1",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @vpnowl #1",
-      "type": "vless",
-      "server": "tr.kkkl.ir",
-      "server_port": 443,
-      "uuid": "5d2062a4-e636-58af-b488-d6bdbea719bf",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
         }
       }
     }
