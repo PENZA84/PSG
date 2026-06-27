@@ -101,7 +101,7 @@
         "🇬🇧 GB | SS | @netfreedom0 #2",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
-        "🇬🇧 GB | SS | @red2ray #1",
+        "🇳🇱 NL | SS | @v2ray_youtube #1",
         "🇬🇧 GB | SS | @vpn_ioss #1",
         "🇵🇪 PE | SS | @NamiraConfigs #1"
       ],
@@ -122,7 +122,7 @@
         "🇬🇧 GB | SS | @netfreedom0 #2",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
-        "🇬🇧 GB | SS | @red2ray #1",
+        "🇳🇱 NL | SS | @v2ray_youtube #1",
         "🇬🇧 GB | SS | @vpn_ioss #1",
         "🇵🇪 PE | SS | @NamiraConfigs #1"
       ],
@@ -272,11 +272,11 @@
       "password": null
     },
     {
-      "tag": "🇬🇧 GB | SS | @red2ray #1",
+      "tag": "🇳🇱 NL | SS | @v2ray_youtube #1",
       "type": "shadowsocks",
-      "server": "82.38.31.212",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "server": "108.181.58.239",
+      "server_port": 8388,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=",
       "password": null
     },
     {
