@@ -88,7 +88,7 @@
         "🇺🇸 US | TROJAN | @prrofile_purple #4",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇽🇽 XX | TROJAN | @v2raych #1"
+        "🇺🇸 US | TROJAN | @v2raych #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -107,7 +107,7 @@
         "🇺🇸 US | TROJAN | @prrofile_purple #4",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇽🇽 XX | TROJAN | @v2raych #1"
+        "🇺🇸 US | TROJAN | @v2raych #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -314,11 +314,11 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | TROJAN | @v2raych #1",
+      "tag": "🇺🇸 US | TROJAN | @v2raych #1",
       "type": "trojan",
-      "server": "www.multiplydose.com",
+      "server": "iranpoems.ir",
       "server_port": 443,
-      "password": "humanity",
+      "password": "Mitivpn",
       "tls": {
         "enabled": true,
         "server_name": "",

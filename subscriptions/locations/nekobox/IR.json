@@ -92,7 +92,6 @@
         "🇮🇷 IR | VLESS | @miov2ray #1",
         "🇮🇷 IR | VLESS | @mpproxy #1",
         "🇮🇷 IR | VLESS | @mpproxy #2",
-        "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇮🇷 IR | TROJAN | @netmellianti #1",
         "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @outline_ir #1",
@@ -100,6 +99,7 @@
         "🇮🇷 IR | VLESS | @realvpnmaster #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
+        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
         "🇮🇷 IR | SS | @v2rayng3 #2",
@@ -128,7 +128,6 @@
         "🇮🇷 IR | VLESS | @miov2ray #1",
         "🇮🇷 IR | VLESS | @mpproxy #1",
         "🇮🇷 IR | VLESS | @mpproxy #2",
-        "🇮🇷 IR | VLESS | @netmellianti #1",
         "🇮🇷 IR | TROJAN | @netmellianti #1",
         "🇮🇷 IR | VLESS | @nn_vpn #1",
         "🇮🇷 IR | VLESS | @outline_ir #1",
@@ -136,6 +135,7 @@
         "🇮🇷 IR | VLESS | @realvpnmaster #1",
         "🇮🇷 IR | VLESS | @v2ang #1",
         "🇮🇷 IR | VLESS | @v2ang #2",
+        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
         "🇮🇷 IR | SS | @v2rayng3 #2",
@@ -336,14 +336,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @netmellianti #1",
-      "type": "vless",
-      "server": "185.143.235.200",
-      "server_port": 80,
-      "uuid": "c1d05f0a-c18c-4490-906c-42d2a20ce694",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇮🇷 IR | TROJAN | @netmellianti #1",
       "type": "trojan",
       "server": "sv4.hosttbd.ir",
@@ -405,6 +397,14 @@
       "server": "::ffff:c197:8d24",
       "server_port": 2026,
       "uuid": "c9c416ed-8a72-4572-8bd6-12292dee8dfd",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "snapp.ir",
+      "server_port": 2095,
+      "uuid": "41bc5a50-7c41-4078-9a2a-611ab1c6dddb",
       "packet_encoding": "xudp"
     },
     {
