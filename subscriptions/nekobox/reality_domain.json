@@ -81,13 +81,14 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
-        "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇩🇪 DE | VLESS | @free1_vpn #3",
+        "🇸🇨 SC | VLESS | @netfreedom0 #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
         "🇫🇷 FR | VLESS | @outline_ir #1",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
+        "🇭🇰 HK | VLESS | @red2ray #1",
+        "🇭🇰 HK | VLESS | @v2ray_free_conf #1",
         "🇷🇺 RU | VLESS | @v2raytg #1",
         "🇫🇷 FR | VLESS | @vmesc #1",
         "🇩🇪 DE | VLESS | @vmesc #2",
@@ -103,13 +104,14 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
-        "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇩🇪 DE | VLESS | @free1_vpn #3",
+        "🇸🇨 SC | VLESS | @netfreedom0 #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
         "🇫🇷 FR | VLESS | @outline_ir #1",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
+        "🇭🇰 HK | VLESS | @red2ray #1",
+        "🇭🇰 HK | VLESS | @v2ray_free_conf #1",
         "🇷🇺 RU | VLESS | @v2raytg #1",
         "🇫🇷 FR | VLESS | @vmesc #1",
         "🇩🇪 DE | VLESS | @vmesc #2",
@@ -223,14 +225,6 @@
       }
     },
     {
-      "tag": "🇫🇮 FI | VLESS | @free1_vpn #1",
-      "type": "vless",
-      "server": "fanlandv2.sorcepack.ir",
-      "server_port": 52077,
-      "uuid": "f6c9ef00-feb2-456e-ac54-11fd5a996cc3",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇩🇪 DE | VLESS | @free1_vpn #3",
       "type": "vless",
       "server": "de.ko.prod.n7.homes",
@@ -251,6 +245,14 @@
           "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇸🇨 SC | VLESS | @netfreedom0 #1",
+      "type": "vless",
+      "server": "ch-gt-02.com",
+      "server_port": 8443,
+      "uuid": "06bcd513-ef0b-4c0c-a03b-e25fcda66fe2",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇫🇮 FI | VLESS | @netfreedom0 #1",
@@ -313,11 +315,33 @@
       }
     },
     {
-      "tag": "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
+      "tag": "🇭🇰 HK | VLESS | @red2ray #1",
       "type": "vless",
-      "server": "pl.fantoff.online",
-      "server_port": 443,
-      "uuid": "b95dd8e5-2758-408f-be99-9362eecee609",
+      "server": "vip.bcjdvip.com",
+      "server_port": 14002,
+      "uuid": "3e06720a-86f0-49b9-8f00-062681e3b385",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "snap.amod.site",
+      "server_port": 3040,
+      "uuid": "c56ea170-ca03-4aa4-9cd8-001ef859a33d",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
