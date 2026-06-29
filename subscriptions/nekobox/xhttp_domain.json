@@ -85,8 +85,9 @@
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇸🇨 SC | VLESS | @prrofile_purple #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
+        "🇽🇽 XX | VLESS | @v2ray_free_conf #2",
         "🇮🇷 IR | VLESS | @vmesc #1",
-        "🇽🇽 XX | VLESS | @vpn_ioss #1"
+        "🇸🇨 SC | VLESS | @vpn_ioss #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -102,8 +103,9 @@
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇸🇨 SC | VLESS | @prrofile_purple #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
+        "🇽🇽 XX | VLESS | @v2ray_free_conf #2",
         "🇮🇷 IR | VLESS | @vmesc #1",
-        "🇽🇽 XX | VLESS | @vpn_ioss #1"
+        "🇸🇨 SC | VLESS | @vpn_ioss #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -231,6 +233,23 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇽🇽 XX | VLESS | @v2ray_free_conf #2",
+      "type": "vless",
+      "server": "ipw.ygdfw.com",
+      "server_port": 443,
+      "uuid": "bbab81f3-87a0-4e63-8b3b-010c645d8da7",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "tag": "🇮🇷 IR | VLESS | @vmesc #1",
       "type": "vless",
       "server": "s1.zynavo.ir",
@@ -239,7 +258,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @vpn_ioss #1",
+      "tag": "🇸🇨 SC | VLESS | @vpn_ioss #1",
       "type": "vless",
       "server": "ipw.ygdfw.com",
       "server_port": 443,

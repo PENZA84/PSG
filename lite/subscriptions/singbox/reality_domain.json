@@ -93,7 +93,6 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇬🇧 GB | VLESS | @bored_vpn #1",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
         "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1"
@@ -107,7 +106,6 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇬🇧 GB | VLESS | @bored_vpn #1",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
         "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1"
@@ -190,28 +188,6 @@
         "path": "",
         "headers": {
           "Host": ""
-        }
-      }
-    },
-    {
-      "tag": "🇬🇧 GB | VLESS | @bored_vpn #1",
-      "type": "vless",
-      "server": "all27.allenshop100.ir",
-      "server_port": 443,
-      "uuid": "9cda451e-0adf-4df1-a5b4-7fec8f363c10",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
         }
       }
     },

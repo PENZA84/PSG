@@ -81,7 +81,6 @@
         "🇬🇧 GB | SS | @NamiraConfigs #2",
         "🇬🇧 GB | SS | @NamiraConfigs #3",
         "🇬🇧 GB | SS | @NamiraConfigs #4",
-        "🇬🇧 GB | VLESS | @bored_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
         "🇬🇧 GB | TROJAN | @mehrosaboran #1",
@@ -106,7 +105,6 @@
         "🇬🇧 GB | SS | @NamiraConfigs #2",
         "🇬🇧 GB | SS | @NamiraConfigs #3",
         "🇬🇧 GB | SS | @NamiraConfigs #4",
-        "🇬🇧 GB | VLESS | @bored_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
         "🇬🇧 GB | TROJAN | @mehrosaboran #1",
@@ -137,7 +135,7 @@
     {
       "tag": "🇬🇧 GB | SS | @NamiraConfigs #1",
       "type": "shadowsocks",
-      "server": "82.38.31.213",
+      "server": "82.38.31.191",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
       "password": null
@@ -145,15 +143,15 @@
     {
       "tag": "🇬🇧 GB | SS | @NamiraConfigs #2",
       "type": "shadowsocks",
-      "server": "82.38.31.187",
+      "server": "82.38.31.2",
       "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
       "password": null
     },
     {
       "tag": "🇬🇧 GB | SS | @NamiraConfigs #3",
       "type": "shadowsocks",
-      "server": "82.38.31.215",
+      "server": "82.38.31.179",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
       "password": null
@@ -161,32 +159,10 @@
     {
       "tag": "🇬🇧 GB | SS | @NamiraConfigs #4",
       "type": "shadowsocks",
-      "server": "82.38.31.191",
+      "server": "82.38.31.10",
       "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
       "password": null
-    },
-    {
-      "tag": "🇬🇧 GB | VLESS | @bored_vpn #1",
-      "type": "vless",
-      "server": "all27.allenshop100.ir",
-      "server_port": 443,
-      "uuid": "9cda451e-0adf-4df1-a5b4-7fec8f363c10",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
     },
     {
       "tag": "🇬🇧 GB | SS | @free4allvpn #1",
