@@ -83,8 +83,8 @@
         "🇽🇽 XX | VLESS | @configv2rayforfree #2",
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇺🇸 US | VLESS | @red2ray #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
+        "🇮🇷 IR | VLESS | @vmesskhodam #1",
         "🇽🇽 XX | VLESS | @vpn_ioss #1"
       ],
       "tag": "proxy",
@@ -99,8 +99,8 @@
         "🇽🇽 XX | VLESS | @configv2rayforfree #2",
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇺🇸 US | VLESS | @red2ray #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
+        "🇮🇷 IR | VLESS | @vmesskhodam #1",
         "🇽🇽 XX | VLESS | @vpn_ioss #1"
       ],
       "tag": "auto",
@@ -213,28 +213,19 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇺🇸 US | VLESS | @red2ray #1",
-      "type": "vless",
-      "server": "shadyvpn-production-afff.up.railway.app",
-      "server_port": 443,
-      "uuid": "a692da68-3bb0-4716-909a-9918acfcef30",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
       "tag": "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
       "type": "vless",
       "server": "s8.meoshop.ir",
       "server_port": 2053,
       "uuid": "2dacceea-8664-4fed-ba16-27fdd3b40f3e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @vmesskhodam #1",
+      "type": "vless",
+      "server": "s1.zynavo.ir",
+      "server_port": 2087,
+      "uuid": "10646efa-0e83-4cb1-c90c-d141ddcea85d",
       "packet_encoding": "xudp"
     },
     {

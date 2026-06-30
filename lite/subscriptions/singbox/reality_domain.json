@@ -96,7 +96,6 @@
         "🇬🇧 GB | VLESS | @bored_vpn #1",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
         "🇩🇪 DE | VLESS | @vmesc #1",
         "🇭🇰 HK | VLESS | @vmesskhodam #1"
       ],
@@ -112,7 +111,6 @@
         "🇬🇧 GB | VLESS | @bored_vpn #1",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
         "🇨🇾 CY | VLESS | @nn_vpn #1",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
         "🇩🇪 DE | VLESS | @vmesc #1",
         "🇭🇰 HK | VLESS | @vmesskhodam #1"
       ],
@@ -248,28 +246,6 @@
       "server_port": 80,
       "uuid": "59acb90b-fb9d-433b-a2f0-c039cf23dfc7",
       "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "pl.fantoff.online",
-      "server_port": 443,
-      "uuid": "b95dd8e5-2758-408f-be99-9362eecee609",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
     },
     {
       "tag": "🇩🇪 DE | VLESS | @vmesc #1",

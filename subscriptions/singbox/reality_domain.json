@@ -101,9 +101,6 @@
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
         "🇮🇷 IR | VLESS | @outline_ir #1",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
-        "🇫🇷 FR | VLESS | @v2raych #1",
-        "🇫🇷 FR | VLESS | @v2raych #2",
         "🇷🇺 RU | VLESS | @v2raytg #1",
         "🇩🇪 DE | VLESS | @vmesc #1",
         "🇭🇰 HK | VLESS | @vmesskhodam #1"
@@ -125,9 +122,6 @@
         "🇨🇾 CY | VLESS | @nn_vpn #1",
         "🇨🇾 CY | VLESS | @nn_vpn #2",
         "🇮🇷 IR | VLESS | @outline_ir #1",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
-        "🇫🇷 FR | VLESS | @v2raych #1",
-        "🇫🇷 FR | VLESS | @v2raych #2",
         "🇷🇺 RU | VLESS | @v2raytg #1",
         "🇩🇪 DE | VLESS | @vmesc #1",
         "🇭🇰 HK | VLESS | @vmesskhodam #1"
@@ -331,72 +325,6 @@
       "server": "opt.walking-with-death.shop",
       "server_port": 2052,
       "uuid": "93c8e54b-aa84-4593-a2f7-ffb19960c923",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "pl.fantoff.online",
-      "server_port": 443,
-      "uuid": "b95dd8e5-2758-408f-be99-9362eecee609",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇫🇷 FR | VLESS | @v2raych #1",
-      "type": "vless",
-      "server": "check04.allenshop66244.ir",
-      "server_port": 8443,
-      "uuid": "70f3da4d-6984-4c61-a37a-51a4c026c933",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇫🇷 FR | VLESS | @v2raych #2",
-      "type": "vless",
-      "server": "check04.allenshop66244.ir",
-      "server_port": 8443,
-      "uuid": "70f3da4d-6984-4c61-a37a-51a4c026c933",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
