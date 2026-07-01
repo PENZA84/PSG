@@ -77,10 +77,12 @@
       "outbounds": [
         "auto",
         "direct",
+        "🇫🇮 FI | SS | @NamiraConfigs #1",
         "🇫🇮 FI | VLESS | @filtershekan_channel #1",
         "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇫🇮 FI | VLESS | @red2ray #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1"
       ],
       "tag": "proxy",
@@ -89,10 +91,12 @@
     {
       "interval": "10m",
       "outbounds": [
+        "🇫🇮 FI | SS | @NamiraConfigs #1",
         "🇫🇮 FI | VLESS | @filtershekan_channel #1",
         "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇫🇮 FI | VLESS | @red2ray #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1"
       ],
       "tag": "auto",
@@ -107,6 +111,14 @@
     {
       "tag": "bypass",
       "type": "direct"
+    },
+    {
+      "tag": "🇫🇮 FI | SS | @NamiraConfigs #1",
+      "type": "shadowsocks",
+      "server": "109.107.182.229",
+      "server_port": 51544,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0VtNDdoZ2JBdzM2THdqYUJ5UUtD",
+      "password": null
     },
     {
       "tag": "🇫🇮 FI | VLESS | @filtershekan_channel #1",
@@ -179,6 +191,23 @@
           "public_key": "",
           "short_id": "",
           "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇫🇮 FI | VLESS | @red2ray #1",
+      "type": "vless",
+      "server": "65.109.220.190",
+      "server_port": 443,
+      "uuid": "36253370-4b9d-443f-bfa9-e0e167a09876",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       }
     },

@@ -82,6 +82,7 @@
         "KingRezaPahlavi",
         "🇸🇨 SC | VLESS | @ai_duet #1",
         "🇺🇸 US | VLESS | @ehsawn8 #1",
+        "🇽🇽 XX | VLESS | @flyv2ray #1",
         "🇽🇽 XX | VLESS | @flyv2ray #2",
         "🇺🇸 US | VLESS | @free4allvpn #1",
         "🇺🇸 US | VLESS | @mehrosaboran #1",
@@ -107,7 +108,8 @@
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇬🇧 GB | VLESS | @netmellianti #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
-        "🇮🇷 IR | VLESS | @v2raych #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+        "🇮🇷 IR | VLESS | @v2raych #1",
         "🇮🇷 IR | VLESS | @vmesskhodam #1"
       ],
       "tag": "proxy",
@@ -121,6 +123,7 @@
         "KingRezaPahlavi",
         "🇸🇨 SC | VLESS | @ai_duet #1",
         "🇺🇸 US | VLESS | @ehsawn8 #1",
+        "🇽🇽 XX | VLESS | @flyv2ray #1",
         "🇽🇽 XX | VLESS | @flyv2ray #2",
         "🇺🇸 US | VLESS | @free4allvpn #1",
         "🇺🇸 US | VLESS | @mehrosaboran #1",
@@ -146,7 +149,8 @@
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇬🇧 GB | VLESS | @netmellianti #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
-        "🇮🇷 IR | VLESS | @v2raych #2",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
+        "🇮🇷 IR | VLESS | @v2raych #1",
         "🇮🇷 IR | VLESS | @vmesskhodam #1"
       ],
       "tag": "auto",
@@ -260,11 +264,19 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇽🇽 XX | VLESS | @flyv2ray #2",
+      "tag": "🇽🇽 XX | VLESS | @flyv2ray #1",
       "type": "vless",
       "server": "104.16.72.70",
       "server_port": 8443,
       "uuid": "2179012d-4aa6-4acd-9e67-be80d8a63486",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇽🇽 XX | VLESS | @flyv2ray #2",
+      "type": "vless",
+      "server": "104.16.72.101",
+      "server_port": 8443,
+      "uuid": "3176b184-8987-4e27-9e26-0dc5a1469636",
       "packet_encoding": "xudp"
     },
     {
@@ -577,11 +589,19 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @v2raych #2",
+      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "s1.zynavo.ir",
-      "server_port": 2087,
-      "uuid": "24506bce-3461-4413-9115-47ed1de6d485",
+      "server": "speedtest.net",
+      "server_port": 80,
+      "uuid": "6bbd3836-4740-4f2e-a37b-3463b57c6ee2",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @v2raych #1",
+      "type": "vless",
+      "server": "www.team-pluss.ir",
+      "server_port": 10000,
+      "uuid": "d1b9e7e9-9dc6-46b1-a1fb-85832cb23437",
       "packet_encoding": "xudp"
     },
     {
