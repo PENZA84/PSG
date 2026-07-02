@@ -81,7 +81,7 @@
         "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
-        "🇫🇮 FI | VLESS | @v2raych #1",
+        "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1"
       ],
       "tag": "proxy",
@@ -94,7 +94,7 @@
         "🇫🇮 FI | VLESS | @free1_vpn #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
-        "🇫🇮 FI | VLESS | @v2raych #1",
+        "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1"
       ],
       "tag": "auto",
@@ -185,11 +185,11 @@
       }
     },
     {
-      "tag": "🇫🇮 FI | VLESS | @v2raych #1",
+      "tag": "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "65.109.180.151",
+      "server": "144.31.232.189",
       "server_port": 443,
-      "uuid": "8263af0c-33a5-4ac1-96bd-164cf33ef8b1",
+      "uuid": "baeb9020-8fcd-444c-b95d-f76507816e6d",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,

@@ -90,6 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
+        "🇮🇷 IR | VLESS | @NamiraConfigs #1",
         "🇮🇷 IR | VLESS | @ai_duet #1",
         "🇮🇷 IR | VLESS | @config_proxy #1",
         "🇮🇷 IR | VLESS | @config_proxy #2",
@@ -107,10 +108,9 @@
         "🇮🇷 IR | VLESS | @prrofile_purple #1",
         "🇮🇷 IR | VLESS | @realvpnmaster #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
+        "🇮🇷 IR | VLESS | @v2raych #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
         "🇮🇷 IR | SS | @v2rayng3 #2",
-        "🇮🇷 IR | SS | @v2rayng3 #3",
-        "🇮🇷 IR | SS | @v2rayng3 #4",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v_2rayngvpn #1",
         "🇮🇷 IR | VLESS | @v_2rayngvpn #2"
@@ -121,6 +121,7 @@
     {
       "interval": "10m",
       "outbounds": [
+        "🇮🇷 IR | VLESS | @NamiraConfigs #1",
         "🇮🇷 IR | VLESS | @ai_duet #1",
         "🇮🇷 IR | VLESS | @config_proxy #1",
         "🇮🇷 IR | VLESS | @config_proxy #2",
@@ -138,10 +139,9 @@
         "🇮🇷 IR | VLESS | @prrofile_purple #1",
         "🇮🇷 IR | VLESS | @realvpnmaster #1",
         "🇮🇷 IR | VLESS | @v2ray_iran88 #1",
+        "🇮🇷 IR | VLESS | @v2raych #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
         "🇮🇷 IR | SS | @v2rayng3 #2",
-        "🇮🇷 IR | SS | @v2rayng3 #3",
-        "🇮🇷 IR | SS | @v2rayng3 #4",
         "🇮🇷 IR | VLESS | @v2rayngalpha #1",
         "🇮🇷 IR | VLESS | @v_2rayngvpn #1",
         "🇮🇷 IR | VLESS | @v_2rayngvpn #2"
@@ -154,6 +154,23 @@
     {
       "tag": "direct",
       "type": "direct"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @NamiraConfigs #1",
+      "type": "vless",
+      "server": "a.samrayan.ir",
+      "server_port": 443,
+      "uuid": "23d6295f-0337-438f-be52-388bbe321ae4",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "🇮🇷 IR | VLESS | @ai_duet #1",
@@ -353,6 +370,14 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇮🇷 IR | VLESS | @v2raych #1",
+      "type": "vless",
+      "server": "s2.zynavo.ir",
+      "server_port": 2087,
+      "uuid": "beb4d865-123d-4c33-3d83-a45fee89be21",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇮🇷 IR | SS | @v2rayng3 #1",
       "type": "shadowsocks",
       "server": "xiaomandapple4certificate.ikco.ir.soserverbot.shop",
@@ -363,25 +388,9 @@
     {
       "tag": "🇮🇷 IR | SS | @v2rayng3 #2",
       "type": "shadowsocks",
-      "server": "185.84.158.13",
-      "server_port": 19964,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUk9UakNLN0FmcUx1OGRQUCtpYjJWLzBDMEoyYnBSeElEZUlNay9pL0k4PQ==",
-      "password": null
-    },
-    {
-      "tag": "🇮🇷 IR | SS | @v2rayng3 #3",
-      "type": "shadowsocks",
-      "server": "e4.realsoftware.ir",
+      "server": "e4.cover20.ir",
       "server_port": 16156,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ejZLY1hDTzBDbGlWT3VkMU8xWEF1N2xiMVNDeGRpa1RtTzk3OUpnalVnPQ==",
-      "password": null
-    },
-    {
-      "tag": "🇮🇷 IR | SS | @v2rayng3 #4",
-      "type": "shadowsocks",
-      "server": "e1.cover20.ir",
-      "server_port": 51570,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVFd1VXpMWkdncWJYTTZLa3BocDlocXhsR29kSHZUQzZlMzRieTk0U2VVPQ==",
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ==",
       "password": null
     },
     {
