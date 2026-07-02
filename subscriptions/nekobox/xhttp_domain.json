@@ -80,12 +80,10 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇳🇱 NL | VLESS | @NamiraConfigs #1",
-        "🇽🇽 XX | VLESS | @bored_vpn #1",
+        "🇸🇨 SC | VLESS | @bored_vpn #1",
         "🇽🇽 XX | VLESS | @configv2rayforfree #2",
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇬🇧 GB | VLESS | @netmellianti #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
@@ -101,12 +99,10 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇳🇱 NL | VLESS | @NamiraConfigs #1",
-        "🇽🇽 XX | VLESS | @bored_vpn #1",
+        "🇸🇨 SC | VLESS | @bored_vpn #1",
         "🇽🇽 XX | VLESS | @configv2rayforfree #2",
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
-        "🇬🇧 GB | VLESS | @netmellianti #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
@@ -199,15 +195,7 @@
       }
     },
     {
-      "tag": "🇳🇱 NL | VLESS | @NamiraConfigs #1",
-      "type": "vless",
-      "server": "cd.pascalplus.com",
-      "server_port": 8443,
-      "uuid": "ebb957fc-5a5a-4a50-b550-c05d24f5ff36",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇽🇽 XX | VLESS | @bored_vpn #1",
+      "tag": "🇸🇨 SC | VLESS | @bored_vpn #1",
       "type": "vless",
       "server": "ipw.ygdfw.com",
       "server_port": 443,
@@ -245,14 +233,6 @@
       "server": "spd-mynames.global.ssl.fastly.net",
       "server_port": 80,
       "uuid": "8e378a41-d5e1-427a-aaf8-30190d4be0a0",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇬🇧 GB | VLESS | @netmellianti #1",
-      "type": "vless",
-      "server": "h2.garletshopino.com",
-      "server_port": 2096,
-      "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
       "packet_encoding": "xudp"
     },
     {
