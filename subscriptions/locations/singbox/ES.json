@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgUEw=
+//profile-title: base64:UFNHIHwgRVM=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -90,7 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1"
+        "🇪🇸 ES | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -98,7 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇵🇱 PL | VLESS | @v2ray_free_conf #1"
+        "🇪🇸 ES | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -110,11 +110,11 @@
       "type": "direct"
     },
     {
-      "tag": "🇵🇱 PL | VLESS | @v2ray_free_conf #1",
+      "tag": "🇪🇸 ES | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "poland.khirss.ir",
-      "server_port": 11431,
-      "uuid": "32de2b83-e62e-48bf-ae79-d00d27d24e2c",
+      "server": "5.180.173.171",
+      "server_port": 443,
+      "uuid": "e89a8012-7794-4e54-9b6e-14b12b7e0802",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -123,11 +123,6 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
         }
       }
     }
