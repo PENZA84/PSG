@@ -77,20 +77,16 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇫🇷 FR | VLESS | @NamiraConfigs #1",
         "🇫🇷 FR | VLESS | @father_vpn #1",
         "🇫🇷 FR | VLESS | @merdesert #1",
         "🇫🇷 FR | VLESS | @minovpnch #1",
         "🇫🇷 FR | VLESS | @minovpnch #2",
         "🇫🇷 FR | VLESS | @mpproxy #1",
         "🇫🇷 FR | VLESS | @outline_ir #1",
-        "🇫🇷 FR | TROJAN | @privatevpns #1",
+        "🇫🇷 FR | VLESS | @prrofile_purple #1",
         "🇫🇷 FR | VLESS | @v2ray_collector #1",
         "🇫🇷 FR | VLESS | @v2rayprotocol #1",
-        "🇫🇷 FR | TROJAN | @v2rayvpnchannel #1",
-        "🇫🇷 FR | VLESS | @v_2rayng0 #1",
-        "🇫🇷 FR | VLESS | @vlessconfig #1",
-        "🇫🇷 FR | VLESS | @vmesskhodam #1"
+        "🇫🇷 FR | VLESS | @v_2rayng0 #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -98,20 +94,16 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇫🇷 FR | VLESS | @NamiraConfigs #1",
         "🇫🇷 FR | VLESS | @father_vpn #1",
         "🇫🇷 FR | VLESS | @merdesert #1",
         "🇫🇷 FR | VLESS | @minovpnch #1",
         "🇫🇷 FR | VLESS | @minovpnch #2",
         "🇫🇷 FR | VLESS | @mpproxy #1",
         "🇫🇷 FR | VLESS | @outline_ir #1",
-        "🇫🇷 FR | TROJAN | @privatevpns #1",
+        "🇫🇷 FR | VLESS | @prrofile_purple #1",
         "🇫🇷 FR | VLESS | @v2ray_collector #1",
         "🇫🇷 FR | VLESS | @v2rayprotocol #1",
-        "🇫🇷 FR | TROJAN | @v2rayvpnchannel #1",
-        "🇫🇷 FR | VLESS | @v_2rayng0 #1",
-        "🇫🇷 FR | VLESS | @vlessconfig #1",
-        "🇫🇷 FR | VLESS | @vmesskhodam #1"
+        "🇫🇷 FR | VLESS | @v_2rayng0 #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -125,14 +117,6 @@
     {
       "tag": "bypass",
       "type": "direct"
-    },
-    {
-      "tag": "🇫🇷 FR | VLESS | @NamiraConfigs #1",
-      "type": "vless",
-      "server": "45.13.119.219",
-      "server_port": 8888,
-      "uuid": "eb77be10-9d9e-527b-a78d-8caaf58992d6",
-      "packet_encoding": "xudp"
     },
     {
       "tag": "🇫🇷 FR | VLESS | @father_vpn #1",
@@ -201,11 +185,12 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇫🇷 FR | TROJAN | @privatevpns #1",
-      "type": "trojan",
-      "server": "13.36.120.79",
-      "server_port": 22222,
-      "password": "telegram-id-privatevpns",
+      "tag": "🇫🇷 FR | VLESS | @prrofile_purple #1",
+      "type": "vless",
+      "server": "109.202.246.144",
+      "server_port": 443,
+      "uuid": "fc50ce8b-6e25-4f20-82d1-8cf29f06ad8b",
+      "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "server_name": "",
@@ -213,6 +198,11 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
         }
       }
     },
@@ -251,22 +241,6 @@
       }
     },
     {
-      "tag": "🇫🇷 FR | TROJAN | @v2rayvpnchannel #1",
-      "type": "trojan",
-      "server": "13.36.120.79",
-      "server_port": 22223,
-      "password": "telegram-id-v2rayvpnchannel",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
       "tag": "🇫🇷 FR | VLESS | @v_2rayng0 #1",
       "type": "vless",
       "server": "79.127.196.11",
@@ -282,29 +256,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇫🇷 FR | VLESS | @vlessconfig #1",
-      "type": "vless",
-      "server": "13.36.120.79",
-      "server_port": 22224,
-      "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "",
-        "headers": {
-          "Host": ""
-        }
-      }
-    },
-    {
-      "tag": "🇫🇷 FR | VLESS | @vmesskhodam #1",
-      "type": "vless",
-      "server": "it.fifapes.monster",
-      "server_port": 29148,
-      "uuid": "eab915bc-d2df-73d1-47d0-6eb240497055",
-      "packet_encoding": "xudp"
     }
   ],
   "route": {
