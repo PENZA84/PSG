@@ -24,8 +24,9 @@ dns:
 
 proxies: 
   - {"name": "🇫🇮 FI | VLESS | @netfreedom0 #1", "server": "fi1.vitok.cc", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "1b9e301d-cecd-4eb1-8b36-eef811c2696d", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇫🇮 FI | VLESS | @red2ray #1", "server": "net2.ma-rdd.co.uk", "port": 8442, "type": "vless", "skip-cert-verify": true, "uuid": "9d65d816-38fa-4eba-a5b6-285a32843e17", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇫🇮 FI | VLESS | @v2ray_free_conf #1", "server": "217.217.247.245", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
   - {"name": "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1", "server": "46.246.34.165", "port": 8443, "type": "vless", "skip-cert-verify": true, "uuid": "394f6981-a782-4779-9a85-e6cf22935d93", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇫🇮 FI | VLESS | @vmesc #1", "server": "217.217.247.248", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -40,8 +41,9 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇫🇮 FI | VLESS | @netfreedom0 #1'
+      - '🇫🇮 FI | VLESS | @red2ray #1'
+      - '🇫🇮 FI | VLESS | @v2ray_free_conf #1'
       - '🇫🇮 FI | VLESS | @v2rayngvpn_1 #1'
-      - '🇫🇮 FI | VLESS | @vmesc #1'
 
   - name: 🌍 Global Media
     type: select
