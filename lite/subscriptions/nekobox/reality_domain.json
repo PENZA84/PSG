@@ -81,9 +81,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
-        "🇫🇮 FI | VLESS | @free1_vpn #1",
-        "🇺🇸 US | VLESS | @free1_vpn #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇩🇪 DE | VLESS | @outline_ir #1",
+        "🇩🇪 DE | VLESS | @outline_ir #2",
         "🇫🇮 FI | VLESS | @sobi_vpn #1"
       ],
       "tag": "proxy",
@@ -96,9 +96,9 @@
         "جاویدشاه",
         "KingRezaPahlavi",
         "🇩🇪 DE | VLESS | @filterk0sh #1",
-        "🇫🇮 FI | VLESS | @free1_vpn #1",
-        "🇺🇸 US | VLESS | @free1_vpn #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇩🇪 DE | VLESS | @outline_ir #1",
+        "🇩🇪 DE | VLESS | @outline_ir #2",
         "🇫🇮 FI | VLESS | @sobi_vpn #1"
       ],
       "tag": "auto",
@@ -209,55 +209,55 @@
       }
     },
     {
-      "tag": "🇫🇮 FI | VLESS | @free1_vpn #1",
-      "type": "vless",
-      "server": "fi.faygo.bot",
-      "server_port": 443,
-      "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇺🇸 US | VLESS | @free1_vpn #1",
-      "type": "vless",
-      "server": "speedtest-chekhost-fastly.amuseftdomainroyal.com",
-      "server_port": 42841,
-      "uuid": "EarnMoneyarz-ZoRo",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
       "tag": "🇫🇮 FI | VLESS | @netfreedom0 #1",
       "type": "vless",
       "server": "fi1.vitok.cc",
       "server_port": 443,
       "uuid": "1b9e301d-cecd-4eb1-8b36-eef811c2696d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 DE | VLESS | @outline_ir #1",
+      "type": "vless",
+      "server": "nex1.liiliil.ir",
+      "server_port": 2053,
+      "uuid": "a90f60c0-6566-44cf-a99f-5aaf213b72dc",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 DE | VLESS | @outline_ir #2",
+      "type": "vless",
+      "server": "alafi.marzban-locations.com",
+      "server_port": 6300,
+      "uuid": "8f6ccdb2-2b4e-4834-a90b-344bff490402",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
