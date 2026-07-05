@@ -95,7 +95,6 @@
         "KingRezaPahlavi",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
-        "🇬🇧 GB | SS | @free4allvpn #2",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇦🇪 AE | SS | @manstervpn #1",
@@ -103,10 +102,10 @@
         "🇬🇧 GB | SS | @outline_ir #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
+        "🇬🇧 GB | SS | @red2ray #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | SS | @v2rayopen #1",
         "🇬🇧 GB | SS | @v2rayopen #2",
-        "🇬🇧 GB | SS | @vmesc #1",
         "🇬🇧 GB | SS | @vpn_ioss #1"
       ],
       "tag": "proxy",
@@ -120,7 +119,6 @@
         "KingRezaPahlavi",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
-        "🇬🇧 GB | SS | @free4allvpn #2",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇦🇪 AE | SS | @manstervpn #1",
@@ -128,10 +126,10 @@
         "🇬🇧 GB | SS | @outline_ir #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
+        "🇬🇧 GB | SS | @red2ray #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | SS | @v2rayopen #1",
         "🇬🇧 GB | SS | @v2rayopen #2",
-        "🇬🇧 GB | SS | @vmesc #1",
         "🇬🇧 GB | SS | @vpn_ioss #1"
       ],
       "tag": "auto",
@@ -232,14 +230,6 @@
       "password": null
     },
     {
-      "tag": "🇬🇧 GB | SS | @free4allvpn #2",
-      "type": "shadowsocks",
-      "server": "82.38.31.205",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
-    },
-    {
       "tag": "🇺🇸 US | SS | @godv2rang #1",
       "type": "shadowsocks",
       "server": "37.19.198.244",
@@ -296,6 +286,14 @@
       "password": null
     },
     {
+      "tag": "🇬🇧 GB | SS | @red2ray #1",
+      "type": "shadowsocks",
+      "server": "82.38.31.47",
+      "server_port": 8080,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
+      "password": null
+    },
+    {
       "tag": "🇬🇧 GB | SS | @v2rayng3 #1",
       "type": "shadowsocks",
       "server": "82.38.31.35",
@@ -315,14 +313,6 @@
       "tag": "🇬🇧 GB | SS | @v2rayopen #2",
       "type": "shadowsocks",
       "server": "82.38.31.213",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @vmesc #1",
-      "type": "shadowsocks",
-      "server": "82.38.31.206",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
       "password": null
