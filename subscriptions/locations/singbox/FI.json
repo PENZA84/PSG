@@ -93,7 +93,6 @@
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇫🇮 FI | VLESS | @red2ray #1",
-        "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1"
       ],
       "tag": "proxy",
@@ -105,7 +104,6 @@
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇫🇮 FI | VLESS | @red2ray #1",
-        "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1"
       ],
       "tag": "auto",
@@ -150,29 +148,7 @@
     {
       "tag": "🇫🇮 FI | VLESS | @red2ray #1",
       "type": "vless",
-      "server": "net2.ma-rdd.co.uk",
-      "server_port": 8442,
-      "uuid": "9d65d816-38fa-4eba-a5b6-285a32843e17",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "217.217.247.245",
+      "server": "217.217.247.252",
       "server_port": 443,
       "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
       "packet_encoding": "xudp",
