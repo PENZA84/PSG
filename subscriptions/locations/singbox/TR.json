@@ -1,4 +1,4 @@
-//profile-title: base64:UFNHIHwgVUE=
+//profile-title: base64:UFNHIHwgVFI=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/yebekhe
@@ -90,7 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇺🇦 UA | SS | @v2ray_free_conf #1"
+        "🇹🇷 TR | VLESS | @v2raych #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -98,7 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇺🇦 UA | SS | @v2ray_free_conf #1"
+        "🇹🇷 TR | VLESS | @v2raych #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -110,12 +110,12 @@
       "type": "direct"
     },
     {
-      "tag": "🇺🇦 UA | SS | @v2ray_free_conf #1",
-      "type": "shadowsocks",
-      "server": "kyiv02.npvnot.com",
-      "server_port": 443,
-      "method": "YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ==",
-      "password": null
+      "tag": "🇹🇷 TR | VLESS | @v2raych #1",
+      "type": "vless",
+      "server": "tr2-unlimited.pavilof.ir",
+      "server_port": 2095,
+      "uuid": "01aacd3b-fdda-4e3f-894b-bc380f184fe1",
+      "packet_encoding": "xudp"
     }
   ],
   "route": {
