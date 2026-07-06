@@ -80,8 +80,6 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇺🇸 US | SS | @NamiraConfigs #1",
-        "🇩🇪 DE | SS | @NamiraConfigs #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
@@ -96,7 +94,8 @@
         "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | SS | @v2rayopen #1",
         "🇬🇧 GB | SS | @vmesskhodam #1",
-        "🇬🇧 GB | SS | @vpn_ioss #1"
+        "🇬🇧 GB | SS | @vpn_ioss #1",
+        "🇸🇬 SG | SS | @vpn_ioss #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -107,8 +106,6 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇺🇸 US | SS | @NamiraConfigs #1",
-        "🇩🇪 DE | SS | @NamiraConfigs #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
@@ -123,7 +120,8 @@
         "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | SS | @v2rayopen #1",
         "🇬🇧 GB | SS | @vmesskhodam #1",
-        "🇬🇧 GB | SS | @vpn_ioss #1"
+        "🇬🇧 GB | SS | @vpn_ioss #1",
+        "🇸🇬 SG | SS | @vpn_ioss #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -209,22 +207,6 @@
           "Host": ""
         }
       }
-    },
-    {
-      "tag": "🇺🇸 US | SS | @NamiraConfigs #1",
-      "type": "shadowsocks",
-      "server": "156.146.38.170",
-      "server_port": 443,
-      "method": "YWVzLTEyOC1nY206c2hhZG93c29ja3M=",
-      "password": null
-    },
-    {
-      "tag": "🇩🇪 DE | SS | @NamiraConfigs #1",
-      "type": "shadowsocks",
-      "server": "213.226.68.8",
-      "server_port": 31348,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoa2FzYjVjVnJzNGpFMThqQ0VKeEI0R3I1NWhWR1cyNHkzNWdVOUdJSWV5VDMxRnc=",
-      "password": null
     },
     {
       "tag": "🇳🇱 NL | SS | @easy_free_vpn #1",
@@ -344,6 +326,14 @@
       "server": "82.38.31.214",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "password": null
+    },
+    {
+      "tag": "🇸🇬 SG | SS | @vpn_ioss #1",
+      "type": "shadowsocks",
+      "server": "103.106.229.69",
+      "server_port": 9090,
+      "method": "YXV0bzo=",
       "password": null
     }
   ],
