@@ -99,11 +99,12 @@
         "🇳🇱 NL | VLESS | @netmellianti #1",
         "🇺🇸 US | VLESS | @netmellianti #1",
         "🇽🇽 XX | VLESS | @netmellianti #1",
+        "🇳🇱 NL | VLESS | @outline_ir #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #4",
-        "🇳🇱 NL | VLESS | @vmesc #1"
+        "🇺🇸 US | VLESS | @vmesc #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -120,11 +121,12 @@
         "🇳🇱 NL | VLESS | @netmellianti #1",
         "🇺🇸 US | VLESS | @netmellianti #1",
         "🇽🇽 XX | VLESS | @netmellianti #1",
+        "🇳🇱 NL | VLESS | @outline_ir #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #4",
-        "🇳🇱 NL | VLESS | @vmesc #1"
+        "🇺🇸 US | VLESS | @vmesc #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -256,6 +258,14 @@
       "packet_encoding": "xudp"
     },
     {
+      "tag": "🇳🇱 NL | VLESS | @outline_ir #1",
+      "type": "vless",
+      "server": "italy-nm.serendpiti.ir",
+      "server_port": 2060,
+      "uuid": "b1f66344-4d4a-49d9-9c3a-9fae78d408f8",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
       "type": "vless",
       "server": "s8.meoshop.ir",
@@ -297,11 +307,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇳🇱 NL | VLESS | @vmesc #1",
+      "tag": "🇺🇸 US | VLESS | @vmesc #1",
       "type": "vless",
-      "server": "nlll.serendpiti.ir",
-      "server_port": 2060,
-      "uuid": "b1f66344-4d4a-49d9-9c3a-9fae78d408f8",
+      "server": "hayabusa.proxy.rlwy.net",
+      "server_port": 45900,
+      "uuid": "%40MAconnectt",
       "packet_encoding": "xudp"
     }
   ],

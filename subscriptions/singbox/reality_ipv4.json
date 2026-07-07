@@ -110,12 +110,16 @@
         "🇸🇨 SC | VLESS | @selinc #1",
         "🇳🇱 NL | VLESS | @v2ray_collector #1",
         "🇷🇺 RU | VLESS | @v2ray_collector #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
+        "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
+        "🇵🇱 PL | VLESS | @v2raych #1",
+        "🇺🇸 US | VLESS | @v2raych #1",
         "🇸🇬 SG | VLESS | @v2rayexpress #1",
         "🇦🇪 AE | VLESS | @v2rayprotocol #1",
         "🇩🇪 DE | VLESS | @v2rayprotocol #1",
         "🇩🇪 DE | VLESS | @vipv2rey #1",
         "🇩🇪 DE | VLESS | @vmesc #1",
+        "🇩🇪 DE | VLESS | @vpn_ioss #1",
+        "🇸🇨 SC | VLESS | @vpn_ioss #1",
         "🇺🇸 US | VLESS | @vpnowl #1"
       ],
       "tag": "proxy",
@@ -144,12 +148,16 @@
         "🇸🇨 SC | VLESS | @selinc #1",
         "🇳🇱 NL | VLESS | @v2ray_collector #1",
         "🇷🇺 RU | VLESS | @v2ray_collector #1",
-        "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
+        "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
+        "🇵🇱 PL | VLESS | @v2raych #1",
+        "🇺🇸 US | VLESS | @v2raych #1",
         "🇸🇬 SG | VLESS | @v2rayexpress #1",
         "🇦🇪 AE | VLESS | @v2rayprotocol #1",
         "🇩🇪 DE | VLESS | @v2rayprotocol #1",
         "🇩🇪 DE | VLESS | @vipv2rey #1",
         "🇩🇪 DE | VLESS | @vmesc #1",
+        "🇩🇪 DE | VLESS | @vpn_ioss #1",
+        "🇸🇨 SC | VLESS | @vpn_ioss #1",
         "🇺🇸 US | VLESS | @vpnowl #1"
       ],
       "tag": "auto",
@@ -598,11 +606,11 @@
       }
     },
     {
-      "tag": "🇮🇷 IR | VLESS | @v2ray_free_conf #1",
+      "tag": "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "195.254.165.243",
+      "server": "45.198.80.209",
       "server_port": 443,
-      "uuid": "1f6531a1-a6eb-4274-9f51-4a0899456fcf",
+      "uuid": "eece4171-e025-40a3-9027-e395036ff99d",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -616,6 +624,45 @@
           "public_key": "",
           "short_id": "",
           "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇵🇱 PL | VLESS | @v2raych #1",
+      "type": "vless",
+      "server": "83.168.71.216",
+      "server_port": 443,
+      "uuid": "a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US | VLESS | @v2raych #1",
+      "type": "vless",
+      "server": "155.117.137.239",
+      "server_port": 443,
+      "uuid": "9480871a-3843-441c-9b83-aa8c5c96b209",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
         }
       }
     },
@@ -721,6 +768,50 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 DE | VLESS | @vpn_ioss #1",
+      "type": "vless",
+      "server": "31.77.161.2",
+      "server_port": 8443,
+      "uuid": "a6704fb4-4874-4e6b-98f4-571b048e3d90",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇸🇨 SC | VLESS | @vpn_ioss #1",
+      "type": "vless",
+      "server": "45.198.80.240",
+      "server_port": 443,
+      "uuid": "eece4171-e025-40a3-9027-e395036ff99d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
         }
       }
     },

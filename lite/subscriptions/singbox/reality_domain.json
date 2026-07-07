@@ -97,7 +97,7 @@
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇳🇱 NL | VLESS | @netmellianti #1",
         "🇩🇪 DE | VLESS | @sobi_vpn #1",
-        "🇩🇪 DE | VLESS | @vpn_ioss #1"
+        "🇮🇹 IT | VLESS | @vmesc #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -112,7 +112,7 @@
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇳🇱 NL | VLESS | @netmellianti #1",
         "🇩🇪 DE | VLESS | @sobi_vpn #1",
-        "🇩🇪 DE | VLESS | @vpn_ioss #1"
+        "🇮🇹 IT | VLESS | @vmesc #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -256,11 +256,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @vpn_ioss #1",
+      "tag": "🇮🇹 IT | VLESS | @vmesc #1",
       "type": "vless",
-      "server": "telegram.private-networks-zk.com",
-      "server_port": 443,
-      "uuid": "5bb4eea6-7786-44c9-aafa-bd0113c1b800",
+      "server": "talianaccentclouding.iranlast.com",
+      "server_port": 7009,
+      "uuid": "3f298aca-2412-49ac-9f20-235f0e448d31",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
