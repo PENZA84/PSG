@@ -1359,8 +1359,7 @@
         "types": [
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ]
     },
     "v2rayexpress": {
@@ -1449,7 +1448,9 @@
     "v2rayopen": {
         "title": "Freevtnet",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayopen.jpg",
-        "types": []
+        "types": [
+            "ss"
+        ]
     },
     "v2rayprotocol": {
         "title": "V2raynG |outline | foxray | streisand | Nv | fair |رفع فیلتر",
@@ -1585,7 +1586,6 @@
         "title": "Vmesskhodam",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesskhodam.jpg",
         "types": [
-            "ss",
             "trojan",
             "vless",
             "vmess"

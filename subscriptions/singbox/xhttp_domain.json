@@ -104,6 +104,7 @@
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #4",
+        "🇳🇱 NL | VLESS | @vmesc #1",
         "🇺🇸 US | VLESS | @vmesc #1"
       ],
       "tag": "proxy",
@@ -126,6 +127,7 @@
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #4",
+        "🇳🇱 NL | VLESS | @vmesc #1",
         "🇺🇸 US | VLESS | @vmesc #1"
       ],
       "tag": "auto",
@@ -304,6 +306,14 @@
       "server": "fbi.gov",
       "server_port": 2053,
       "uuid": "ee137caa-54c7-4392-a017-3a7c460fa773",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇳🇱 NL | VLESS | @vmesc #1",
+      "type": "vless",
+      "server": "nlll.serendpiti.ir",
+      "server_port": 2060,
+      "uuid": "b1f66344-4d4a-49d9-9c3a-9fae78d408f8",
       "packet_encoding": "xudp"
     },
     {
