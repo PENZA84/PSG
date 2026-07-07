@@ -77,9 +77,9 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇫🇮 FI | SS | @NamiraConfigs #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇫🇮 FI | VLESS | @netmellianti #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1",
         "🇫🇮 FI | VLESS | @vmesc #1"
       ],
@@ -89,9 +89,9 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇫🇮 FI | SS | @NamiraConfigs #1",
         "🇫🇮 FI | SS | @jiedianf #1",
         "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇫🇮 FI | VLESS | @netmellianti #1",
         "🇫🇮 FI | VLESS | @v2rayngvpn_1 #1",
         "🇫🇮 FI | VLESS | @vmesc #1"
       ],
@@ -109,14 +109,6 @@
       "type": "direct"
     },
     {
-      "tag": "🇫🇮 FI | SS | @NamiraConfigs #1",
-      "type": "shadowsocks",
-      "server": "bot.sobhanpor.ir",
-      "server_port": 1080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCM21rWEtnUkNpYldfbWdORldxVzdRcGdpd21fSTV5Qg==",
-      "password": null
-    },
-    {
       "tag": "🇫🇮 FI | SS | @jiedianf #1",
       "type": "shadowsocks",
       "server": "109.107.182.229",
@@ -130,6 +122,28 @@
       "server": "fi1.vitok.cc",
       "server_port": 443,
       "uuid": "1b9e301d-cecd-4eb1-8b36-eef811c2696d",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "public_key": "",
+          "short_id": "",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "tag": "🇫🇮 FI | VLESS | @netmellianti #1",
+      "type": "vless",
+      "server": "fn2-unlimited.pavilof.ir",
+      "server_port": 1020,
+      "uuid": "01aacd3b-fdda-4e3f-894b-bc380f184fe1",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
