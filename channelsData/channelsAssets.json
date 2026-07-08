@@ -1359,7 +1359,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ]
     },
     "v2rayexpress": {
@@ -1396,6 +1397,7 @@
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng3.jpg",
         "types": [
             "ss",
+            "trojan",
             "vmess"
         ]
     },
@@ -1569,7 +1571,6 @@
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg",
         "types": [
             "ss",
-            "trojan",
             "vless",
             "vmess"
         ]

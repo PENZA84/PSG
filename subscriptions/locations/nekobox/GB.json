@@ -77,16 +77,13 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇬🇧 GB | SS | @NamiraConfigs #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | VLESS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇬🇧 GB | SS | @outline_ir #2",
         "🇬🇧 GB | SS | @torang_vpn #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
-        "🇬🇧 GB | SS | @v2ray_free_conf #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | TUIC | @vipv2rey #1",
         "🇬🇧 GB | VLESS | @vmesskhodam #1"
@@ -97,16 +94,13 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇬🇧 GB | SS | @NamiraConfigs #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | VLESS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇬🇧 GB | SS | @outline_ir #2",
         "🇬🇧 GB | SS | @torang_vpn #1",
         "🇬🇧 GB | VLESS | @v2aryng_vpn #1",
-        "🇬🇧 GB | SS | @v2ray_free_conf #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
         "🇬🇧 GB | TUIC | @vipv2rey #1",
         "🇬🇧 GB | VLESS | @vmesskhodam #1"
@@ -123,14 +117,6 @@
     {
       "tag": "bypass",
       "type": "direct"
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @NamiraConfigs #1",
-      "type": "shadowsocks",
-      "server": "82.38.31.218",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
     },
     {
       "tag": "🇬🇧 GB | SS | @free4allvpn #1",
@@ -181,14 +167,6 @@
     {
       "tag": "🇬🇧 GB | SS | @outline_ir #1",
       "type": "shadowsocks",
-      "server": "82.38.31.203",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @outline_ir #2",
-      "type": "shadowsocks",
       "server": "82.38.31.195",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
@@ -209,14 +187,6 @@
       "server_port": 2053,
       "uuid": "2dacceea-8664-4fed-ba16-27fdd3b40f3e",
       "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @v2ray_free_conf #1",
-      "type": "shadowsocks",
-      "server": "82.38.31.211",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
     },
     {
       "tag": "🇬🇧 GB | SS | @v2rayng3 #1",

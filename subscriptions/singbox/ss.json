@@ -93,7 +93,7 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇬🇧 GB | SS | @NamiraConfigs #1",
+        "🇪🇪 EE | SS | @NamiraConfigs #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
@@ -102,18 +102,13 @@
         "🇦🇪 AE | SS | @manstervpn #1",
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇬🇧 GB | SS | @outline_ir #2",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
-        "🇬🇧 GB | SS | @v2ray_free_conf #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
-        "🇦🇺 AU | SS | @v2rayopen #1",
         "🇸🇬 SG | SS | @vpn_ioss #1",
         "🇬🇧 GB | SS | @torang_vpn #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
-        "🇮🇷 IR | SS | @v2rayng3 #2",
-        "🇮🇷 IR | SS | @v2rayng3 #3",
-        "🇮🇷 IR | SS | @v2rayng3 #4"
+        "🇮🇷 IR | SS | @v2rayng3 #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -124,7 +119,7 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇬🇧 GB | SS | @NamiraConfigs #1",
+        "🇪🇪 EE | SS | @NamiraConfigs #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
@@ -133,18 +128,13 @@
         "🇦🇪 AE | SS | @manstervpn #1",
         "🇬🇧 GB | SS | @netfreedom0 #1",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇬🇧 GB | SS | @outline_ir #2",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
-        "🇬🇧 GB | SS | @v2ray_free_conf #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
-        "🇦🇺 AU | SS | @v2rayopen #1",
         "🇸🇬 SG | SS | @vpn_ioss #1",
         "🇬🇧 GB | SS | @torang_vpn #1",
         "🇮🇷 IR | SS | @v2rayng3 #1",
-        "🇮🇷 IR | SS | @v2rayng3 #2",
-        "🇮🇷 IR | SS | @v2rayng3 #3",
-        "🇮🇷 IR | SS | @v2rayng3 #4"
+        "🇮🇷 IR | SS | @v2rayng3 #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -228,11 +218,11 @@
       }
     },
     {
-      "tag": "🇬🇧 GB | SS | @NamiraConfigs #1",
+      "tag": "🇪🇪 EE | SS | @NamiraConfigs #1",
       "type": "shadowsocks",
-      "server": "82.38.31.218",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
+      "server": "45.83.181.155",
+      "server_port": 14475,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMUhhVUFOVlJkQjVsdFNxaExZUFdt",
       "password": null
     },
     {
@@ -294,14 +284,6 @@
     {
       "tag": "🇬🇧 GB | SS | @outline_ir #1",
       "type": "shadowsocks",
-      "server": "82.38.31.203",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @outline_ir #2",
-      "type": "shadowsocks",
       "server": "82.38.31.195",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
@@ -324,27 +306,11 @@
       "password": null
     },
     {
-      "tag": "🇬🇧 GB | SS | @v2ray_free_conf #1",
-      "type": "shadowsocks",
-      "server": "82.38.31.211",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
-      "password": null
-    },
-    {
       "tag": "🇬🇧 GB | SS | @v2rayng3 #1",
       "type": "shadowsocks",
       "server": "82.38.31.35",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
-      "password": null
-    },
-    {
-      "tag": "🇦🇺 AU | SS | @v2rayopen #1",
-      "type": "shadowsocks",
-      "server": "67.219.106.119",
-      "server_port": 26286,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1",
       "password": null
     },
     {
@@ -374,25 +340,9 @@
     {
       "tag": "🇮🇷 IR | SS | @v2rayng3 #2",
       "type": "shadowsocks",
-      "server": "n1.cover20.ir",
-      "server_port": 38760,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVW5nb0dOaGxzNDAyRkhOd3NJZm1INnk5dWc2WWZQRmhKcHhhMWZpaVQwPQ==",
-      "password": null
-    },
-    {
-      "tag": "🇮🇷 IR | SS | @v2rayng3 #3",
-      "type": "shadowsocks",
-      "server": "e1.cover20.ir",
-      "server_port": 51570,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ==",
-      "password": null
-    },
-    {
-      "tag": "🇮🇷 IR | SS | @v2rayng3 #4",
-      "type": "shadowsocks",
       "server": "n2.cover20.ir",
       "server_port": 13641,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZ29ScWpsV2puOEI3UXFkclpEWDVQYzQ5ZnYwSmwvcks2NTByaW9MNThZPQ==",
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T0Fxa0hVLzBBZDBPSXp5alkxaDJHK0ROam9pN1dFdzNaV3V4cHVNcEZzPQ==",
       "password": null
     }
   ],
