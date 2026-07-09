@@ -93,7 +93,7 @@
         "🇷🇺 RU | VLESS | @jiedianf #1",
         "🇷🇺 RU | VLESS | @megavpn_link #1",
         "🇷🇺 RU | VLESS | @nofiltering2 #1",
-        "🇷🇺 RU | VLESS | @nofiltering2 #2",
+        "🇷🇺 RU | VLESS | @prrofile_purple #1",
         "🇷🇺 RU | VLESS | @v2ray_collector #1",
         "🇷🇺 RU | VLESS | @v2raytg #1"
       ],
@@ -106,7 +106,7 @@
         "🇷🇺 RU | VLESS | @jiedianf #1",
         "🇷🇺 RU | VLESS | @megavpn_link #1",
         "🇷🇺 RU | VLESS | @nofiltering2 #1",
-        "🇷🇺 RU | VLESS | @nofiltering2 #2",
+        "🇷🇺 RU | VLESS | @prrofile_purple #1",
         "🇷🇺 RU | VLESS | @v2ray_collector #1",
         "🇷🇺 RU | VLESS | @v2raytg #1"
       ],
@@ -182,9 +182,9 @@
       }
     },
     {
-      "tag": "🇷🇺 RU | VLESS | @nofiltering2 #2",
+      "tag": "🇷🇺 RU | VLESS | @prrofile_purple #1",
       "type": "vless",
-      "server": "94.242.55.42",
+      "server": "ru.faygo.bot",
       "server_port": 443,
       "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
       "packet_encoding": "xudp",

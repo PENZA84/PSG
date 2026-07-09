@@ -80,7 +80,8 @@
         "🇵🇱 PL | VLESS | @bored_vpn #1",
         "🇵🇱 PL | VLESS | @free1_vpn #1",
         "🇵🇱 PL | VLESS | @outline_ir #1",
-        "🇵🇱 PL | VLESS | @prrofile_purple #1"
+        "🇵🇱 PL | VLESS | @prrofile_purple #1",
+        "🇵🇱 PL | SS | @v2ray_free_conf #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -91,7 +92,8 @@
         "🇵🇱 PL | VLESS | @bored_vpn #1",
         "🇵🇱 PL | VLESS | @free1_vpn #1",
         "🇵🇱 PL | VLESS | @outline_ir #1",
-        "🇵🇱 PL | VLESS | @prrofile_purple #1"
+        "🇵🇱 PL | VLESS | @prrofile_purple #1",
+        "🇵🇱 PL | SS | @v2ray_free_conf #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -179,6 +181,14 @@
           "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇵🇱 PL | SS | @v2ray_free_conf #1",
+      "type": "shadowsocks",
+      "server": "94.156.99.58",
+      "server_port": 8080,
+      "method": "YXV0bzrXvXMdPHM5z71HZlt1",
+      "password": null
     }
   ],
   "route": {
