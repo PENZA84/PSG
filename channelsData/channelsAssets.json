@@ -917,7 +917,9 @@
     "oonfig": {
         "title": "𝗣𝗘𝗥𝗦𝗜𝗔𝗡 𝗡𝗘𝗧",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/oonfig.jpg",
-        "types": []
+        "types": [
+            "vless"
+        ]
     },
     "orange_vpns": {
         "title": "V2ray سرور و کانفیگ رایگان",
@@ -964,7 +966,8 @@
         "title": "V2ray | Vmess | Trojan | Vless",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/privatevpns.jpg",
         "types": [
-            "trojan"
+            "trojan",
+            "vless"
         ]
     },
     "pro_chaneel": {
@@ -1093,7 +1096,6 @@
         "title": "Red2Ray | V2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/red2ray.jpg",
         "types": [
-            "ss",
             "trojan",
             "vless"
         ]
@@ -1307,7 +1309,6 @@
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg",
         "types": [
             "ss",
-            "trojan",
             "vless"
         ]
     },
@@ -1361,8 +1362,7 @@
         "types": [
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ]
     },
     "v2rayexpress": {
@@ -1488,7 +1488,8 @@
         "title": "کانفیگ فیلترشکن v2ray vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayvpnchannel.jpg",
         "types": [
-            "trojan"
+            "trojan",
+            "vless"
         ]
     },
     "v2rayy_vpn13": {
@@ -1572,8 +1573,7 @@
         "types": [
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ]
     },
     "vmessiranproxy": {
