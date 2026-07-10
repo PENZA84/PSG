@@ -77,7 +77,6 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇹🇷 TR | VLESS | @mehrosaboran #1",
         "🇹🇷 TR | VLESS | @oonfig #1"
       ],
       "tag": "proxy",
@@ -86,7 +85,6 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇹🇷 TR | VLESS | @mehrosaboran #1",
         "🇹🇷 TR | VLESS | @oonfig #1"
       ],
       "tag": "auto",
@@ -101,23 +99,6 @@
     {
       "tag": "bypass",
       "type": "direct"
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @mehrosaboran #1",
-      "type": "vless",
-      "server": "panel1.bakhe01.ir",
-      "server_port": 443,
-      "uuid": "de3b6d50-1b2d-4156-b3fa-e559be5cf271",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
     },
     {
       "tag": "🇹🇷 TR | VLESS | @oonfig #1",
