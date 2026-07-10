@@ -83,7 +83,7 @@
         "🇩🇪 DE | VLESS | @filterk0sh #1",
         "🇹🇷 TR | VLESS | @mehrosaboran #1",
         "🇩🇪 DE | VLESS | @sobi_vpn #1",
-        "🇨🇭 CH | VLESS | @v2raymelliii #1",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
         "🇩🇪 DE | VLESS | @vmesskhodam #1"
       ],
       "tag": "proxy",
@@ -98,7 +98,7 @@
         "🇩🇪 DE | VLESS | @filterk0sh #1",
         "🇹🇷 TR | VLESS | @mehrosaboran #1",
         "🇩🇪 DE | VLESS | @sobi_vpn #1",
-        "🇨🇭 CH | VLESS | @v2raymelliii #1",
+        "🇺🇸 US | VLESS | @v2ray_free_conf #1",
         "🇩🇪 DE | VLESS | @vmesskhodam #1"
       ],
       "tag": "auto",
@@ -234,11 +234,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇨🇭 CH | VLESS | @v2raymelliii #1",
+      "tag": "🇺🇸 US | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "switzerlandscloudnig.iranlast.com",
-      "server_port": 7009,
-      "uuid": "3f298aca-2412-49ac-9f20-235f0e448d31",
+      "server": "germ-node.datamove.online",
+      "server_port": 2040,
+      "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
