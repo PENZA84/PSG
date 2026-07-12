@@ -165,9 +165,9 @@
     {
       "tag": "🇳🇱 NL | VLESS | @red2ray #1",
       "type": "vless",
-      "server": "uf8t8t8y.mbcloudynias.ir",
-      "server_port": 56625,
-      "uuid": "d7955f3f-dfa3-45a0-a3ef-9693df439a0f",
+      "server": "italy-nm.serendpiti.ir",
+      "server_port": 2060,
+      "uuid": "1e8ed829-92ba-4867-86ed-75c2a02d4cf5",
       "packet_encoding": "xudp"
     },
     {
