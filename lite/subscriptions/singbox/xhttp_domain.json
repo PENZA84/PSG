@@ -97,7 +97,7 @@
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇵🇱 PL | VLESS | @netmellianti #1",
-        "🇩🇪 DE | VLESS | @prrofile_purple #1"
+        "🇳🇱 NL | VLESS | @prrofile_purple #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -112,7 +112,7 @@
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇵🇱 PL | VLESS | @netmellianti #1",
-        "🇩🇪 DE | VLESS | @prrofile_purple #1"
+        "🇳🇱 NL | VLESS | @prrofile_purple #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -237,7 +237,7 @@
       }
     },
     {
-      "tag": "🇩🇪 DE | VLESS | @prrofile_purple #1",
+      "tag": "🇳🇱 NL | VLESS | @prrofile_purple #1",
       "type": "vless",
       "server": "static.lotussec.com",
       "server_port": 443,
