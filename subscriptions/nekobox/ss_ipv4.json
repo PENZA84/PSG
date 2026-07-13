@@ -80,22 +80,20 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇨🇭 CH | SS | @NamiraConfigs #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇦🇪 AE | SS | @manstervpn #1",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇹🇷 TR | SS | @outline_ir #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇬🇧 GB | SS | @red2ray #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
-        "🇬🇧 GB | SS | @v2rayng3 #2",
         "🇬🇧 GB | SS | @v2rayngvpn_1 #1",
         "🇬🇧 GB | SS | @vmesc #1",
-        "🇬🇧 GB | SS | @vpn_ioss #1"
+        "🇬🇧 GB | SS | @vpn_ioss #1",
+        "🇬🇧 GB | SS | @vpn_ioss #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -106,22 +104,20 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇨🇭 CH | SS | @NamiraConfigs #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇬🇧 GB | SS | @free4allvpn #1",
         "🇬🇧 GB | SS | @free4allvpn #2",
         "🇺🇸 US | SS | @godv2rang #1",
         "🇦🇪 AE | SS | @manstervpn #1",
         "🇬🇧 GB | SS | @outline_ir #1",
-        "🇹🇷 TR | SS | @outline_ir #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇯🇵 JP | SS | @outlinereleasedkey #1",
         "🇬🇧 GB | SS | @red2ray #1",
         "🇬🇧 GB | SS | @v2rayng3 #1",
-        "🇬🇧 GB | SS | @v2rayng3 #2",
         "🇬🇧 GB | SS | @v2rayngvpn_1 #1",
         "🇬🇧 GB | SS | @vmesc #1",
-        "🇬🇧 GB | SS | @vpn_ioss #1"
+        "🇬🇧 GB | SS | @vpn_ioss #1",
+        "🇬🇧 GB | SS | @vpn_ioss #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -209,14 +205,6 @@
       }
     },
     {
-      "tag": "🇨🇭 CH | SS | @NamiraConfigs #1",
-      "type": "shadowsocks",
-      "server": "45.95.232.138",
-      "server_port": 443,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSFlyMm4wbGtQVHRlejdSRmpXSk9L",
-      "password": null
-    },
-    {
       "tag": "🇳🇱 NL | SS | @easy_free_vpn #1",
       "type": "shadowsocks",
       "server": "193.29.139.151",
@@ -265,14 +253,6 @@
       "password": null
     },
     {
-      "tag": "🇹🇷 TR | SS | @outline_ir #1",
-      "type": "shadowsocks",
-      "server": "62.133.63.222",
-      "server_port": 48981,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4",
-      "password": null
-    },
-    {
       "tag": "🇳🇱 NL | SS | @outlinereleasedkey #1",
       "type": "shadowsocks",
       "server": "193.29.139.235",
@@ -299,14 +279,6 @@
     {
       "tag": "🇬🇧 GB | SS | @v2rayng3 #1",
       "type": "shadowsocks",
-      "server": "82.38.31.35",
-      "server_port": 8080,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
-      "password": null
-    },
-    {
-      "tag": "🇬🇧 GB | SS | @v2rayng3 #2",
-      "type": "shadowsocks",
       "server": "82.38.31.198",
       "server_port": 8080,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR",
@@ -332,6 +304,14 @@
       "tag": "🇬🇧 GB | SS | @vpn_ioss #1",
       "type": "shadowsocks",
       "server": "82.38.31.32",
+      "server_port": 443,
+      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
+      "password": null
+    },
+    {
+      "tag": "🇬🇧 GB | SS | @vpn_ioss #2",
+      "type": "shadowsocks",
+      "server": "82.38.31.29",
       "server_port": 443,
       "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB",
       "password": null

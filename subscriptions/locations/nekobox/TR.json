@@ -77,7 +77,6 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇹🇷 TR | SS | @outline_ir #1",
         "🇹🇷 TR | VLESS | @vmesc #1"
       ],
       "tag": "proxy",
@@ -86,7 +85,6 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇹🇷 TR | SS | @outline_ir #1",
         "🇹🇷 TR | VLESS | @vmesc #1"
       ],
       "tag": "auto",
@@ -101,14 +99,6 @@
     {
       "tag": "bypass",
       "type": "direct"
-    },
-    {
-      "tag": "🇹🇷 TR | SS | @outline_ir #1",
-      "type": "shadowsocks",
-      "server": "62.133.63.222",
-      "server_port": 48981,
-      "method": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4",
-      "password": null
     },
     {
       "tag": "🇹🇷 TR | VLESS | @vmesc #1",
