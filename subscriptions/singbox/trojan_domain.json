@@ -95,7 +95,8 @@
         "KingRezaPahlavi",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇽🇽 XX | TROJAN | @v2ray_free_conf #1"
+        "🇽🇽 XX | TROJAN | @v2ray_free_conf #1",
+        "🇨🇭 CH | TROJAN | @v2raych #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -108,7 +109,8 @@
         "KingRezaPahlavi",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇽🇽 XX | TROJAN | @v2ray_free_conf #1"
+        "🇽🇽 XX | TROJAN | @v2ray_free_conf #1",
+        "🇨🇭 CH | TROJAN | @v2raych #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -226,9 +228,9 @@
     {
       "tag": "🇽🇽 XX | TROJAN | @v2ray_free_conf #1",
       "type": "trojan",
-      "server": "openai.com",
+      "server": "join-telegram-channel.tirexnet.kdns.fr",
       "server_port": 443,
-      "password": "MITIVPN",
+      "password": "humanity",
       "tls": {
         "enabled": true,
         "server_name": "",
@@ -238,6 +240,13 @@
           "fingerprint": "chrome"
         }
       }
+    },
+    {
+      "tag": "🇨🇭 CH | TROJAN | @v2raych #1",
+      "type": "trojan",
+      "server": "bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir",
+      "server_port": 13021,
+      "password": "--------BanV2ray-------"
     }
   ],
   "route": {
