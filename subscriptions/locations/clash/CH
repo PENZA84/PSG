@@ -23,7 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name": "🇬🇧 GB | TROJAN | @prrofile_purple #1", "server": "164.38.155.135", "port": 443, "type": "trojan", "skip-cert-verify": false, "password": "MITIVPN"}
+  - {"name": "🇨🇭 CH | TROJAN | @v2ray_free_conf #1", "server": "uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir", "port": 62115, "type": "trojan", "skip-cert-verify": false, "password": "----------BanV2ray-----------"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -37,7 +37,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇬🇧 GB | TROJAN | @prrofile_purple #1'
+      - '🇨🇭 CH | TROJAN | @v2ray_free_conf #1'
 
   - name: 🌍 Global Media
     type: select
