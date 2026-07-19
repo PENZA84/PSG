@@ -93,9 +93,9 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
+        "🇯🇵 JP | TROJAN | @red2ray #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
-        "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇨🇭 CH | TROJAN | @v2ray_free_conf #1"
+        "🇽🇽 XX | TROJAN | @teamvpnpro #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -106,9 +106,9 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
+        "🇯🇵 JP | TROJAN | @red2ray #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
-        "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇨🇭 CH | TROJAN | @v2ray_free_conf #1"
+        "🇽🇽 XX | TROJAN | @teamvpnpro #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -192,6 +192,22 @@
       }
     },
     {
+      "tag": "🇯🇵 JP | TROJAN | @red2ray #1",
+      "type": "trojan",
+      "server": "certain-kit.rooster465.autos",
+      "server_port": 443,
+      "password": "JA96378052",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "tag": "🇽🇽 XX | TROJAN | @teamvpnpro #1",
       "type": "trojan",
       "server": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
@@ -222,13 +238,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇨🇭 CH | TROJAN | @v2ray_free_conf #1",
-      "type": "trojan",
-      "server": "uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir",
-      "server_port": 28998,
-      "password": "-----------BanV2ray-----------"
     }
   ],
   "route": {
