@@ -97,6 +97,7 @@
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇨🇿 CZ | VLESS | @netmellianti #1",
+        "🇹🇷 TR | VLESS | @orange_vpns #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #1"
       ],
@@ -113,6 +114,7 @@
         "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇨🇿 CZ | VLESS | @netmellianti #1",
+        "🇹🇷 TR | VLESS | @orange_vpns #1",
         "🇳🇱 NL | VLESS | @v2ray_youtube #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #1"
       ],
@@ -227,6 +229,14 @@
       "server": "s1.streemmovie.shop",
       "server_port": 8443,
       "uuid": "76b7834c-75d4-4fce-a90b-2639739e8e3e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇹🇷 TR | VLESS | @orange_vpns #1",
+      "type": "vless",
+      "server": "tr.koomeh.net",
+      "server_port": 80,
+      "uuid": "ce6ae434-7ace-4ce8-851a-9321a9e5a0a6",
       "packet_encoding": "xudp"
     },
     {

@@ -77,8 +77,8 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇹🇷 TR | VLESS | @v2ray_free_conf #1",
-        "🇹🇷 TR | VLESS | @v2ray_free_conf #2"
+        "🇹🇷 TR | VLESS | @orange_vpns #1",
+        "🇹🇷 TR | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -86,8 +86,8 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇹🇷 TR | VLESS | @v2ray_free_conf #1",
-        "🇹🇷 TR | VLESS | @v2ray_free_conf #2"
+        "🇹🇷 TR | VLESS | @orange_vpns #1",
+        "🇹🇷 TR | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -101,6 +101,14 @@
     {
       "tag": "bypass",
       "type": "direct"
+    },
+    {
+      "tag": "🇹🇷 TR | VLESS | @orange_vpns #1",
+      "type": "vless",
+      "server": "tr.koomeh.net",
+      "server_port": 80,
+      "uuid": "ce6ae434-7ace-4ce8-851a-9321a9e5a0a6",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇹🇷 TR | VLESS | @v2ray_free_conf #1",
@@ -118,14 +126,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @v2ray_free_conf #2",
-      "type": "vless",
-      "server": "tery.aliyostd.com",
-      "server_port": 2096,
-      "uuid": "907772ba-dd82-40a8-8ccb-71a7cba854b6",
-      "packet_encoding": "xudp"
     }
   ],
   "route": {
