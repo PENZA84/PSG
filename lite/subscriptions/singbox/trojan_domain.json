@@ -93,9 +93,10 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇯🇵 JP | TROJAN | @red2ray #1",
+        "🇸🇬 SG | TROJAN | @red2ray #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
-        "🇽🇽 XX | TROJAN | @teamvpnpro #2"
+        "🇽🇽 XX | TROJAN | @teamvpnpro #2",
+        "🇩🇪 DE | TROJAN | @v2raych #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -106,9 +107,10 @@
         "همکاری_ملی",
         "جاویدشاه",
         "KingRezaPahlavi",
-        "🇯🇵 JP | TROJAN | @red2ray #1",
+        "🇸🇬 SG | TROJAN | @red2ray #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
-        "🇽🇽 XX | TROJAN | @teamvpnpro #2"
+        "🇽🇽 XX | TROJAN | @teamvpnpro #2",
+        "🇩🇪 DE | TROJAN | @v2raych #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -192,11 +194,11 @@
       }
     },
     {
-      "tag": "🇯🇵 JP | TROJAN | @red2ray #1",
+      "tag": "🇸🇬 SG | TROJAN | @red2ray #1",
       "type": "trojan",
-      "server": "certain-kit.rooster465.autos",
+      "server": "excited-alien.rooster465.autos",
       "server_port": 443,
-      "password": "JA96378052",
+      "password": "HW85960347",
       "tls": {
         "enabled": true,
         "server_name": "",
@@ -229,6 +231,22 @@
       "server": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
       "server_port": 443,
       "password": "c7f9b8f0-bfdb-11ee-a15c-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 DE | TROJAN | @v2raych #1",
+      "type": "trojan",
+      "server": "golden-fox.rooster465.autos",
+      "server_port": 443,
+      "password": "PD07395842",
       "tls": {
         "enabled": true,
         "server_name": "",
