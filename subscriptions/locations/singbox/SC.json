@@ -95,10 +95,12 @@
         "🇸🇨 SC | VLESS | @ehsawn8 #1",
         "🇸🇨 SC | VLESS | @freevirgoolnet #1",
         "🇸🇨 SC | VLESS | @jiedianf #1",
+        "🇸🇨 SC | VLESS | @orange_vpns #1",
         "🇸🇨 SC | VLESS | @outline_ir #1",
         "🇸🇨 SC | VLESS | @rez1vpn #1",
         "🇸🇨 SC | VLESS | @selinc #1",
-        "🇸🇨 SC | VLESS | @turboo_server #1"
+        "🇸🇨 SC | VLESS | @turboo_server #1",
+        "🇸🇨 SC | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -111,10 +113,12 @@
         "🇸🇨 SC | VLESS | @ehsawn8 #1",
         "🇸🇨 SC | VLESS | @freevirgoolnet #1",
         "🇸🇨 SC | VLESS | @jiedianf #1",
+        "🇸🇨 SC | VLESS | @orange_vpns #1",
         "🇸🇨 SC | VLESS | @outline_ir #1",
         "🇸🇨 SC | VLESS | @rez1vpn #1",
         "🇸🇨 SC | VLESS | @selinc #1",
-        "🇸🇨 SC | VLESS | @turboo_server #1"
+        "🇸🇨 SC | VLESS | @turboo_server #1",
+        "🇸🇨 SC | VLESS | @v2ray_free_conf #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -194,6 +198,14 @@
       }
     },
     {
+      "tag": "🇸🇨 SC | VLESS | @orange_vpns #1",
+      "type": "vless",
+      "server": "45.130.125.162",
+      "server_port": 2053,
+      "uuid": "e7961655-9674-4cbd-a36f-ec0d5d7d660c",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇸🇨 SC | VLESS | @outline_ir #1",
       "type": "vless",
       "server": "45.130.125.162",
@@ -251,6 +263,14 @@
       "server": "45.130.125.76",
       "server_port": 2053,
       "uuid": "b37be529-83c9-4851-a3cf-73d7d05bf308",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇸🇨 SC | VLESS | @v2ray_free_conf #1",
+      "type": "vless",
+      "server": "45.195.2.136",
+      "server_port": 8443,
+      "uuid": "0d0af68e-89ed-40d0-bfd0-bcf059b90e81",
       "packet_encoding": "xudp"
     }
   ],
