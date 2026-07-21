@@ -91,7 +91,7 @@
         "auto",
         "direct",
         "🇱🇹 LT | VLESS | @jiedianf #1",
-        "🇱🇹 LT | VLESS | @outline_ir #1",
+        "🇱🇹 LT | VLESS | @orange_vpns #1",
         "🇱🇹 LT | VLESS | @v2ray_collector #1"
       ],
       "tag": "proxy",
@@ -101,7 +101,7 @@
       "interval": "10m",
       "outbounds": [
         "🇱🇹 LT | VLESS | @jiedianf #1",
-        "🇱🇹 LT | VLESS | @outline_ir #1",
+        "🇱🇹 LT | VLESS | @orange_vpns #1",
         "🇱🇹 LT | VLESS | @v2ray_collector #1"
       ],
       "tag": "auto",
@@ -123,7 +123,7 @@
       "flow": "xtls-rprx-vision"
     },
     {
-      "tag": "🇱🇹 LT | VLESS | @outline_ir #1",
+      "tag": "🇱🇹 LT | VLESS | @orange_vpns #1",
       "type": "vless",
       "server": "89.116.250.135",
       "server_port": 443,
