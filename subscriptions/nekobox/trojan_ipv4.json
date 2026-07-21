@@ -84,6 +84,8 @@
         "🇽🇽 XX | TROJAN | @filtershekan_channel #1",
         "🇽🇽 XX | TROJAN | @filtershekan_channel #2",
         "🇽🇽 XX | TROJAN | @filtershekan_channel #3",
+        "🇽🇽 XX | TROJAN | @hope_net #1",
+        "🇽🇽 XX | TROJAN | @hope_net #2",
         "🇮🇪 IE | TROJAN | @jiedianf #1",
         "🇦🇹 AT | TROJAN | @mpproxy #1",
         "🇹🇷 TR | TROJAN | @netmellianti #1",
@@ -105,9 +107,9 @@
         "🇺🇸 US | TROJAN | @v2rayprotocol #1",
         "🇽🇽 XX | TROJAN | @v2rayprotocol #1",
         "🇽🇽 XX | TROJAN | @v_2rayng0 #1",
-        "🇽🇽 XX | TROJAN | @vmesc #1",
         "🇽🇽 XX | TROJAN | @vpn_ioss #1",
-        "🇽🇽 XX | TROJAN | @vpnfree85 #1"
+        "🇽🇽 XX | TROJAN | @vpnfree85 #1",
+        "🇽🇽 XX | TROJAN | @vpnowl #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -122,6 +124,8 @@
         "🇽🇽 XX | TROJAN | @filtershekan_channel #1",
         "🇽🇽 XX | TROJAN | @filtershekan_channel #2",
         "🇽🇽 XX | TROJAN | @filtershekan_channel #3",
+        "🇽🇽 XX | TROJAN | @hope_net #1",
+        "🇽🇽 XX | TROJAN | @hope_net #2",
         "🇮🇪 IE | TROJAN | @jiedianf #1",
         "🇦🇹 AT | TROJAN | @mpproxy #1",
         "🇹🇷 TR | TROJAN | @netmellianti #1",
@@ -143,9 +147,9 @@
         "🇺🇸 US | TROJAN | @v2rayprotocol #1",
         "🇽🇽 XX | TROJAN | @v2rayprotocol #1",
         "🇽🇽 XX | TROJAN | @v_2rayng0 #1",
-        "🇽🇽 XX | TROJAN | @vmesc #1",
         "🇽🇽 XX | TROJAN | @vpn_ioss #1",
-        "🇽🇽 XX | TROJAN | @vpnfree85 #1"
+        "🇽🇽 XX | TROJAN | @vpnfree85 #1",
+        "🇽🇽 XX | TROJAN | @vpnowl #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -286,6 +290,38 @@
       "server": "104.19.229.21",
       "server_port": 443,
       "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇽🇽 XX | TROJAN | @hope_net #1",
+      "type": "trojan",
+      "server": "104.17.147.22",
+      "server_port": 443,
+      "password": "cassiusvpn",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇽🇽 XX | TROJAN | @hope_net #2",
+      "type": "trojan",
+      "server": "162.159.152.9",
+      "server_port": 443,
+      "password": "tg-dns68",
       "tls": {
         "enabled": true,
         "server_name": "",
@@ -615,22 +651,6 @@
       }
     },
     {
-      "tag": "🇽🇽 XX | TROJAN | @vmesc #1",
-      "type": "trojan",
-      "server": "104.17.177.143",
-      "server_port": 443,
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
       "tag": "🇽🇽 XX | TROJAN | @vpn_ioss #1",
       "type": "trojan",
       "server": "104.18.32.47",
@@ -652,6 +672,22 @@
       "server": "188.114.97.6",
       "server_port": 443,
       "password": "mitivpn",
+      "tls": {
+        "enabled": true,
+        "server_name": "",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇽🇽 XX | TROJAN | @vpnowl #1",
+      "type": "trojan",
+      "server": "104.17.177.143",
+      "server_port": 443,
+      "password": "humanity",
       "tls": {
         "enabled": true,
         "server_name": "",
