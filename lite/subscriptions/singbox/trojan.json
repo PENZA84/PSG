@@ -107,8 +107,7 @@
         "🇽🇽 XX | TROJAN | @vpnfree85 #1",
         "🇽🇽 XX | TROJAN | @vpnowl #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
-        "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇨🇭 CH | TROJAN | @v2raych #1"
+        "🇽🇽 XX | TROJAN | @teamvpnpro #2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -133,8 +132,7 @@
         "🇽🇽 XX | TROJAN | @vpnfree85 #1",
         "🇽🇽 XX | TROJAN | @vpnowl #1",
         "🇽🇽 XX | TROJAN | @teamvpnpro #1",
-        "🇽🇽 XX | TROJAN | @teamvpnpro #2",
-        "🇨🇭 CH | TROJAN | @v2raych #1"
+        "🇽🇽 XX | TROJAN | @teamvpnpro #2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -447,13 +445,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇨🇭 CH | TROJAN | @v2raych #1",
-      "type": "trojan",
-      "server": "mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir",
-      "server_port": 43321,
-      "password": "----------------BanV2ray---------------"
     }
   ],
   "route": {
