@@ -90,9 +90,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇵🇱 PL | VLESS | @netfreedom0 #1",
-        "🇵🇱 PL | TROJAN | @v2raych #1",
-        "🇵🇱 PL | TROJAN | @v2raych #2"
+        "🇵🇱 PL | VLESS | @netfreedom0 #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -100,9 +98,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇵🇱 PL | VLESS | @netfreedom0 #1",
-        "🇵🇱 PL | TROJAN | @v2raych #1",
-        "🇵🇱 PL | TROJAN | @v2raych #2"
+        "🇵🇱 PL | VLESS | @netfreedom0 #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -120,38 +116,6 @@
       "server_port": 443,
       "uuid": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
       "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇵🇱 PL | TROJAN | @v2raych #1",
-      "type": "trojan",
-      "server": "ready-lion.rooster465.autos",
-      "server_port": 443,
-      "password": "NQ26071394",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "tag": "🇵🇱 PL | TROJAN | @v2raych #2",
-      "type": "trojan",
-      "server": "62.112.222.177",
-      "server_port": 443,
-      "password": "NQ26071394",
       "tls": {
         "enabled": true,
         "server_name": "",
