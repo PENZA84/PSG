@@ -124,19 +124,10 @@
     {
       "tag": "🇫🇮 FI | VLESS | @v2ray_free_conf #1",
       "type": "vless",
-      "server": "cz-play.montago-shop.ir",
-      "server_port": 443,
-      "uuid": "2d6a30d2-886e-4660-b1dc-82f587ca4cae",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
+      "server": "ch.sv.temas-bor.ir",
+      "server_port": 22004,
+      "uuid": "7512ace9-cdf2-40d2-9f7f-55a91c0193ca",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇫🇮 FI | VLESS | @v2rayopen #1",
