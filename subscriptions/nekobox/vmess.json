@@ -102,6 +102,7 @@
         "🇽🇽 XX | VMESS | @serverv2ray00 #1",
         "🇦🇺 AU | VMESS | @serverv2ray00 #1",
         "🇺🇸 US | VMESS | @v2ray4win #1",
+        "🇺🇸 US | VMESS | @v2ray4win #2",
         "🇮🇷 IR | VMESS | @v2rayng3 #1",
         "🇮🇷 IR | VMESS | @v2rayngvpn_1 #1",
         "🇺🇸 US | VMESS | @vpngate_config #1"
@@ -137,6 +138,7 @@
         "🇽🇽 XX | VMESS | @serverv2ray00 #1",
         "🇦🇺 AU | VMESS | @serverv2ray00 #1",
         "🇺🇸 US | VMESS | @v2ray4win #1",
+        "🇺🇸 US | VMESS | @v2ray4win #2",
         "🇮🇷 IR | VMESS | @v2rayng3 #1",
         "🇮🇷 IR | VMESS | @v2rayngvpn_1 #1",
         "🇺🇸 US | VMESS | @vpngate_config #1"
@@ -676,6 +678,31 @@
     },
     {
       "tag": "🇺🇸 US | VMESS | @v2ray4win #1",
+      "type": "vmess",
+      "server": "45.85.118.88",
+      "server_port": 443,
+      "uuid": "ee30d3ff-da14-4ea8-bcd2-02e8ee3667de",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "hstr1675520106270.aidapp.life",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/aidapp.lifevws",
+        "headers": {
+          "Host": "hstr1675520106270.aidapp.life"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US | VMESS | @v2ray4win #2",
       "type": "vmess",
       "server": "cf.sudoer.net",
       "server_port": 443,

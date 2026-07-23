@@ -526,14 +526,14 @@
     {
       "tag": "🇺🇸 US | VMESS | @v2ray4win #1",
       "type": "vmess",
-      "server": "cf.sudoer.net",
+      "server": "45.85.118.88",
       "server_port": 443,
-      "uuid": "c11357eb-a34e-5acb-a309-f8af8082855c",
+      "uuid": "ee30d3ff-da14-4ea8-bcd2-02e8ee3667de",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "801e2436-ae96-11ed-861a-17254ac8cccc.schere.net",
+        "server_name": "hstr1675520106270.aidapp.life",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -542,9 +542,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/api05",
+        "path": "/aidapp.lifevws",
         "headers": {
-          "Host": "scherehtzflk01.schere.net"
+          "Host": "hstr1675520106270.aidapp.life"
         }
       }
     },
