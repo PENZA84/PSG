@@ -97,7 +97,7 @@
         "🇺🇸 US | VLESS | @ehsawn8 #1",
         "🇽🇽 XX | VLESS | @evay_vpn #3",
         "🇺🇸 US | VLESS | @free4allvpn #1",
-        "🇹🇷 TR | VLESS | @netmellianti #3",
+        "🇹🇷 TR | VLESS | @netmellianti #1",
         "🇺🇸 US | TROJAN | @nofiltering2 #1",
         "🇽🇽 XX | VLESS | @proxie #1",
         "🇽🇽 XX | VLESS | @proxie #2",
@@ -109,6 +109,7 @@
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇸🇨 SC | VLESS | @turboo_server #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
+        "🇮🇷 IR | VLESS | @v2raych #1",
         "🇽🇽 XX | VLESS | @v2rayngconfiig #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇺🇸 US | VLESS | @v_2rayng0 #1",
@@ -127,7 +128,7 @@
         "🇺🇸 US | VLESS | @ehsawn8 #1",
         "🇽🇽 XX | VLESS | @evay_vpn #3",
         "🇺🇸 US | VLESS | @free4allvpn #1",
-        "🇹🇷 TR | VLESS | @netmellianti #3",
+        "🇹🇷 TR | VLESS | @netmellianti #1",
         "🇺🇸 US | TROJAN | @nofiltering2 #1",
         "🇽🇽 XX | VLESS | @proxie #1",
         "🇽🇽 XX | VLESS | @proxie #2",
@@ -139,6 +140,7 @@
         "🇺🇸 US | VLESS | @qeshmserver #1",
         "🇸🇨 SC | VLESS | @turboo_server #1",
         "🇽🇽 XX | VLESS | @v2ray_youtube #3",
+        "🇮🇷 IR | VLESS | @v2raych #1",
         "🇽🇽 XX | VLESS | @v2rayngconfiig #1",
         "🇺🇸 US | VLESS | @v2rayngconfiig #1",
         "🇺🇸 US | VLESS | @v_2rayng0 #1",
@@ -276,7 +278,7 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇹🇷 TR | VLESS | @netmellianti #3",
+      "tag": "🇹🇷 TR | VLESS | @netmellianti #1",
       "type": "vless",
       "server": "212.87.198.123",
       "server_port": 443,
@@ -449,6 +451,14 @@
       "server": "104.26.14.137",
       "server_port": 8443,
       "uuid": "8ee19304-fdf4-43dd-ab77-133a77d349ed",
+      "packet_encoding": "xudp"
+    },
+    {
+      "tag": "🇮🇷 IR | VLESS | @v2raych #1",
+      "type": "vless",
+      "server": "62.220.123.75",
+      "server_port": 8443,
+      "uuid": "18d4cc55-beee-444d-be16-f59d16c6b884",
       "packet_encoding": "xudp"
     },
     {
