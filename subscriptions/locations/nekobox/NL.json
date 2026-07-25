@@ -80,9 +80,10 @@
         "🇳🇱 NL | VLESS | @configv2rayforfree #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇳🇱 NL | VLESS | @mehrosaboran #1",
+        "🇳🇱 NL | VLESS | @netmellianti #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇳🇱 NL | VLESS | @qeshmserver #1",
-        "🇳🇱 NL | VLESS | @v2raych #1",
+        "🇳🇱 NL | TROJAN | @red2ray #1",
         "🇳🇱 NL | TROJAN | @vmesc #1",
         "🇳🇱 NL | VLESS | @vpnowl #1"
       ],
@@ -95,9 +96,10 @@
         "🇳🇱 NL | VLESS | @configv2rayforfree #1",
         "🇳🇱 NL | SS | @easy_free_vpn #1",
         "🇳🇱 NL | VLESS | @mehrosaboran #1",
+        "🇳🇱 NL | VLESS | @netmellianti #1",
         "🇳🇱 NL | SS | @outlinereleasedkey #1",
         "🇳🇱 NL | VLESS | @qeshmserver #1",
-        "🇳🇱 NL | VLESS | @v2raych #1",
+        "🇳🇱 NL | TROJAN | @red2ray #1",
         "🇳🇱 NL | TROJAN | @vmesc #1",
         "🇳🇱 NL | VLESS | @vpnowl #1"
       ],
@@ -148,6 +150,14 @@
       }
     },
     {
+      "tag": "🇳🇱 NL | VLESS | @netmellianti #1",
+      "type": "vless",
+      "server": "de.pub.accuratenetworkchecker.ir",
+      "server_port": 2053,
+      "uuid": "StableInternet",
+      "packet_encoding": "xudp"
+    },
+    {
       "tag": "🇳🇱 NL | SS | @outlinereleasedkey #1",
       "type": "shadowsocks",
       "server": "193.29.139.235",
@@ -173,12 +183,11 @@
       }
     },
     {
-      "tag": "🇳🇱 NL | VLESS | @v2raych #1",
-      "type": "vless",
-      "server": "146.103.113.158",
+      "tag": "🇳🇱 NL | TROJAN | @red2ray #1",
+      "type": "trojan",
+      "server": "renewed-chigger.rooster465.autos",
       "server_port": 443,
-      "uuid": "0c31f14f-5339-49e1-e5d6-85a600000002",
-      "packet_encoding": "xudp",
+      "password": "XG59623478",
       "tls": {
         "enabled": true,
         "server_name": "",
