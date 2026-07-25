@@ -90,8 +90,9 @@
       "outbounds": [
         "auto",
         "direct",
-        "🇫🇮 FI | VLESS | @netmellianti #1",
-        "🇫🇮 FI | VLESS | @v2rayopen #1"
+        "🇫🇮 FI | VLESS | @evay_vpn #1",
+        "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇫🇮 FI | VLESS | @netmellianti #1"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -99,8 +100,9 @@
     {
       "interval": "10m",
       "outbounds": [
-        "🇫🇮 FI | VLESS | @netmellianti #1",
-        "🇫🇮 FI | VLESS | @v2rayopen #1"
+        "🇫🇮 FI | VLESS | @evay_vpn #1",
+        "🇫🇮 FI | VLESS | @netfreedom0 #1",
+        "🇫🇮 FI | VLESS | @netmellianti #1"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -112,19 +114,19 @@
       "type": "direct"
     },
     {
-      "tag": "🇫🇮 FI | VLESS | @netmellianti #1",
+      "tag": "🇫🇮 FI | VLESS | @evay_vpn #1",
       "type": "vless",
-      "server": "65.109.187.194",
-      "server_port": 8888,
-      "uuid": "d233e659-98c9-445d-9a77-b9391f5e1f01",
+      "server": "s1.esantion.info",
+      "server_port": 24206,
+      "uuid": "b90bc52c-d95b-49d2-8061-598ddb44e288",
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇫🇮 FI | VLESS | @v2rayopen #1",
+      "tag": "🇫🇮 FI | VLESS | @netfreedom0 #1",
       "type": "vless",
-      "server": "fn2-unlimited.pavilof.ir",
-      "server_port": 1020,
-      "uuid": "37182b68-6422-4414-9518-7df6776c0150",
+      "server": "mx.bexumconnect.ltd",
+      "server_port": 443,
+      "uuid": "1e06c388-d31c-420e-916a-94a990648e34",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -133,13 +135,16 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇫🇮 FI | VLESS | @netmellianti #1",
+      "type": "vless",
+      "server": "65.109.187.194",
+      "server_port": 8888,
+      "uuid": "d233e659-98c9-445d-9a77-b9391f5e1f01",
+      "packet_encoding": "xudp"
     }
   ],
   "route": {
