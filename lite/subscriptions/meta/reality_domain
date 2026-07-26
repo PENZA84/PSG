@@ -29,7 +29,7 @@ proxies:
   - {"name": "🇦🇪 AE | VLESS | @filterk0sh #1", "server": "eng14.netliberated.org", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "0bb6dff2-0029-4b81-8c81-4fc70fae1ed9", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
   - {"name": "🇷🇺 RU | VLESS | @flyv2ray #1", "server": "qq.utiltools.ru", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "eb78e1f0-d921-4ca9-a889-261fcc5a0547", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
   - {"name": "🇷🇺 RU | VLESS | @mtproxy22_v2ray #1", "server": "qq.utiltools.ru", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "eb78e1f0-d921-4ca9-a889-261fcc5a0547", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇳🇱 NL | VLESS | @red2ray #1", "server": "cdn.netraidly.ru", "port": 40443, "type": "vless", "skip-cert-verify": true, "uuid": "4bf5a71c-d726-4585-b095-7396675706d5", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
+  - {"name": "🇷🇺 RU | VLESS | @v2raymelliii #1", "server": "qq.utiltools.ru", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "eb78e1f0-d921-4ca9-a889-261fcc5a0547", "network": "tcp", "tls": true, "udp": true, "client-fingerprint": "chrome", "reality-opts": {"public-key": "", "short-id": ""}}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -49,7 +49,7 @@ proxy-groups:
       - '🇦🇪 AE | VLESS | @filterk0sh #1'
       - '🇷🇺 RU | VLESS | @flyv2ray #1'
       - '🇷🇺 RU | VLESS | @mtproxy22_v2ray #1'
-      - '🇳🇱 NL | VLESS | @red2ray #1'
+      - '🇷🇺 RU | VLESS | @v2raymelliii #1'
 
   - name: 🌍 Global Media
     type: select
