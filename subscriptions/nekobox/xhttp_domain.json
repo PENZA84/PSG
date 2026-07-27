@@ -82,14 +82,11 @@
         "KingRezaPahlavi",
         "🇨🇭 CH | VLESS | @bored_vpn #1",
         "🇳🇱 NL | VLESS | @configv2rayforfree #1",
-        "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇳🇱 NL | VLESS | @free1_vpn #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇳🇱 NL | VLESS | @mehrosaboran #1",
         "🇺🇸 US | VLESS | @nofilter_v2rayng #1",
         "🇽🇽 XX | VLESS | @proxy_confiingir #2",
-        "🇫🇷 FR | VLESS | @v2ray_free_conf #1",
-        "🇩🇪 DE | VLESS | @v2rayngvpn_1 #2",
         "🇹🇷 TR | VLESS | @vmesc #1"
       ],
       "tag": "proxy",
@@ -103,14 +100,11 @@
         "KingRezaPahlavi",
         "🇨🇭 CH | VLESS | @bored_vpn #1",
         "🇳🇱 NL | VLESS | @configv2rayforfree #1",
-        "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
         "🇳🇱 NL | VLESS | @free1_vpn #1",
         "🇺🇸 US | VLESS | @kafing_2 #1",
         "🇳🇱 NL | VLESS | @mehrosaboran #1",
         "🇺🇸 US | VLESS | @nofilter_v2rayng #1",
         "🇽🇽 XX | VLESS | @proxy_confiingir #2",
-        "🇫🇷 FR | VLESS | @v2ray_free_conf #1",
-        "🇩🇪 DE | VLESS | @v2rayngvpn_1 #2",
         "🇹🇷 TR | VLESS | @vmesc #1"
       ],
       "tag": "auto",
@@ -215,14 +209,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇨🇾 CY | VLESS | @eliteproxyv2 #1",
-      "type": "vless",
-      "server": "germany.fast.hosting-ip.com",
-      "server_port": 80,
-      "uuid": "55d7c587-7d65-4cd2-a51a-0a7fb6a63285",
-      "packet_encoding": "xudp"
-    },
-    {
       "tag": "🇳🇱 NL | VLESS | @free1_vpn #1",
       "type": "vless",
       "server": "dey.lnmarketplace.net",
@@ -288,36 +274,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇫🇷 FR | VLESS | @v2ray_free_conf #1",
-      "type": "vless",
-      "server": "s763.googleecosystem.com",
-      "server_port": 443,
-      "uuid": "58e6177d-df5d-468b-9eb8-a56e3596416f",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "server_name": "",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
-        }
-      }
-    },
-    {
-      "tag": "🇩🇪 DE | VLESS | @v2rayngvpn_1 #2",
-      "type": "vless",
-      "server": "ge.smartboti.ir",
-      "server_port": 2082,
-      "uuid": "9c99019f-d868-4c91-8afc-16f152f3c1a2",
-      "packet_encoding": "xudp"
     },
     {
       "tag": "🇹🇷 TR | VLESS | @vmesc #1",
