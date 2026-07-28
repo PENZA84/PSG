@@ -407,7 +407,9 @@
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg",
         "types": [
             "ss",
-            "vless"
+            "trojan",
+            "vless",
+            "vmess"
         ]
     },
     "imhdiyvp": {
@@ -873,7 +875,10 @@
     "nn_vpn": {
         "title": "‌🇳‌‌🇳‌_‌🇻‌‌🇵‌‌🇳‌",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/nn_vpn.jpg",
-        "types": []
+        "types": [
+            "vless",
+            "vmess"
+        ]
     },
     "nofilter_v2rayng": {
         "title": "سرور کانفیگ رایگان | v2ray",
@@ -1356,8 +1361,7 @@
         "types": [
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ]
     },
     "v2rayexpress": {
