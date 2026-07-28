@@ -78,8 +78,8 @@
         "auto",
         "direct",
         "🇫🇮 FI | VLESS | @evay_vpn #1",
+        "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇫🇮 FI | VLESS | @netmellianti #1",
-        "🇫🇮 FI | VLESS | @red2ray #1",
         "🇫🇮 FI | VLESS | @vmesc #1"
       ],
       "tag": "proxy",
@@ -89,8 +89,8 @@
       "interval": "10m",
       "outbounds": [
         "🇫🇮 FI | VLESS | @evay_vpn #1",
+        "🇫🇮 FI | VLESS | @netfreedom0 #1",
         "🇫🇮 FI | VLESS | @netmellianti #1",
-        "🇫🇮 FI | VLESS | @red2ray #1",
         "🇫🇮 FI | VLESS | @vmesc #1"
       ],
       "tag": "auto",
@@ -115,19 +115,11 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "🇫🇮 FI | VLESS | @netmellianti #1",
+      "tag": "🇫🇮 FI | VLESS | @netfreedom0 #1",
       "type": "vless",
-      "server": "storage.vipdatanetwork.com",
-      "server_port": 24504,
-      "uuid": "6682b6ba-0dd1-42a7-b3f6-05d0f545a98c",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇫🇮 FI | VLESS | @red2ray #1",
-      "type": "vless",
-      "server": "62.238.44.10",
-      "server_port": 50653,
-      "uuid": "c913aaad-7c27-4639-a830-5c99c79da80e",
+      "server": "mx.bexumconnect.ltd",
+      "server_port": 443,
+      "uuid": "1e06c388-d31c-420e-916a-94a990648e34",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
@@ -136,13 +128,16 @@
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        },
-        "reality": {
-          "public_key": "",
-          "short_id": "",
-          "enabled": true
         }
       }
+    },
+    {
+      "tag": "🇫🇮 FI | VLESS | @netmellianti #1",
+      "type": "vless",
+      "server": "storage.vipdatanetwork.com",
+      "server_port": 24504,
+      "uuid": "6682b6ba-0dd1-42a7-b3f6-05d0f545a98c",
+      "packet_encoding": "xudp"
     },
     {
       "tag": "🇫🇮 FI | VLESS | @vmesc #1",
