@@ -24,6 +24,8 @@ dns:
 
 proxies: 
   - {"name": "🇦🇹 AT | TROJAN | @mpproxy #1", "server": "152.53.45.251", "port": 8888, "type": "trojan", "skip-cert-verify": false, "password": "trojan"}
+  - {"name": "🇦🇹 AT | VLESS | @v2raych #1", "server": "62.60.238.19", "port": 53945, "type": "vless", "skip-cert-verify": true, "uuid": "c57a318c-04b5-4f95-9439-f47aa4b6b585", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
+  - {"name": "🇦🇹 AT | VLESS | @v2raych #2", "server": "62.60.238.19", "port": 57211, "type": "vless", "skip-cert-verify": true, "uuid": "34a6814b-6555-4a60-ba00-04ada451c7da", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -38,6 +40,8 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇦🇹 AT | TROJAN | @mpproxy #1'
+      - '🇦🇹 AT | VLESS | @v2raych #1'
+      - '🇦🇹 AT | VLESS | @v2raych #2'
 
   - name: 🌍 Global Media
     type: select
