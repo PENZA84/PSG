@@ -94,8 +94,6 @@
         "🇹🇷 TR | VLESS | @NamiraConfigs #1",
         "🇹🇷 TR | VLESS | @netmellianti #1",
         "🇹🇷 TR | VLESS | @netmellianti #2",
-        "🇹🇷 TR | VLESS | @v2raych #1",
-        "🇹🇷 TR | VLESS | @v2raych #2",
         "🇹🇷 TR | VLESS | @vmesskhodam #1"
       ],
       "tag": "proxy",
@@ -108,8 +106,6 @@
         "🇹🇷 TR | VLESS | @NamiraConfigs #1",
         "🇹🇷 TR | VLESS | @netmellianti #1",
         "🇹🇷 TR | VLESS | @netmellianti #2",
-        "🇹🇷 TR | VLESS | @v2raych #1",
-        "🇹🇷 TR | VLESS | @v2raych #2",
         "🇹🇷 TR | VLESS | @vmesskhodam #1"
       ],
       "tag": "auto",
@@ -171,22 +167,6 @@
           "fingerprint": "chrome"
         }
       }
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @v2raych #1",
-      "type": "vless",
-      "server": "panel.jorgotr.ir",
-      "server_port": 20697,
-      "uuid": "a3bf5677-eaa6-42c5-959c-38cfdcd58d48",
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "🇹🇷 TR | VLESS | @v2raych #2",
-      "type": "vless",
-      "server": "panel.jorgotr.ir",
-      "server_port": 20697,
-      "uuid": "a3bf5677-eaa6-42c5-959c-38cfdcd58d48",
-      "packet_encoding": "xudp"
     },
     {
       "tag": "🇹🇷 TR | VLESS | @vmesskhodam #1",

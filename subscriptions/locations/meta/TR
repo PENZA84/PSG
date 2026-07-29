@@ -27,8 +27,6 @@ proxies:
   - {"name": "🇹🇷 TR | VLESS | @NamiraConfigs #1", "server": "nodde.soft88.site", "port": 45141, "type": "vless", "skip-cert-verify": true, "uuid": "dce873e4-10be-4d1b-ae61-8b0d551d5bec", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇹🇷 TR | VLESS | @netmellianti #1", "server": "abqwe.gfdcty.ir", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "eeb75ded-02ad-4e8f-9bb1-ccc5cd96e7cc", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇹🇷 TR | VLESS | @netmellianti #2", "server": "abqwe.gfdcty.ir", "port": 443, "type": "vless", "skip-cert-verify": true, "uuid": "eeb75ded-02ad-4e8f-9bb1-ccc5cd96e7cc", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇹🇷 TR | VLESS | @v2raych #1", "server": "panel.jorgotr.ir", "port": 20697, "type": "vless", "skip-cert-verify": true, "uuid": "a3bf5677-eaa6-42c5-959c-38cfdcd58d48", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
-  - {"name": "🇹🇷 TR | VLESS | @v2raych #2", "server": "panel.jorgotr.ir", "port": 20697, "type": "vless", "skip-cert-verify": true, "uuid": "a3bf5677-eaa6-42c5-959c-38cfdcd58d48", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
   - {"name": "🇹🇷 TR | VLESS | @vmesskhodam #1", "server": "185.39.204.155", "port": 8443, "type": "vless", "skip-cert-verify": true, "uuid": "1f29762d-3f23-4207-9e39-f774de5d49ba", "network": "tcp", "tls": false, "udp": true, "client-fingerprint": "chrome"}
 
 proxy-groups:
@@ -47,8 +45,6 @@ proxy-groups:
       - '🇹🇷 TR | VLESS | @NamiraConfigs #1'
       - '🇹🇷 TR | VLESS | @netmellianti #1'
       - '🇹🇷 TR | VLESS | @netmellianti #2'
-      - '🇹🇷 TR | VLESS | @v2raych #1'
-      - '🇹🇷 TR | VLESS | @v2raych #2'
       - '🇹🇷 TR | VLESS | @vmesskhodam #1'
 
   - name: 🌍 Global Media
